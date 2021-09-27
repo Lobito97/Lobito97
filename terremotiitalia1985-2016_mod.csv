@@ -1,0 +1,1493 @@
+Comune,Provincia,Regione,Longitudine,Latitudine,Profondita',Magnitudo,Unita' misura Magnitudo,Ora,Data,Mese,Anno,Range
+Giaveno,TORINO,Piemonte,7.365,45.016,11,4.3,Mw,31:20.5,25/07/2011,Luglio,2011,Medium intensity
+Pocapaglia,CUNEO,Piemonte,7.868,44.735,45.3,4.1,ML,39:50.1,19/04/2009,Aprile,2009,Medium intensity
+Melle,CUNEO,Piemonte,7.327,44.545,10.3,3.5,Md,19:28.4,25/03/2005,Marzo,2005,Low intensity
+Demonte,CUNEO,Piemonte,7.275,44.361,15.2,3.9,ML,06:39.2,24/10/2008,Ottobre,2008,Low intensity
+Naturno,BOLZANO,Trentino-Alto Adige,11.049,46.626,3.5,4.8,Md,06:15.0,17/07/2001,Luglio,2001,Medium intensity
+Gignod,AOSTA,Valle d'Aosta,7.281,45.801,5,3.9,Md,08:03.8,31/03/1996,Marzo,1996,Low intensity
+Pozzol Groppo,ALESSANDRIA,Piemonte,9.024,44.88,11.1,3.6,ML,40:41.0,06/12/2014,Dicembre,2014,Low intensity
+Camporosso,IMPERIA,Liguria,7.592,43.832,10,3.5,ML,21:29.3,02/09/2006,Settembre,2006,Low intensity
+Morgex,AOSTA,Valle d'Aosta,7.013,45.77,5,3.5,Md,37:29.1,19/08/2000,Agosto,2000,Low intensity
+Calliano (TN),TRENTO,Trentino-Alto Adige,11.099,45.922,2.4,3.7,Md,53:45.5,26/04/1999,Aprile,1999,Low intensity
+Quargnento,ALESSANDRIA,Piemonte,8.466,44.943,10.1,4,Md,47:11.8,18/07/2001,Luglio,2001,Low intensity
+Quattordio,ALESSANDRIA,Piemonte,8.388,44.908,5,4.8,Md,14:28.3,21/08/2000,Agosto,2000,Medium intensity
+Ortonovo,LA SPEZIA,Liguria,10.062,44.09,5.7,5.1,Mw,33:56.1,21/06/2013,Giugno,2013,High intensity
+Rezzoaglio,GENOVA,Liguria,9.354,44.494,10.8,4,Mw,15:07.0,05/03/2012,Marzo,2012,Low intensity
+Rezzoaglio,GENOVA,Liguria,9.393,44.521,5.1,4,ML,11:18.9,20/10/2011,Ottobre,2011,Low intensity
+Rezzoaglio,GENOVA,Liguria,9.416,44.528,7.9,3.7,ML,10:51.8,20/10/2011,Ottobre,2011,Low intensity
+Santo Stefano d'Aveto,GENOVA,Liguria,9.445,44.536,6.8,3.6,Mw,34:25.2,30/11/2014,Novembre,2014,Low intensity
+Ventimiglia,IMPERIA,Liguria,7.546,43.603,10,4.1,Md,34:43.7,25/02/2001,Febbraio,2001,Medium intensity
+Morrone del Sannio,CAMPOBASSO,Molise,14.771,41.688,20.8,3.6,ML,41:44.3,17/09/2011,Settembre,2011,Low intensity
+Morrone del Sannio,CAMPOBASSO,Molise,14.766,41.71,5,3.5,Md,03:46.6,27/01/2003,Gennaio,2003,Low intensity
+Morrone del Sannio,CAMPOBASSO,Molise,14.805,41.741,10,4.1,Md,26:30.4,04/11/2002,Novembre,2002,Medium intensity
+Morrone del Sannio,CAMPOBASSO,Molise,14.802,41.725,10,3.5,Md,20:36.8,02/11/2002,Novembre,2002,Low intensity
+Provvidenti,CAMPOBASSO,Molise,14.841,41.719,10,5.3,ML MEDNET,09:02.0,01/11/2002,Novembre,2002,High intensity
+Sant'Elia a Pianisi,CAMPOBASSO,Molise,14.849,41.64,5,3.8,Md,31:38.3,30/12/2003,Dicembre,2003,Low intensity
+Sant'Elia a Pianisi,CAMPOBASSO,Molise,14.821,41.661,11.8,4.1,Md,45:18.0,01/06/2003,Giugno,2003,Medium intensity
+Sant'Elia a Pianisi,CAMPOBASSO,Molise,14.887,41.682,10,3.9,Md,27:59.6,02/11/2002,Novembre,2002,Low intensity
+Sant'Elia a Pianisi,CAMPOBASSO,Molise,14.875,41.654,10,3.5,Md,27:25.7,01/11/2002,Novembre,2002,Low intensity
+Sant'Elia a Pianisi,CAMPOBASSO,Molise,14.911,41.669,10,3.5,Md,56:56.4,31/10/2002,Ottobre,2002,Low intensity
+Sant'Elia a Pianisi,CAMPOBASSO,Molise,14.893,41.684,10,3.7,Md,56:43.2,31/10/2002,Ottobre,2002,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.804,41.684,18.7,3.8,ML,08:58.7,20/12/2013,Dicembre,2013,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.817,41.695,17.1,3.8,Mw,25:45.7,18/10/2007,Ottobre,2007,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.795,41.649,5.9,3.8,Md,53:07.0,02/05/2003,Maggio,2003,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.855,41.668,10,3.8,Md,52:59.2,02/12/2002,Dicembre,2002,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.79,41.659,10,3.6,Md,46:08.8,12/11/2002,Novembre,2002,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.799,41.679,10,4.2,Md,27:48.9,12/11/2002,Novembre,2002,Medium intensity
+Ripabottoni,CAMPOBASSO,Molise,14.869,41.702,10,4.2,Md,35:46.8,04/11/2002,Novembre,2002,Medium intensity
+Ripabottoni,CAMPOBASSO,Molise,14.804,41.7,10,3.8,Md,21:44.6,02/11/2002,Novembre,2002,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.849,41.686,10,3.6,Md,28:00.4,01/11/2002,Novembre,2002,Low intensity
+Ripabottoni,CAMPOBASSO,Molise,14.853,41.686,10,3.7,Md,03:47.9,31/10/2002,Ottobre,2002,Low intensity
+Sepino,CAMPOBASSO,Molise,14.624,41.395,5.9,3.5,Md,42:25.6,17/04/1997,Aprile,1997,Low intensity
+Sepino,CAMPOBASSO,Molise,14.629,41.382,9.5,4.1,Md,10:49.2,19/03/1997,Marzo,1997,Medium intensity
+Sepino,CAMPOBASSO,Molise,14.575,41.403,5,3.5,Md,21:11.2,07/04/1996,Aprile,1996,Low intensity
+Alfedena,L'AQUILA,Abruzzo,14.025,41.723,6.5,3.6,Md,37:28.4,18/12/2002,Dicembre,2002,Low intensity
+Barete,L'AQUILA,Abruzzo,13.312,42.477,11.1,3.6,Mw,40:06.1,09/04/2009,Aprile,2009,Low intensity
+Tortorella,SALERNO,Campania,15.605,40.117,298.1,3.7,ML,32:45.9,13/11/2014,Novembre,2014,Low intensity
+Casola in Lunigiana,MASSA-CARRARA,Toscana,10.19,44.176,9.3,3.5,Mw,18:55.1,14/08/2013,Agosto,2013,Low intensity
+Casola in Lunigiana,MASSA-CARRARA,Toscana,10.19,44.184,6.8,3.5,Mw,18:53.0,30/06/2013,Giugno,2013,Low intensity
+Casola in Lunigiana,MASSA-CARRARA,Toscana,10.187,44.16,6.1,4.5,Mw,40:08.5,30/06/2013,Giugno,2013,Medium intensity
+Casola in Lunigiana,MASSA-CARRARA,Toscana,10.174,44.158,6.8,3.5,Mw,13:41.7,23/06/2013,Giugno,2013,Low intensity
+Fivizzano,MASSA-CARRARA,Toscana,10.107,44.202,10,3.5,ML,34:06.9,12/07/2013,Luglio,2013,Low intensity
+Fivizzano,MASSA-CARRARA,Toscana,10.148,44.156,9.4,3.5,Mw,23:22.5,21/06/2013,Giugno,2013,Low intensity
+Fivizzano,MASSA-CARRARA,Toscana,10.146,44.159,10,3.6,Mw,58:26.0,21/06/2013,Giugno,2013,Low intensity
+Fivizzano,MASSA-CARRARA,Toscana,10.132,44.177,9.1,3.6,Mw,19:59.0,21/06/2013,Giugno,2013,Low intensity
+Fivizzano,MASSA-CARRARA,Toscana,10.135,44.162,8.1,4,Mw,12:39.7,21/06/2013,Giugno,2013,Low intensity
+Aldeno,TRENTO,Trentino-Alto Adige,11.078,45.966,5,3.5,Md,43:56.1,18/12/2001,Dicembre,2001,Low intensity
+Zeri,MASSA-CARRARA,Toscana,9.81,44.342,72.2,4,Mw,19:30.6,26/03/2008,Marzo,2008,Low intensity
+Barga,LUCCA,Toscana,10.56,44.135,4.4,4.1,Md,53:09.4,24/12/1997,Dicembre,1997,Medium intensity
+Aulla,MASSA-CARRARA,Toscana,10.002,44.183,5,3.8,Md,09:28.1,11/07/1996,Luglio,1996,Low intensity
+Montegallo,ASCOLI PICENO,Marche,13.365,42.829,5,3.9,Md,40:50.7,15/05/1997,Maggio,1997,Low intensity
+Avio,TRENTO,Trentino-Alto Adige,10.911,45.712,9.5,3.8,Mw,13:34.3,29/10/2011,Ottobre,2011,Low intensity
+Pizzoli,L'AQUILA,Abruzzo,13.352,42.452,16.3,3.9,Mw,14:57.6,24/09/2009,Settembre,2009,Low intensity
+Pizzoli,L'AQUILA,Abruzzo,13.352,42.466,11,3.6,ML,35:08.6,23/06/2009,Giugno,2009,Low intensity
+Pizzoli,L'AQUILA,Abruzzo,13.354,42.445,13.8,4.4,Mw,58:40.3,22/06/2009,Giugno,2009,Medium intensity
+Pizzoli,L'AQUILA,Abruzzo,13.385,42.463,9.7,5,Mw,15:36.8,06/04/2009,Aprile,2009,Medium intensity
+Rocca di Cambio,L'AQUILA,Abruzzo,13.495,42.248,9.6,3.9,Mw,05:40.0,31/07/2009,Luglio,2009,Low intensity
+Rocca di Cambio,L'AQUILA,Abruzzo,13.486,42.228,9.7,4.2,Mw,49:00.8,23/04/2009,Aprile,2009,Medium intensity
+Rocca di Cambio,L'AQUILA,Abruzzo,13.484,42.247,10.3,4,Mw,14:08.3,23/04/2009,Aprile,2009,Low intensity
+Rocca di Mezzo,L'AQUILA,Abruzzo,13.4,42.177,9,3.7,ML,38:58.3,04/07/2010,Luglio,2010,Low intensity
+Rocca di Mezzo,L'AQUILA,Abruzzo,13.52,42.239,9.1,3.5,ML,30:50.8,22/01/2010,Gennaio,2010,Low intensity
+Sampeyre,CUNEO,Piemonte,7.234,44.584,9.8,3.8,Mw,20:43.6,03/10/2012,Ottobre,2012,Low intensity
+Barcis,PORDENONE,Friuli-Venezia Giulia,12.488,46.18,6.9,4,Mw,04:56.6,09/06/2012,Giugno,2012,Low intensity
+Claut,PORDENONE,Friuli-Venezia Giulia,12.569,46.271,7.3,3.5,ML,16:38.0,26/02/2007,Febbraio,2007,Low intensity
+Claut,PORDENONE,Friuli-Venezia Giulia,12.585,46.251,9.4,3.7,ML,50:45.7,26/02/2007,Febbraio,2007,Low intensity
+Claut,PORDENONE,Friuli-Venezia Giulia,12.627,46.319,5,4.3,Md,00:22.8,13/04/1996,Aprile,1996,Medium intensity
+Tornimparte,L'AQUILA,Abruzzo,13.259,42.341,9.7,3.8,Mw,19:33.8,09/04/2009,Aprile,2009,Low intensity
+Trasacco,L'AQUILA,Abruzzo,13.534,41.95,10.6,4.1,Mw,16:18.2,28/02/2015,Febbraio,2015,Medium intensity
+Casto,BRESCIA,Lombardia,10.293,45.675,2.9,3.6,Md,03:56.9,31/10/1999,Ottobre,1999,Low intensity
+Casasco,ALESSANDRIA,Piemonte,9.016,44.834,15,3.7,ML,34:58.3,29/02/2012,Febbraio,2012,Low intensity
+Cassano Spinola,ALESSANDRIA,Piemonte,8.868,44.758,8.2,4.5,Md,26:57.8,11/04/2003,Aprile,2003,Medium intensity
+Baiso,REGGIO EMILIA,Emilia-Romagna,10.618,44.512,6.1,4,Md,29:47.6,31/12/1995,Dicembre,1995,Low intensity
+Cadelbosco di Sopra,REGGIO EMILIA,Emilia-Romagna,10.636,44.788,5,3.9,Md,18:25.1,15/10/1996,Ottobre,1996,Low intensity
+Gattatico,REGGIO EMILIA,Emilia-Romagna,10.478,44.801,9.7,3.9,Mw,03:49.7,09/05/2007,Maggio,2007,Low intensity
+Guastalla,REGGIO EMILIA,Emilia-Romagna,10.73,44.898,10,3.7,ML MEDNET,47:54.5,25/11/1996,Novembre,1996,Low intensity
+Novellara,REGGIO EMILIA,Emilia-Romagna,10.703,44.808,5,4.5,Md,42:07.2,18/06/2000,Giugno,2000,Medium intensity
+Novellara,REGGIO EMILIA,Emilia-Romagna,10.731,44.801,5,4,Md,21:12.0,21/02/1998,Febbraio,1998,Low intensity
+Novellara,REGGIO EMILIA,Emilia-Romagna,10.708,44.808,10.6,3.7,Md,09:52.3,16/12/1996,Dicembre,1996,Low intensity
+Sansepolcro,AREZZO,Toscana,12.138,43.544,8.3,3.6,Mw,51:28.9,21/12/2014,Dicembre,2014,Low intensity
+Sansepolcro,AREZZO,Toscana,12.1,43.589,3.9,3.8,Md,34:12.4,26/11/2001,Novembre,2001,Low intensity
+Sansepolcro,AREZZO,Toscana,12.113,43.598,5,4.3,Md,56:54.8,26/11/2001,Novembre,2001,Medium intensity
+Sansepolcro,AREZZO,Toscana,12.167,43.638,3.3,3.5,Md,22:12.7,05/10/1997,Ottobre,1997,Low intensity
+Sansepolcro,AREZZO,Toscana,12.184,43.622,3.9,3.5,Md,20:54.0,04/10/1997,Ottobre,1997,Low intensity
+Sansepolcro,AREZZO,Toscana,12.188,43.62,5,3.6,Md,50:45.4,04/10/1997,Ottobre,1997,Low intensity
+Sansepolcro,AREZZO,Toscana,12.171,43.623,5.7,3.7,Md,28:09.2,04/10/1997,Ottobre,1997,Low intensity
+Sansepolcro,AREZZO,Toscana,12.173,43.595,3.8,3.5,Md,27:04.1,03/10/1997,Ottobre,1997,Low intensity
+Sansepolcro,AREZZO,Toscana,12.15,43.629,4.5,4,Md,38:42.2,02/10/1997,Ottobre,1997,Low intensity
+Sansepolcro,AREZZO,Toscana,12.163,43.616,5,4.1,Md,38:01.9,02/10/1997,Ottobre,1997,Medium intensity
+Sale Marasino,BRESCIA,Lombardia,10.129,45.704,5,4.2,Md,48:03.8,13/11/2002,Novembre,2002,Medium intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.693,44.766,3.3,3.6,Md,33:42.1,03/02/2000,Febbraio,2000,Low intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.665,44.761,5,3.7,Md,13:51.1,12/05/1997,Maggio,1997,Low intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.677,44.792,5.8,3.6,Md,56:55.2,26/10/1996,Ottobre,1996,Low intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.668,44.778,6,3.6,Md,02:02.0,20/10/1996,Ottobre,1996,Low intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.654,44.789,6.5,3.9,Md,24:30.4,16/10/1996,Ottobre,1996,Low intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.668,44.786,5,3.6,Md,19:44.9,15/10/1996,Ottobre,1996,Low intensity
+Bagnolo in Piano,REGGIO EMILIA,Emilia-Romagna,10.662,44.797,5,4.6,Md,56:00.7,15/10/1996,Ottobre,1996,Medium intensity
+Canossa,REGGIO EMILIA,Emilia-Romagna,10.407,44.519,23.2,3.6,ML,22:58.3,24/12/2008,Dicembre,2008,Low intensity
+Canossa,REGGIO EMILIA,Emilia-Romagna,10.355,44.527,23.7,4.4,Mw,58:26.6,23/12/2008,Dicembre,2008,Medium intensity
+Correggio,REGGIO EMILIA,Emilia-Romagna,10.73,44.784,5,3.5,Md,22:07.4,12/05/1997,Maggio,1997,Low intensity
+Correggio,REGGIO EMILIA,Emilia-Romagna,10.734,44.776,5,3.6,Md,07:00.8,15/10/1996,Ottobre,1996,Low intensity
+Mura,BRESCIA,Lombardia,10.339,45.716,1.5,3.7,ML,11:58.1,20/10/2006,Ottobre,2006,Low intensity
+Vobarno,BRESCIA,Lombardia,10.533,45.676,4.4,3.5,ML,51:40.9,14/07/2008,Luglio,2008,Low intensity
+Vobarno,BRESCIA,Lombardia,10.521,45.685,5.4,4.8,Mw,59:38.6,24/11/2004,Novembre,2004,Medium intensity
+Tizzano Val Parma,PARMA,Emilia-Romagna,10.133,44.51,19.5,4.1,ML,05:43.5,28/12/2007,Dicembre,2007,Medium intensity
+Varano de' Melegari,PARMA,Emilia-Romagna,10.069,44.687,5.7,3.8,Md,12:02.8,13/05/1998,Maggio,1998,Low intensity
+Toscolano-Maderno,BRESCIA,Lombardia,10.666,45.656,10,3.6,Mw,49:20.5,28/08/2014,Agosto,2014,Low intensity
+Casina,REGGIO EMILIA,Emilia-Romagna,10.494,44.529,10.1,3.7,ML MEDNET,23:46.2,28/11/1996,Novembre,1996,Low intensity
+Brallo di Pregola,PAVIA,Lombardia,9.317,44.694,8.7,3.5,ML,10:25.1,30/04/2005,Aprile,2005,Low intensity
+Valfurva,SONDRIO,Lombardia,10.429,46.425,5,3.8,Md,36:23.7,01/10/2001,Ottobre,2001,Low intensity
+Rivanazzano,PAVIA,Lombardia,9.049,44.912,20.5,3.7,ML,50:24.8,22/11/2013,Novembre,2013,Low intensity
+Rivanazzano,PAVIA,Lombardia,9.044,44.909,23.2,3.6,Mw,36:50.1,21/11/2013,Novembre,2013,Low intensity
+Zogno,BERGAMO,Lombardia,9.718,45.797,3.3,3.5,ML,13:42.4,11/05/2010,Maggio,2010,Low intensity
+Trasaghis,UDINE,Friuli-Venezia Giulia,13.043,46.298,5,3.8,Md,32:19.2,28/05/1998,Maggio,1998,Low intensity
+Treppo Carnico,UDINE,Friuli-Venezia Giulia,13.073,46.526,5,3.5,Md,49:42.1,27/05/1999,Maggio,1999,Low intensity
+Ampezzo,UDINE,Friuli-Venezia Giulia,12.779,46.375,5,3.6,Md,24:17.4,06/05/2002,Maggio,2002,Low intensity
+Moggio Udinese,UDINE,Friuli-Venezia Giulia,13.174,46.386,10.4,3.8,Mw,45:50.0,30/01/2015,Gennaio,2015,Low intensity
+Moggio Udinese,UDINE,Friuli-Venezia Giulia,13.229,46.444,12.1,4.8,Md,18:02.7,14/02/2002,Febbraio,2002,Medium intensity
+Comeglians,UDINE,Friuli-Venezia Giulia,12.84,46.532,6.5,3.5,Md,18:10.0,19/06/1999,Giugno,1999,Low intensity
+Enemonzo,UDINE,Friuli-Venezia Giulia,12.882,46.399,10.5,3.8,Md,04:42.9,29/08/2004,Agosto,2004,Low intensity
+Stienta,ROVIGO,Veneto,11.502,44.962,5,3.8,Md,35:40.5,03/08/1996,Agosto,1996,Low intensity
+Santo Stino di Livenza,VENEZIA,Veneto,12.749,45.703,5,3.8,Md,21:52.9,14/06/1998,Giugno,1998,Low intensity
+Ceneselli,ROVIGO,Veneto,11.367,45.01,2.4,4.5,Mw,30:27.3,17/07/2011,Luglio,2011,Medium intensity
+Brugine,PADOVA,Veneto,11.977,45.288,5,3.5,Md,11:57.4,30/06/1999,Giugno,1999,Low intensity
+Polinago,MODENA,Emilia-Romagna,10.714,44.419,28.5,3.5,Mw,51:06.8,19/06/2013,Giugno,2013,Low intensity
+Polinago,MODENA,Emilia-Romagna,10.703,44.414,20.1,3.9,Md,11:16.4,19/06/2002,Giugno,2002,Low intensity
+Poviglio,REGGIO EMILIA,Emilia-Romagna,10.507,44.867,28.3,3.6,ML,43:36.5,25/01/2012,Gennaio,2012,Low intensity
+Poviglio,REGGIO EMILIA,Emilia-Romagna,10.51,44.871,29,4.9,Mw,06:37.1,25/01/2012,Gennaio,2012,Medium intensity
+Carpi,MODENA,Emilia-Romagna,10.874,44.866,8.2,3.7,Mw,58:21.2,31/05/2012,Maggio,2012,Low intensity
+Prignano sulla Secchia,MODENA,Emilia-Romagna,10.751,44.473,17,3.5,Md,59:01.7,09/07/2002,Luglio,2002,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.278,44.852,8.3,3.7,ML,13:48.1,15/06/2012,Giugno,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.237,44.849,8,3.6,ML,59:44.1,15/06/2012,Giugno,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.227,44.842,8.6,3.6,ML,21:56.0,31/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.222,44.841,8.9,3.9,ML,31:22.7,25/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.244,44.846,8.7,3.8,Mw,41:18.2,23/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.189,44.853,6.2,3.7,ML,51:52.8,23/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.234,44.859,7.5,3.8,ML,31:14.3,22/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.234,44.861,8.1,3.5,ML,35:34.0,21/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.233,44.857,7.9,3.6,ML,02:26.4,21/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.306,44.866,3.6,4.1,ML,37:31.4,21/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.323,44.841,6.9,3.7,ML,04:26.1,20/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.244,44.885,3.7,3.6,ML,40:14.8,20/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.253,44.88,3.7,4.6,ML,38:14.4,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.305,44.865,5.4,4.2,Mw,37:14.1,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.294,44.864,6.2,3.8,ML,51:28.9,20/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.351,44.833,8.3,4.1,ML,21:05.3,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.298,44.852,8.5,3.9,ML,50:24.8,20/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.236,44.868,7.2,4.2,ML,13:18.5,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.227,44.881,6.6,4,ML,39:07.4,20/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.306,44.851,6.4,3.9,ML,25:01.9,20/05/2012,Maggio,2012,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.219,44.87,6.7,4.3,ML,12:40.5,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.341,44.86,10.9,4.3,ML,11:45.5,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.34,44.834,4.9,4.3,ML,09:48.4,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.27,44.874,6.1,5,ML,07:29.0,20/05/2012,Maggio,2012,Medium intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.264,44.896,9.5,5.8,Mw,03:50.2,20/05/2012,Maggio,2012,High intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.102,44.87,9.9,3.6,ML,27:10.8,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.101,44.857,2.5,4,ML,03:25.8,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.093,44.86,5.9,3.7,Mw,30:21.2,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.152,44.848,6.4,3.9,ML,14:20.3,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.13,44.861,4.2,3.7,ML,49:27.6,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.159,44.858,6.5,3.8,ML,12:45.2,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.112,44.853,7.7,3.6,ML,11:22.3,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.102,44.864,7.7,3.6,ML,09:54.0,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.189,44.811,9.3,3.6,ML,08:42.2,29/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.168,44.857,4.5,3.8,ML,25:42.7,27/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.164,44.871,6,3.8,Mw,18:45.3,27/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.163,44.826,10.2,3.8,ML,07:31.8,26/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.09,44.869,4,3.7,Mw,14:05.0,25/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.087,44.865,3.8,3.8,ML,45:01.6,25/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.112,44.85,5.5,3.8,ML,03:03.9,21/05/2012,Maggio,2012,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.152,44.86,9.1,5,ML,02:47.1,20/05/2012,Maggio,2012,Medium intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.176,44.841,9.8,3.7,ML,42:16.3,20/05/2012,Maggio,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.986,44.878,8.6,3.6,ML,48:30.1,14/06/2012,Giugno,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.966,44.881,8.5,3.8,ML,55:49.5,04/06/2012,Giugno,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.974,44.882,8.6,3.8,ML,57:52.8,03/06/2012,Giugno,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.984,44.881,6.8,3.8,Mw,04:04.0,31/05/2012,Maggio,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.978,44.879,10.4,3.6,ML,55:13.8,31/05/2012,Maggio,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,11.008,44.896,7.9,3.5,ML,31:15.3,29/05/2012,Maggio,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.976,44.866,7.2,5.1,ML,00:23.0,29/05/2012,Maggio,2012,High intensity
+San Possidonio,MODENA,Emilia-Romagna,11.002,44.884,6.4,4.1,ML,29:37.1,29/05/2012,Maggio,2012,Medium intensity
+San Possidonio,MODENA,Emilia-Romagna,11.01,44.896,6.2,3.5,ML,01:34.2,29/05/2012,Maggio,2012,Low intensity
+San Possidonio,MODENA,Emilia-Romagna,10.966,44.87,4.1,4.1,Mw,40:57.4,29/05/2012,Maggio,2012,Medium intensity
+San Possidonio,MODENA,Emilia-Romagna,11.006,44.906,8.4,3.8,ML,34:57.9,29/05/2012,Maggio,2012,Low intensity
+Reggio nell'Emilia,REGGIO EMILIA,Emilia-Romagna,10.665,44.741,5,3.5,Md,50:27.6,26/10/1996,Ottobre,1996,Low intensity
+Reggio nell'Emilia,REGGIO EMILIA,Emilia-Romagna,10.627,44.764,5.5,3.7,Md,40:00.9,16/10/1996,Ottobre,1996,Low intensity
+Reggio nell'Emilia,REGGIO EMILIA,Emilia-Romagna,10.578,44.757,4.3,3.6,Md,30:33.5,16/10/1996,Ottobre,1996,Low intensity
+Lama Mocogno,MODENA,Emilia-Romagna,10.696,44.36,18.5,3.8,Md,13:06.8,08/06/2002,Giugno,2002,Low intensity
+Serramazzoni,MODENA,Emilia-Romagna,10.768,44.455,18.7,4.1,Md,23:38.3,18/06/2002,Giugno,2002,Medium intensity
+Vetto,REGGIO EMILIA,Emilia-Romagna,10.348,44.503,10.4,3.8,Md,18:53.6,26/08/2000,Agosto,2000,Low intensity
+Sestola,MODENA,Emilia-Romagna,10.862,44.256,7.3,3.6,Md,54:22.7,12/07/1999,Luglio,1999,Low intensity
+Sestola,MODENA,Emilia-Romagna,10.857,44.251,4.4,4,Md,56:42.2,10/07/1999,Luglio,1999,Low intensity
+Sestola,MODENA,Emilia-Romagna,10.805,44.251,5,3.5,Md,02:33.1,08/07/1999,Luglio,1999,Low intensity
+Sestola,MODENA,Emilia-Romagna,10.853,44.255,5,3.6,Md,09:05.4,07/07/1999,Luglio,1999,Low intensity
+Sestola,MODENA,Emilia-Romagna,10.817,44.253,5.2,4.6,Md,16:11.8,07/07/1999,Luglio,1999,Medium intensity
+Vezzano sul Crostolo,REGGIO EMILIA,Emilia-Romagna,10.558,44.557,17.1,3.6,ML,55:17.4,18/06/2009,Giugno,2009,Low intensity
+Medolla,MODENA,Emilia-Romagna,11.084,44.86,6.8,3.8,ML,15:09.9,29/05/2012,Maggio,2012,Low intensity
+Medolla,MODENA,Emilia-Romagna,11.072,44.853,11,3.6,ML,18:22.4,29/05/2012,Maggio,2012,Low intensity
+Medolla,MODENA,Emilia-Romagna,11.066,44.842,8.1,5.6,Mw,00:02.9,29/05/2012,Maggio,2012,High intensity
+Medolla,MODENA,Emilia-Romagna,11.07,44.858,9,3.7,ML,11:15.3,22/05/2012,Maggio,2012,Low intensity
+Camugnano,BOLOGNA,Emilia-Romagna,11.126,44.135,9.1,3.5,ML,13:02.0,23/01/2015,Gennaio,2015,Low intensity
+Camugnano,BOLOGNA,Emilia-Romagna,11.121,44.128,9.6,4.3,Mw,51:20.3,23/01/2015,Gennaio,2015,Medium intensity
+Modena,MODENA,Emilia-Romagna,10.872,44.622,11.7,3.9,Md,51:33.4,12/09/2000,Settembre,2000,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.108,44.897,6.7,3.5,ML,35:50.6,20/10/2015,Ottobre,2015,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.024,44.881,2.7,3.5,ML,48:28.7,19/06/2012,Giugno,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.028,44.891,8,3.9,ML,39:40.3,29/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.033,44.893,8,4,ML,07:04.6,29/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.028,44.89,7.5,3.5,ML,14:08.3,29/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.024,44.881,7.8,3.8,ML,35:58.5,29/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.042,44.883,6,4.6,ML,27:22.7,29/05/2012,Maggio,2012,Medium intensity
+Mirandola,MODENA,Emilia-Romagna,11.028,44.89,7.4,3.5,ML,12:00.0,29/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.128,44.884,10.1,3.5,ML,14:29.3,29/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.137,44.893,6.8,3.8,ML,12:18.5,20/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.092,44.887,5.4,3.6,ML,15:53.2,20/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.214,44.901,5.5,3.7,ML,09:50.8,20/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.123,44.896,5.7,3.7,ML,07:53.1,20/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.14,44.888,5.5,3.7,ML,37:48.7,20/05/2012,Maggio,2012,Low intensity
+Mirandola,MODENA,Emilia-Romagna,11.115,44.89,4.9,4.1,ML,21:50.5,20/05/2012,Maggio,2012,Medium intensity
+Mirandola,MODENA,Emilia-Romagna,11.165,44.905,4.3,4.8,ML,06:26.5,20/05/2012,Maggio,2012,Medium intensity
+Mirandola,MODENA,Emilia-Romagna,11.12,44.879,5,4.8,ML,06:12.1,20/05/2012,Maggio,2012,Medium intensity
+Montese,MODENA,Emilia-Romagna,10.876,44.249,5,3.5,Md,40:45.6,08/07/1999,Luglio,1999,Low intensity
+Montese,MODENA,Emilia-Romagna,10.872,44.246,5,3.7,Md,24:06.2,08/07/1999,Luglio,1999,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.922,44.891,8.3,3.9,Mw,48:36.1,12/06/2012,Giugno,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.938,44.882,6.8,3.6,ML,45:36.2,04/06/2012,Giugno,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.941,44.883,3.6,3.5,ML,19:30.8,03/06/2012,Giugno,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.936,44.896,3.4,3.5,ML,07:15.2,01/06/2012,Giugno,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.959,44.862,8.6,3.6,ML,22:44.1,01/06/2012,Giugno,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.934,44.901,3.8,3.8,ML,00:33.4,30/05/2012,Maggio,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.926,44.89,5.1,3.8,Mw,28:01.1,29/05/2012,Maggio,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.914,44.904,5.8,3.6,ML,09:47.7,29/05/2012,Maggio,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.941,44.856,8.7,5,ML,00:01.7,29/05/2012,Maggio,2012,Medium intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.946,44.877,6.5,4.1,ML,41:42.3,29/05/2012,Maggio,2012,Medium intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.954,44.868,7.7,3.6,ML,38:06.4,29/05/2012,Maggio,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.948,44.865,7.9,5,ML,25:51.5,29/05/2012,Maggio,2012,Medium intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.932,44.869,8.4,3.6,ML,13:42.3,29/05/2012,Maggio,2012,Low intensity
+Novi di Modena,MODENA,Emilia-Romagna,10.948,44.852,5,4.2,ML,20:56.5,20/05/2012,Maggio,2012,Medium intensity
+Castel d'Aiano,BOLOGNA,Emilia-Romagna,11.054,44.281,20.3,3.7,Mw,22:22.7,14/06/2013,Giugno,2013,Low intensity
+Castel d'Aiano,BOLOGNA,Emilia-Romagna,11.009,44.258,59.4,3.6,Mw,04:47.5,27/03/2006,Marzo,2006,Low intensity
+Palagano,MODENA,Emilia-Romagna,10.663,44.326,5,4,Md,12:36.9,03/10/2000,Ottobre,2000,Low intensity
+Cavezzo,MODENA,Emilia-Romagna,10.98,44.865,4.4,5.3,Mw,55:56.6,29/05/2012,Maggio,2012,High intensity
+Cavezzo,MODENA,Emilia-Romagna,10.99,44.846,3.5,4,ML,07:20.9,29/05/2012,Maggio,2012,Low intensity
+Concordia sulla Secchia,MODENA,Emilia-Romagna,10.95,44.886,8.7,4.7,Mw,20:43.4,03/06/2012,Giugno,2012,Medium intensity
+Concordia sulla Secchia,MODENA,Emilia-Romagna,10.969,44.904,7.7,3.5,ML,47:29.5,29/05/2012,Maggio,2012,Low intensity
+Pavullo nel Frignano,MODENA,Emilia-Romagna,10.857,44.271,5,3.9,Md,31:23.4,07/07/1999,Luglio,1999,Low intensity
+Calestano,PARMA,Emilia-Romagna,10.097,44.564,51.4,3.9,Md,42:40.1,18/02/1997,Febbraio,1997,Low intensity
+Corte Brugnatella,PIACENZA,Emilia-Romagna,9.321,44.713,6.6,3.6,ML,18:46.3,05/06/2005,Giugno,2005,Low intensity
+Corte Brugnatella,PIACENZA,Emilia-Romagna,9.348,44.724,7.8,3.7,ML,59:18.6,18/04/2005,Aprile,2005,Low intensity
+Langhirano,PARMA,Emilia-Romagna,10.202,44.635,20.1,3.6,Mw,17:28.0,08/09/2011,Settembre,2011,Low intensity
+Lesignano de' Bagni,PARMA,Emilia-Romagna,10.256,44.582,19.4,4,ML,37:06.0,23/12/2008,Dicembre,2008,Low intensity
+Alseno,PIACENZA,Emilia-Romagna,10.003,44.898,20.5,4.2,Mw,05:43.1,30/07/2007,Luglio,2007,Medium intensity
+Gropparello,PIACENZA,Emilia-Romagna,9.67,44.783,23.8,4.3,Mw,41:29.4,03/10/2012,Ottobre,2012,Medium intensity
+Gropparello,PIACENZA,Emilia-Romagna,9.687,44.769,25.6,3.5,ML,27:39.9,19/04/2005,Aprile,2005,Low intensity
+Lugagnano Val d'Arda,PIACENZA,Emilia-Romagna,9.772,44.814,23.6,3.9,Mw,08:49.6,19/10/2009,Ottobre,2009,Low intensity
+Lugagnano Val d'Arda,PIACENZA,Emilia-Romagna,9.724,44.77,25.2,3.8,ML,42:01.2,19/04/2005,Aprile,2005,Low intensity
+Neviano degli Arduini,PARMA,Emilia-Romagna,10.309,44.556,21.9,3.9,ML,08:29.8,25/12/2008,Dicembre,2008,Low intensity
+Neviano degli Arduini,PARMA,Emilia-Romagna,10.345,44.544,22.9,4.9,Mw,24:21.8,23/12/2008,Dicembre,2008,Medium intensity
+Berceto,PARMA,Emilia-Romagna,10.009,44.523,72.4,4.9,Mw,53:12.7,27/01/2012,Gennaio,2012,Medium intensity
+Berceto,PARMA,Emilia-Romagna,9.954,44.5,5,3.6,Md,57:46.4,01/02/2001,Febbraio,2001,Low intensity
+Fornovo di Taro,PARMA,Emilia-Romagna,10.052,44.651,5.9,3.5,Md,40:11.8,11/08/1997,Agosto,1997,Low intensity
+Riolo Terme,RAVENNA,Emilia-Romagna,11.754,44.293,15.5,3.5,Md,55:46.8,19/02/2000,Febbraio,2000,Low intensity
+Verghereto,FORLI',Emilia-Romagna,12.055,43.816,8.5,4,Mw,32:20.9,11/07/2013,Luglio,2013,Low intensity
+Verghereto,FORLI',Emilia-Romagna,12.046,43.761,7.5,3.8,Md,36:11.9,21/02/2002,Febbraio,2002,Low intensity
+Verghereto,FORLI',Emilia-Romagna,12.068,43.832,8.2,3.9,Md,45:29.2,03/01/2002,Gennaio,2002,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,11.98,43.871,7.4,3.6,ML,06:50.3,04/06/2011,Giugno,2011,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,11.984,43.883,8,3.6,ML,12:04.0,04/06/2011,Giugno,2011,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,12.033,43.867,4.4,3.9,ML,03:52.0,24/05/2011,Maggio,2011,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,11.926,43.898,9.7,3.7,Md,50:16.4,29/01/2003,Gennaio,2003,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,11.959,43.875,7,3.7,Md,15:03.1,26/01/2003,Gennaio,2003,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,11.96,43.883,6.5,3.9,Md,57:03.2,26/01/2003,Gennaio,2003,Low intensity
+Bertinoro,FORLI',Emilia-Romagna,12.156,44.126,23.5,3.8,Mw,07:23.4,05/09/2010,Settembre,2010,Low intensity
+Bertinoro,FORLI',Emilia-Romagna,12.18,44.162,9.2,4,ML MEDNET,20:33.0,07/12/2003,Dicembre,2003,Low intensity
+Modigliana,FORLI',Emilia-Romagna,11.859,44.172,5,3.9,Md,44:49.9,07/05/2000,Maggio,2000,Low intensity
+Castrocaro Terme e Terra del Sole,FORLI',Emilia-Romagna,11.922,44.177,2.3,3.5,Md,49:38.3,11/05/2000,Maggio,2000,Low intensity
+Mercato Saraceno,FORLI',Emilia-Romagna,12.128,43.992,51.8,3.6,ML,51:26.1,22/04/2013,Aprile,2013,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.939,44.259,21.7,3.5,ML,43:53.5,24/08/2015,Agosto,2015,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.908,44.25,22.2,4,ML,02:53.6,24/04/2015,Aprile,2015,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.913,44.23,24.5,4.5,Mw,20:53.4,05/04/2009,Aprile,2009,Medium intensity
+Faenza,RAVENNA,Emilia-Romagna,11.905,44.276,3.9,4.1,Md,26:39.0,12/05/2000,Maggio,2000,Medium intensity
+Faenza,RAVENNA,Emilia-Romagna,11.968,44.293,5.1,4.1,Md,57:15.8,11/05/2000,Maggio,2000,Medium intensity
+Faenza,RAVENNA,Emilia-Romagna,11.854,44.295,4.8,4,Md,57:47.6,11/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.942,44.248,13.1,4.5,Md,52:11.6,10/05/2000,Maggio,2000,Medium intensity
+Faenza,RAVENNA,Emilia-Romagna,11.977,44.268,10.4,3.5,Md,28:58.7,08/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.95,44.27,10,4.3,Md,29:56.7,08/05/2000,Maggio,2000,Medium intensity
+Faenza,RAVENNA,Emilia-Romagna,11.958,44.276,11.9,3.9,Md,01:42.7,07/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.96,44.279,15.2,3.7,Md,05:28.2,07/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.946,44.259,13.2,3.5,Md,10:43.4,07/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.929,44.26,10.7,3.5,Md,27:15.6,07/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.904,44.286,10,4.2,Md,07:04.3,06/05/2000,Maggio,2000,Medium intensity
+Faenza,RAVENNA,Emilia-Romagna,11.972,44.286,9.8,4,Md,48:49.5,02/05/2000,Maggio,2000,Low intensity
+Faenza,RAVENNA,Emilia-Romagna,11.97,44.319,5,3.8,Md,28:42.2,01/05/2000,Maggio,2000,Low intensity
+Mirabello,FERRARA,Emilia-Romagna,11.441,44.814,3.4,4.9,Mw,18:01.8,20/05/2012,Maggio,2012,Medium intensity
+Mirabello,FERRARA,Emilia-Romagna,11.431,44.836,5,3.5,ML,29:54.2,20/05/2012,Maggio,2012,Low intensity
+Premilcuore,FORLI',Emilia-Romagna,11.798,43.957,27,4.3,Mw,15:02.8,16/04/2006,Aprile,2006,Medium intensity
+Cesena,FORLI',Emilia-Romagna,12.247,44.154,19.9,3.6,ML,10:26.6,08/11/2005,Novembre,2005,Low intensity
+Cesenatico,FORLI',Emilia-Romagna,12.383,44.205,26.5,4,Mw,43:14.7,13/10/2010,Ottobre,2010,Low intensity
+Sant'Agostino,FERRARA,Emilia-Romagna,11.416,44.805,5.8,3.6,ML,22:45.0,20/05/2012,Maggio,2012,Low intensity
+Ravenna,RAVENNA,Emilia-Romagna,12.322,44.4,31.1,4,Mw,08:31.4,06/06/2012,Giugno,2012,Low intensity
+Ravenna,RAVENNA,Emilia-Romagna,12.263,44.576,8.8,4.1,Md,57:44.6,02/11/2002,Novembre,2002,Medium intensity
+Civitella di Romagna,FORLI',Emilia-Romagna,11.968,44.002,17,4.3,Md,45:58.2,25/01/1999,Gennaio,1999,Medium intensity
+Vigarano Mainarda,FERRARA,Emilia-Romagna,11.521,44.869,11.1,3.8,ML,11:06.3,04/05/2013,Maggio,2013,Low intensity
+Vigarano Mainarda,FERRARA,Emilia-Romagna,11.479,44.825,25.9,4,ML,35:32.4,20/05/2012,Maggio,2012,Low intensity
+Forli',FORLI',Emilia-Romagna,11.992,44.265,12.3,3.5,Md,41:13.1,11/05/2000,Maggio,2000,Low intensity
+Forli',FORLI',Emilia-Romagna,11.979,44.257,10,3.5,Md,46:02.7,10/05/2000,Maggio,2000,Low intensity
+Forli',FORLI',Emilia-Romagna,12.003,44.22,13.7,4,Md,51:21.0,09/05/2000,Maggio,2000,Low intensity
+Forli',FORLI',Emilia-Romagna,11.963,44.234,15.5,3.9,Md,49:42.9,07/05/2000,Maggio,2000,Low intensity
+Forli',FORLI',Emilia-Romagna,12,44.265,8,3.5,Md,24:47.0,05/05/2000,Maggio,2000,Low intensity
+Forli',FORLI',Emilia-Romagna,12.001,44.286,5,3.5,Md,15:49.7,28/04/2000,Aprile,2000,Low intensity
+Santa Sofia,FORLI',Emilia-Romagna,11.85,43.931,8,3.6,Mw,20:57.7,12/07/2011,Luglio,2011,Low intensity
+Santa Sofia,FORLI',Emilia-Romagna,11.856,43.934,8.2,3.9,Mw,15:08.3,12/07/2011,Luglio,2011,Low intensity
+Santa Sofia,FORLI',Emilia-Romagna,11.855,43.927,7.6,4.1,Mw,53:22.5,12/07/2011,Luglio,2011,Medium intensity
+Santa Sofia,FORLI',Emilia-Romagna,11.863,43.921,7.4,3.5,Mw,01:06.7,11/07/2011,Luglio,2011,Low intensity
+Forlimpopoli,FORLI',Emilia-Romagna,12.117,44.207,22.8,4.4,ML,17:18.0,15/07/2005,Luglio,2005,Medium intensity
+Lizzano in Belvedere,BOLOGNA,Emilia-Romagna,10.894,44.156,21.5,3.7,Mw,57:43.9,22/07/2015,Luglio,2015,Low intensity
+Lizzano in Belvedere,BOLOGNA,Emilia-Romagna,10.815,44.152,6.5,3.6,ML,35:34.2,19/06/2011,Giugno,2011,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.332,44.875,8.4,3.5,ML,59:17.6,20/05/2012,Maggio,2012,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.409,44.873,5,3.6,ML,23:33.2,20/05/2012,Maggio,2012,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.242,44.913,8.4,3.8,ML,32:25.9,20/05/2012,Maggio,2012,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.375,44.876,7.3,3.6,ML,26:52.7,20/05/2012,Maggio,2012,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.398,44.867,5,3.7,ML,20:39.1,20/05/2012,Maggio,2012,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.247,44.911,9.3,4,Mw,13:25.6,19/05/2012,Maggio,2012,Low intensity
+Monterenzio,BOLOGNA,Emilia-Romagna,11.404,44.273,9.8,3.6,Md,02:34.5,15/09/2003,Settembre,2003,Low intensity
+Monterenzio,BOLOGNA,Emilia-Romagna,11.38,44.255,8.3,5,Md,42:53.2,14/09/2003,Settembre,2003,Medium intensity
+Cento,FERRARA,Emilia-Romagna,11.361,44.834,10.3,3.6,ML,40:58.1,20/05/2012,Maggio,2012,Low intensity
+Cavedine,TRENTO,Trentino-Alto Adige,10.958,45.98,5,3.6,Md,57:22.1,16/06/2000,Giugno,2000,Low intensity
+Mercatello sul Metauro,PESARO E URBINO,Marche,12.335,43.628,7.1,3.7,Mw,12:47.1,19/09/2015,Settembre,2015,Low intensity
+Mercatello sul Metauro,PESARO E URBINO,Marche,12.322,43.632,8.9,3.5,Mw,24:52.8,18/09/2015,Settembre,2015,Low intensity
+Sermide,MANTOVA,Lombardia,11.258,44.952,4.9,3.8,Md,39:26.3,01/12/2001,Dicembre,2001,Low intensity
+Torri del Benaco,VERONA,Veneto,10.672,45.593,5,3.6,Md,41:59.4,24/12/1998,Dicembre,1998,Low intensity
+Riva del Garda,TRENTO,Trentino-Alto Adige,10.773,45.903,5.2,3.7,ML,47:51.7,01/08/2015,Agosto,2015,Low intensity
+Grezzana,VERONA,Veneto,10.985,45.528,10.1,3.8,Mw,54:46.0,24/01/2012,Gennaio,2012,Low intensity
+Malcesine,VERONA,Veneto,10.83,45.782,10,3.7,Md,14:39.7,26/09/2001,Settembre,2001,Low intensity
+Volpago del Montello,TREVISO,Veneto,12.111,45.832,9.6,3.5,ML,02:50.4,12/05/2015,Maggio,2015,Low intensity
+Alano di Piave,BELLUNO,Veneto,11.902,45.905,7.3,3.6,ML,10:02.5,18/08/2015,Agosto,2015,Low intensity
+Rotzo,VICENZA,Veneto,11.39,45.888,8.3,3.5,Md,30:57.8,26/12/1998,Dicembre,1998,Low intensity
+Moriago della Battaglia,TREVISO,Veneto,12.106,45.841,2.2,3.6,ML,35:23.0,13/09/2011,Settembre,2011,Low intensity
+Latina,LATINA,Lazio,12.91,41.477,10.2,3.5,Mw,46:36.0,15/02/2012,Febbraio,2012,Low intensity
+Latina,LATINA,Lazio,12.934,41.494,7.1,3.6,Mw,50:24.9,23/07/2011,Luglio,2011,Low intensity
+Roma,ROMA,Lazio,12.584,41.784,14.1,3.9,Mw,44:42.3,12/04/2008,Aprile,2008,Low intensity
+San Polo dei Cavalieri,ROMA,Lazio,12.827,42.031,2,3.5,Md,20:26.6,06/11/1997,Novembre,1997,Low intensity
+Subiaco,ROMA,Lazio,13.068,41.956,5,4.3,Md,35:27.1,11/03/2000,Marzo,2000,Medium intensity
+Micigliano,RIETI,Lazio,13.058,42.446,5,4.5,Md,18:10.0,15/08/1998,Agosto,1998,Medium intensity
+Anzio,ROMA,Lazio,12.446,41.365,17.4,4.6,Mw,02:07.4,22/08/2005,Agosto,2005,Medium intensity
+Montopoli di Sabina,RIETI,Lazio,12.681,42.254,5,3.6,Md,50:15.9,23/03/2001,Marzo,2001,Low intensity
+Amatrice,RIETI,Lazio,13.206,42.631,10,3.7,Mw,13:38.3,30/11/2013,Novembre,2013,Low intensity
+Pescorocchiano,RIETI,Lazio,13.224,42.261,5,3.7,Md,11:10.1,30/06/2003,Giugno,2003,Low intensity
+Monte Compatri,ROMA,Lazio,12.714,41.871,10.8,3.5,Mw,13:43.5,09/07/2012,Luglio,2012,Low intensity
+Borgorose,RIETI,Lazio,13.259,42.217,5,3.5,Md,36:47.6,27/09/2003,Settembre,2003,Low intensity
+Cittaducale,RIETI,Lazio,12.963,42.401,8,3.8,Mw,55:36.4,21/10/2007,Ottobre,2007,Low intensity
+Rieti,RIETI,Lazio,12.989,42.467,5,3.5,Md,46:39.4,13/05/1997,Maggio,1997,Low intensity
+Cittareale,RIETI,Lazio,13.164,42.559,5,4,Md,06:56.7,20/10/1996,Ottobre,1996,Low intensity
+Rocca Canterano,ROMA,Lazio,13.011,41.97,5,3.5,Md,29:11.3,28/05/2000,Maggio,2000,Low intensity
+Cottanello,RIETI,Lazio,12.706,42.439,6.9,3.7,Mw,55:12.3,13/07/2011,Luglio,2011,Low intensity
+Rocca Santo Stefano,ROMA,Lazio,13.003,41.918,2.1,3.8,Md,54:08.3,20/12/2001,Dicembre,2001,Low intensity
+Agosta,ROMA,Lazio,13.036,41.983,5,4,Md,32:32.1,27/06/2000,Giugno,2000,Low intensity
+Sassinoro,BENEVENTO,Campania,14.643,41.385,9.7,3.6,ML MEDNET,04:54.9,24/11/1997,Novembre,1997,Low intensity
+Sassinoro,BENEVENTO,Campania,14.636,41.382,4.8,3.5,Md,12:03.1,22/04/1997,Aprile,1997,Low intensity
+Campoli Appennino,FROSINONE,Lazio,13.696,41.74,10.7,3.6,ML,51:51.2,08/10/2009,Ottobre,2009,Low intensity
+Campoli Appennino,FROSINONE,Lazio,13.7,41.77,6.6,3.7,Md,42:01.6,25/10/2000,Ottobre,2000,Low intensity
+Campoli Appennino,FROSINONE,Lazio,13.712,41.746,7.5,3.8,Md,54:08.0,24/10/2000,Ottobre,2000,Low intensity
+Sant'Arcangelo Trimonte,BENEVENTO,Campania,14.933,41.16,11.3,3.8,ML,35:41.0,27/09/2012,Settembre,2012,Low intensity
+Filettino,FROSINONE,Lazio,13.306,41.925,5,3.5,Md,46:30.4,12/05/1998,Maggio,1998,Low intensity
+Forio,NAPOLI,Campania,13.657,40.642,469.1,3.6,ML,31:45.9,03/08/2005,Agosto,2005,Low intensity
+Forio,NAPOLI,Campania,13.806,40.585,10.9,3.6,Md,30:45.3,30/08/1999,Agosto,1999,Low intensity
+Castello del Matese,CASERTA,Campania,14.44,41.384,20.6,3.8,Mw,49:49.0,29/12/2013,Dicembre,2013,Low intensity
+Castello del Matese,CASERTA,Campania,14.434,41.395,20.4,5,Mw,08:43.2,29/12/2013,Dicembre,2013,Medium intensity
+San Felice a Cancello,CASERTA,Campania,14.515,40.991,16.1,3.7,ML,55:19.0,21/05/2005,Maggio,2005,Low intensity
+San Potito Sannitico,CASERTA,Campania,14.45,41.365,18,3.7,Mw,55:57.4,20/01/2014,Gennaio,2014,Low intensity
+San Potito Sannitico,CASERTA,Campania,14.452,41.367,17.2,4.2,Mw,12:40.0,20/01/2014,Gennaio,2014,Medium intensity
+Vittorito,L'AQUILA,Abruzzo,13.79,42.132,25.8,3.6,Md,01:57.4,25/08/1998,Agosto,1998,Low intensity
+Arpino,FROSINONE,Lazio,13.669,41.648,15.7,4,Mw,36:44.4,06/08/2009,Agosto,2009,Low intensity
+Paduli,BENEVENTO,Campania,14.923,41.161,10,3.5,ML,47:58.7,27/09/2012,Settembre,2012,Low intensity
+Paduli,BENEVENTO,Campania,14.921,41.176,10.3,4.2,Mw,08:22.6,27/09/2012,Settembre,2012,Medium intensity
+Sora,FROSINONE,Lazio,13.57,41.714,17.1,4.8,Mw,16:09.3,16/02/2013,Febbraio,2013,Medium intensity
+Terelle,FROSINONE,Lazio,13.78,41.582,8.5,3.9,Mw,06:19.1,20/02/2008,Febbraio,2008,Low intensity
+Sirolo,ANCONA,Marche,13.724,43.539,8.9,4.2,Mw,44:51.6,22/08/2013,Agosto,2013,Medium intensity
+Esanatoglia,MACERATA,Marche,12.918,43.223,49.9,3.8,Md,17:02.1,02/09/2000,Settembre,2000,Low intensity
+Senigallia,ANCONA,Marche,13.237,43.714,4.6,3.5,ML,51:21.0,12/12/2009,Dicembre,2009,Low intensity
+Fiuminata,MACERATA,Marche,12.839,43.133,8.1,3.6,ML MEDNET,11:48.2,26/09/1997,Settembre,1997,Low intensity
+Loro Piceno,MACERATA,Marche,13.433,43.135,18.1,4.1,Mw,35:45.3,12/01/2010,Gennaio,2010,Medium intensity
+Cessapalombo,MACERATA,Marche,13.225,43.088,5,3.5,Md,49:30.3,16/07/1997,Luglio,1997,Low intensity
+Monte Cavallo,MACERATA,Marche,12.963,42.975,4.1,3.7,Md,09:30.5,20/10/1997,Ottobre,1997,Low intensity
+Monte Cavallo,MACERATA,Marche,12.992,42.993,5,3.8,Md,27:03.7,20/10/1997,Ottobre,1997,Low intensity
+Monte Cavallo,MACERATA,Marche,12.974,42.973,3,3.8,Md,56:06.5,07/10/1997,Ottobre,1997,Low intensity
+Monte Cavallo,MACERATA,Marche,12.948,42.996,4.5,3.7,Md,25:53.9,07/10/1997,Ottobre,1997,Low intensity
+Monte Cavallo,MACERATA,Marche,12.98,42.996,4,3.7,Md,54:25.9,26/09/1997,Settembre,1997,Low intensity
+Civitanova Marche,MACERATA,Marche,13.78,43.328,4.7,3.5,ML,58:52.5,20/10/2010,Ottobre,2010,Low intensity
+Montefano,MACERATA,Marche,13.418,43.399,37.8,4.5,Mw,50:17.3,20/09/2009,Settembre,2009,Medium intensity
+Pesaro,PESARO E URBINO,Marche,13.061,44.048,6.3,3.5,Mw,26:02.0,29/04/2014,Aprile,2014,Low intensity
+Montecopiolo,PESARO E URBINO,Marche,12.389,43.871,51.6,3.6,Md,54:12.0,13/04/2003,Aprile,2003,Low intensity
+Ancona,ANCONA,Marche,13.549,43.646,29.5,3.7,ML,36:11.8,25/01/2007,Gennaio,2007,Low intensity
+San Lorenzo in Campo,PESARO E URBINO,Marche,12.96,43.601,32.4,3.6,ML,55:17.7,21/10/2006,Ottobre,2006,Low intensity
+San Lorenzo in Campo,PESARO E URBINO,Marche,12.98,43.628,36.3,4.2,ML,04:10.0,21/10/2006,Ottobre,2006,Medium intensity
+Palazzuolo sul Senio,FIRENZE,Toscana,11.536,44.132,5.1,3.8,Md,24:50.4,30/04/2002,Aprile,2002,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.23,43.605,8.9,3.8,ML,04:35.0,13/09/2015,Settembre,2015,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.175,43.604,9.2,3.7,Mw,00:04.4,04/03/2015,Marzo,2015,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.237,43.598,7.4,3.5,ML,07:04.8,20/12/2014,Dicembre,2014,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.2,43.61,8.3,3.5,ML,37:01.8,19/12/2014,Dicembre,2014,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.232,43.624,7.3,3.6,ML,27:16.5,19/12/2014,Dicembre,2014,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.24,43.606,8.6,4,Mw,36:30.6,19/12/2014,Dicembre,2014,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.24,43.603,8.9,3.8,Mw,39:41.3,19/12/2014,Dicembre,2014,Low intensity
+San Casciano in Val di Pesa,FIRENZE,Toscana,11.23,43.603,9.2,3.5,ML,09:05.9,19/12/2014,Dicembre,2014,Low intensity
+Barberino di Mugello,FIRENZE,Toscana,11.275,44.025,7,4.2,Mw,04:31.0,14/09/2009,Settembre,2009,Medium intensity
+Barberino di Mugello,FIRENZE,Toscana,11.203,44.054,6,3.8,Mw,43:06.1,01/03/2008,Marzo,2008,Low intensity
+Barberino di Mugello,FIRENZE,Toscana,11.227,44.046,5.2,4,Mw,43:46.6,01/03/2008,Marzo,2008,Low intensity
+Barberino di Mugello,FIRENZE,Toscana,11.253,44.063,3.8,4.5,Mw,43:13.1,01/03/2008,Marzo,2008,Medium intensity
+Livorno,LIVORNO,Toscana,10.213,43.621,9.1,3.8,ML,42:58.3,17/04/2006,Aprile,2006,Low intensity
+Livorno,LIVORNO,Toscana,10.185,43.617,9.5,3.8,ML,32:13.6,17/05/2005,Maggio,2005,Low intensity
+Firenzuola,FIRENZE,Toscana,11.406,44.177,8.4,3.7,Mw,42:53.7,17/02/2015,Febbraio,2015,Low intensity
+Firenzuola,FIRENZE,Toscana,11.267,44.082,9,3.6,ML,08:05.3,01/03/2008,Marzo,2008,Low intensity
+Firenzuola,FIRENZE,Toscana,11.414,44.19,5,3.5,Md,56:37.6,14/03/1996,Marzo,1996,Low intensity
+Sarnano,MACERATA,Marche,13.281,43.031,4.5,3.8,Md,52:22.5,24/10/2000,Ottobre,2000,Low intensity
+Minucciano,LUCCA,Toscana,10.201,44.168,9.2,4.4,Mw,01:33.9,23/06/2013,Giugno,2013,Medium intensity
+Minucciano,LUCCA,Toscana,10.208,44.149,5,3.7,Md,47:36.2,27/08/2004,Agosto,2004,Low intensity
+Pieve Torina,MACERATA,Marche,12.951,43.038,5.5,3.8,Md,15:15.3,29/11/1997,Novembre,1997,Low intensity
+Pieve Torina,MACERATA,Marche,12.978,43.023,5,3.8,Md,58:42.7,23/10/1997,Ottobre,1997,Low intensity
+Pieve Torina,MACERATA,Marche,12.939,43.036,5,3.5,Md,58:29.4,02/10/1997,Ottobre,1997,Low intensity
+Pieve Torina,MACERATA,Marche,12.936,43.035,5,4,ML MEDNET,56:41.7,27/09/1997,Settembre,1997,Low intensity
+Pieve Torina,MACERATA,Marche,13.037,43,5,3.7,Md,30:50.9,26/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.945,42.95,8.7,3.6,Md,27:42.2,19/04/1998,Aprile,1998,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.939,42.956,5,3.6,Md,30:51.7,23/03/1998,Marzo,1998,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.928,42.965,5,3.6,Md,02:23.6,22/03/1998,Marzo,1998,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.906,42.978,5,4.1,Md,45:09.7,21/03/1998,Marzo,1998,Medium intensity
+Serravalle di Chienti,MACERATA,Marche,12.899,42.999,5,3.5,Md,01:24.1,15/01/1998,Gennaio,1998,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.933,43.021,5.6,3.6,Md,34:23.7,07/12/1997,Dicembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.899,43.065,9,3.5,Md,07:27.2,17/11/1997,Novembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.906,42.993,5,3.5,Md,34:30.2,12/11/1997,Novembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.943,42.998,5,3.5,Md,41:33.3,19/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.933,43.014,4.9,3.8,Md,49:53.7,15/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.947,42.952,4.7,3.9,Md,23:28.2,14/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.937,42.953,5.7,3.5,Md,25:21.2,13/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.929,42.955,5,3.5,Md,12:55.5,13/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.911,42.981,5,3.6,Md,08:46.4,10/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.92,43.016,5,3.5,Md,06:22.4,07/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.919,43.01,5.2,4.1,Md,09:55.4,07/10/1997,Ottobre,1997,Medium intensity
+Serravalle di Chienti,MACERATA,Marche,12.899,43.068,5.5,3.6,Md,53:16.8,07/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.933,43.011,6.4,3.7,Md,39:14.7,07/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.936,43.016,4.3,3.9,Md,24:32.6,07/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.906,43.033,5,3.5,Md,32:22.4,07/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.918,43.01,3.4,5.4,ML MEDNET,24:51.5,06/10/1997,Ottobre,1997,High intensity
+Serravalle di Chienti,MACERATA,Marche,12.935,43.012,8.1,3.6,Md,38:04.4,05/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.94,43.041,6.8,3.5,Md,36:19.2,05/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.959,42.96,4.2,3.6,Md,52:05.1,04/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.929,43.053,5,3.5,Md,12:36.2,04/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.914,42.961,5.6,3.5,Md,05:41.2,01/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.947,42.952,4.1,3.5,Md,13:25.3,01/10/1997,Ottobre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.936,43.04,6.9,3.6,Md,10:11.8,29/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.936,42.98,5,3.7,ML MEDNET,24:30.4,28/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.901,43.019,4.6,4,ML MEDNET,13:02.1,27/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.914,43.023,5,3.7,ML MEDNET,57:14.3,27/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.925,43.068,5,3.7,Md,46:28.4,26/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.926,43.024,5.5,5.8,ML MEDNET,40:24.9,26/09/1997,Settembre,1997,High intensity
+Serravalle di Chienti,MACERATA,Marche,12.901,43.021,5.6,3.8,Md,33:47.1,26/09/1997,Settembre,1997,Low intensity
+Serravalle di Chienti,MACERATA,Marche,12.913,43.018,7.9,5.6,ML MEDNET,33:11.7,26/09/1997,Settembre,1997,High intensity
+Pieve Fosciana,LUCCA,Toscana,10.446,44.164,19.8,4.8,Mw,48:18.3,25/01/2013,Gennaio,2013,Medium intensity
+Cossignano,ASCOLI PICENO,Marche,13.676,42.998,5,3.5,Md,15:14.0,25/05/2003,Maggio,2003,Low intensity
+Porto Recanati,MACERATA,Marche,13.715,43.503,8.6,4,ML,07:24.4,21/07/2013,Luglio,2013,Low intensity
+Porto Recanati,MACERATA,Marche,13.722,43.509,7.9,4.9,Mw,32:24.2,21/07/2013,Luglio,2013,Medium intensity
+Porto Recanati,MACERATA,Marche,13.734,43.515,8.2,3.8,Mw,44:54.6,13/06/2013,Giugno,2013,Low intensity
+Recanati,MACERATA,Marche,13.488,43.396,33.9,3.9,Mw,03:36.7,10/04/2006,Aprile,2006,Low intensity
+Visso,MACERATA,Marche,13.004,42.932,5,3.6,Md,24:44.4,17/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,12.994,42.911,5,3.9,Md,23:36.4,16/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,12.992,42.922,5.7,4.1,Md,53:09.3,15/10/1997,Ottobre,1997,Medium intensity
+Visso,MACERATA,Marche,12.983,42.931,3,3.9,Md,51:44.8,15/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,12.975,42.916,5,3.6,Md,36:43.6,14/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,12.982,42.952,3.2,3.6,Md,26:11.1,13/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,13.028,42.904,2.2,3.8,Md,12:03.3,12/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,13.015,42.917,5,3.5,Md,09:12.6,05/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,12.977,42.917,4,4.3,Md,13:31.4,04/10/1997,Ottobre,1997,Medium intensity
+Visso,MACERATA,Marche,12.983,42.92,4.2,4.1,Md,07:19.4,04/10/1997,Ottobre,1997,Medium intensity
+Visso,MACERATA,Marche,12.985,42.914,5,3.7,Md,47:41.6,04/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,13.004,42.931,5,3.6,Md,35:47.6,02/10/1997,Ottobre,1997,Low intensity
+Visso,MACERATA,Marche,12.953,42.941,5,3.9,ML MEDNET,23:46.1,27/09/1997,Settembre,1997,Low intensity
+Abetone,PISTOIA,Toscana,10.672,44.119,17.5,4.1,Mw,45:01.1,07/09/2014,Settembre,2014,Medium intensity
+Cutigliano,PISTOIA,Toscana,10.695,44.108,5,3.5,Md,35:11.0,09/07/1997,Luglio,1997,Low intensity
+Appignano del Tronto,ASCOLI PICENO,Marche,13.662,42.915,17.5,4.1,Mw,18:20.3,05/12/2012,Dicembre,2012,Medium intensity
+Sant'Angelo in Pontano,MACERATA,Marche,13.379,43.094,4.3,3.5,Md,31:51.6,12/04/2005,Aprile,2005,Low intensity
+Campello sul Clitunno,PERUGIA,Umbria,12.782,42.826,5,3.8,Md,01:53.4,03/05/1997,Maggio,1997,Low intensity
+Campello sul Clitunno,PERUGIA,Umbria,12.783,42.843,5,3.7,Md,20:11.7,03/05/1997,Maggio,1997,Low intensity
+Campello sul Clitunno,PERUGIA,Umbria,12.773,42.836,5,3.7,Md,06:03.6,03/05/1997,Maggio,1997,Low intensity
+Campello sul Clitunno,PERUGIA,Umbria,12.769,42.825,5,3.8,Md,28:53.3,03/05/1997,Maggio,1997,Low intensity
+Abbadia San Salvatore,SIENA,Toscana,11.735,42.874,10,3.5,Md,46:21.2,21/03/1997,Marzo,1997,Low intensity
+Cascia,PERUGIA,Umbria,12.96,42.735,5,3.6,Md,24:43.9,07/07/2002,Luglio,2002,Low intensity
+Cascia,PERUGIA,Umbria,13.108,42.685,5,4,Md,35:52.3,10/10/1999,Ottobre,1999,Low intensity
+Castel Ritaldi,PERUGIA,Umbria,12.654,42.834,6.7,4.1,Mw,08:03.2,28/08/2010,Agosto,2010,Medium intensity
+Castel Ritaldi,PERUGIA,Umbria,12.673,42.834,5,3.7,Md,40:14.3,14/05/1997,Maggio,1997,Low intensity
+Cerreto di Spoleto,PERUGIA,Umbria,12.965,42.869,4.8,3.5,Md,20:45.2,02/12/1997,Dicembre,1997,Low intensity
+Cerreto di Spoleto,PERUGIA,Umbria,12.939,42.859,5,3.5,Md,58:55.0,20/11/1997,Novembre,1997,Low intensity
+Cerreto di Spoleto,PERUGIA,Umbria,12.974,42.872,5,3.6,Md,15:28.3,12/10/1997,Ottobre,1997,Low intensity
+Citta' di Castello,PERUGIA,Umbria,12.302,43.45,7.7,3.6,Mw,52:16.9,08/05/2013,Maggio,2013,Low intensity
+Pisa,PISA,Toscana,10.264,43.681,10.5,3.5,Mw,29:35.3,19/10/2013,Ottobre,2013,Low intensity
+Pisa,PISA,Toscana,10.189,43.651,6.5,4,Md,03:41.2,30/06/2003,Giugno,2003,Low intensity
+Pisa,PISA,Toscana,10.216,43.723,4,3.6,Md,29:25.5,22/06/1998,Giugno,1998,Low intensity
+Pomarance,PISA,Toscana,10.784,43.172,4.5,3.8,Md,07:41.9,20/05/1998,Maggio,1998,Low intensity
+Buonconvento,SIENA,Toscana,11.454,43.156,9.3,3.6,Mw,40:51.0,18/03/2013,Marzo,2013,Low intensity
+Radicofani,SIENA,Toscana,11.748,42.897,5,3.5,Md,01:43.1,06/10/2000,Ottobre,2000,Low intensity
+Radicofani,SIENA,Toscana,11.733,42.939,7.5,4,Md,08:05.2,01/04/2000,Aprile,2000,Low intensity
+Radicondoli,SIENA,Toscana,11.037,43.234,5,3.7,Md,20:18.5,09/11/2001,Novembre,2001,Low intensity
+Acquasparta,TERNI,Umbria,12.548,42.669,7.2,3.5,Mw,52:09.1,14/06/2014,Giugno,2014,Low intensity
+Torremaggiore,FOGGIA,Puglia,15.171,41.689,5,3.7,Md,23:10.6,10/11/1996,Novembre,1996,Low intensity
+Castellaneta,TARANTO,Puglia,16.922,40.694,10,3.5,Md,48:17.0,06/09/1996,Settembre,1996,Low intensity
+Vieste,FOGGIA,Puglia,16.254,41.727,29.1,4.2,ML,21:36.8,12/08/2012,Agosto,2012,Medium intensity
+Vieste,FOGGIA,Puglia,16.281,42.008,33.2,4.2,Mw,03:41.6,10/12/2006,Dicembre,2006,Medium intensity
+Vieste,FOGGIA,Puglia,16.163,41.912,25,3.6,Md,46:46.4,11/06/2004,Giugno,2004,Low intensity
+Valtopina,PERUGIA,Umbria,12.789,43.034,5,3.7,Md,28:06.6,07/09/1997,Settembre,1997,Low intensity
+Polino,TERNI,Umbria,12.833,42.576,8.9,3.6,ML,32:25.3,22/04/2009,Aprile,2009,Low intensity
+San Gemini,TERNI,Umbria,12.56,42.624,6.3,3.5,Mw,02:51.8,16/05/2006,Maggio,2006,Low intensity
+Norcia,PERUGIA,Umbria,13.201,42.797,4.3,3.7,Mw,29:05.4,15/03/2012,Marzo,2012,Low intensity
+Norcia,PERUGIA,Umbria,13.117,42.811,8.2,3.5,ML,29:42.8,16/08/2007,Agosto,2007,Low intensity
+Norcia,PERUGIA,Umbria,13.202,42.829,4.4,3.9,Mw,37:29.9,29/03/2007,Marzo,2007,Low intensity
+Norcia,PERUGIA,Umbria,13.176,42.793,10,3.6,Mw,32:56.6,08/02/2007,Febbraio,2007,Low intensity
+Norcia,PERUGIA,Umbria,13.087,42.829,8.8,3.6,Md,37:36.6,03/04/1998,Aprile,1998,Low intensity
+Norcia,PERUGIA,Umbria,12.977,42.829,5,3.7,Md,41:14.4,24/02/1998,Febbraio,1998,Low intensity
+Norcia,PERUGIA,Umbria,12.964,42.82,10,3.7,Md,22:33.8,10/11/1997,Novembre,1997,Low intensity
+Norcia,PERUGIA,Umbria,12.979,42.838,4.3,3.5,Md,35:53.9,10/11/1997,Novembre,1997,Low intensity
+Norcia,PERUGIA,Umbria,13.049,42.8,4.9,4,Md,08:04.9,25/10/1997,Ottobre,1997,Low intensity
+Sant'Anatolia di Narco,PERUGIA,Umbria,12.866,42.712,5,3.6,Md,21:33.3,05/02/2000,Febbraio,2000,Low intensity
+Terni,TERNI,Umbria,12.624,42.528,7.7,4,Md,31:06.9,16/12/2000,Dicembre,2000,Low intensity
+Gualdo Tadino,PERUGIA,Umbria,12.732,43.24,10,3.6,ML,08:08.6,27/04/2005,Aprile,2005,Low intensity
+Gualdo Tadino,PERUGIA,Umbria,12.784,43.245,9.3,3.5,Md,33:48.6,11/08/2000,Agosto,2000,Low intensity
+Gualdo Tadino,PERUGIA,Umbria,12.775,43.249,5,3.5,Md,17:55.4,10/08/2000,Agosto,2000,Low intensity
+Gualdo Tadino,PERUGIA,Umbria,12.774,43.177,10,4.5,Md,52:20.3,05/04/1998,Aprile,1998,Medium intensity
+Gualdo Tadino,PERUGIA,Umbria,12.788,43.211,9.3,3.7,Md,20:42.1,03/04/1998,Aprile,1998,Low intensity
+Gualdo Tadino,PERUGIA,Umbria,12.774,43.189,9.2,4,Md,59:52.4,03/04/1998,Aprile,1998,Low intensity
+Gualdo Tadino,PERUGIA,Umbria,12.786,43.177,9.6,4.7,Md,26:36.5,03/04/1998,Aprile,1998,Medium intensity
+Perugia,PERUGIA,Umbria,12.4,43.194,9.4,3.6,Md,44:32.2,26/09/1997,Settembre,1997,Low intensity
+Gubbio,PERUGIA,Umbria,12.534,43.349,7.9,3.7,Mw,27:53.2,19/04/2014,Aprile,2014,Low intensity
+Gubbio,PERUGIA,Umbria,12.522,43.389,7.9,3.5,Mw,43:24.5,27/12/2013,Dicembre,2013,Low intensity
+Gubbio,PERUGIA,Umbria,12.519,43.381,8.6,3.9,Mw,06:35.7,22/12/2013,Dicembre,2013,Low intensity
+Gubbio,PERUGIA,Umbria,12.52,43.377,8.4,3.6,ML,37:00.5,22/12/2013,Dicembre,2013,Low intensity
+Gubbio,PERUGIA,Umbria,12.533,43.372,6.4,3.7,Mw,58:51.2,18/12/2013,Dicembre,2013,Low intensity
+Gubbio,PERUGIA,Umbria,12.539,43.366,8.3,3.8,Mw,09:48.2,26/08/2013,Agosto,2013,Low intensity
+Gubbio,PERUGIA,Umbria,12.654,43.251,0,3.5,Md,34:25.0,31/08/1998,Agosto,1998,Low intensity
+Gubbio,PERUGIA,Umbria,12.51,43.375,5,3.8,Md,06:16.5,29/07/1997,Luglio,1997,Low intensity
+Pietralunga,PERUGIA,Umbria,12.425,43.468,8.1,3.6,Mw,47:36.5,15/04/2010,Aprile,2010,Low intensity
+Pietralunga,PERUGIA,Umbria,12.403,43.363,23.2,4.3,Md,16:36.3,22/06/2000,Giugno,2000,Medium intensity
+Pietralunga,PERUGIA,Umbria,12.396,43.439,5,3.5,Md,11:22.4,07/06/1996,Giugno,1996,Low intensity
+San Nicandro Garganico,FOGGIA,Puglia,15.639,41.997,6.8,3.5,Md,53:11.7,31/08/2000,Agosto,2000,Low intensity
+San Nicandro Garganico,FOGGIA,Puglia,15.612,42.014,10,3.6,Md,45:18.2,30/08/2000,Agosto,2000,Low intensity
+Preci,PERUGIA,Umbria,13.069,42.823,5,3.8,Md,20:34.4,29/11/1999,Novembre,1999,Low intensity
+Preci,PERUGIA,Umbria,13.041,42.824,5,3.5,Md,58:50.4,31/03/1998,Marzo,1998,Low intensity
+Preci,PERUGIA,Umbria,12.981,42.859,5,3.5,Md,45:17.5,16/02/1998,Febbraio,1998,Low intensity
+Preci,PERUGIA,Umbria,13.051,42.834,8.5,3.6,Md,21:34.2,04/01/1998,Gennaio,1998,Low intensity
+Preci,PERUGIA,Umbria,13,42.834,5,4,Md,02:14.3,31/12/1997,Dicembre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.997,42.85,10,3.5,Md,37:04.2,01/12/1997,Dicembre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.014,42.84,3.5,3.8,Md,24:40.9,30/11/1997,Novembre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.03,42.901,5,3.5,Md,09:45.7,19/11/1997,Novembre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.059,42.854,10.7,4.6,Md,07:32.6,09/11/1997,Novembre,1997,Medium intensity
+Preci,PERUGIA,Umbria,12.993,42.85,7.2,3.5,Md,03:10.5,08/11/1997,Novembre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.052,42.862,10,4,Md,31:53.3,08/11/1997,Novembre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.013,42.867,5,3.8,Md,44:29.9,19/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.998,42.831,5,3.6,Md,10:48.1,18/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.995,42.874,5.7,3.8,Md,23:44.5,17/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.037,42.874,5,3.9,Md,31:43.7,16/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.039,42.874,5,3.6,Md,11:44.2,16/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.018,42.855,5,3.6,Md,18:14.9,15/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.049,42.871,5,3.7,Md,09:57.3,15/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13,42.861,5,3.6,Md,48:29.0,14/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.034,42.86,3.2,3.7,Md,34:17.1,14/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.987,42.868,5,3.5,Md,47:46.9,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.995,42.882,5,3.8,Md,31:26.1,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.002,42.864,3.8,4,Md,09:19.8,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.993,42.87,5,3.6,Md,46:35.9,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.051,42.878,3.5,4,Md,01:44.9,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,12.994,42.873,5,3.5,Md,43:23.9,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.002,42.878,5,3.6,Md,17:04.3,13/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.019,42.866,5,3.9,Md,31:06.5,12/10/1997,Ottobre,1997,Low intensity
+Preci,PERUGIA,Umbria,13.008,42.897,5,4.7,Md,08:35.3,12/10/1997,Ottobre,1997,Medium intensity
+Preci,PERUGIA,Umbria,13.002,42.908,3.5,3.9,Md,28:03.8,05/10/1997,Ottobre,1997,Low intensity
+Montefalco,PERUGIA,Umbria,12.661,42.855,5,3.5,Md,22:03.4,14/05/1997,Maggio,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.833,42.921,4.8,3.5,Md,24:03.3,09/05/1998,Maggio,1998,Low intensity
+Sellano,PERUGIA,Umbria,12.911,42.901,3.2,3.6,Md,32:15.4,24/02/1998,Febbraio,1998,Low intensity
+Sellano,PERUGIA,Umbria,12.97,42.888,9.1,3.8,Md,34:47.8,09/11/1997,Novembre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.954,42.929,5.7,3.6,Md,36:12.8,15/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.943,42.908,8.5,3.7,Md,42:00.1,14/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.895,42.902,6.9,3.7,Md,24:41.1,14/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.969,42.907,4.6,5.5,ML MEDNET,23:09.1,14/10/1997,Ottobre,1997,High intensity
+Sellano,PERUGIA,Umbria,12.972,42.878,5,3.5,Md,10:19.4,13/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.962,42.878,5,3.8,Md,52:34.3,12/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.963,42.873,4.7,3.7,Md,59:58.1,12/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.921,42.906,5,3.7,Md,14:14.1,12/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.958,42.913,4.3,3.7,Md,12:28.9,12/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.945,42.898,5,3.8,Md,11:29.4,09/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.964,42.904,3.9,3.6,Md,47:40.9,05/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.973,42.917,5,4.3,Md,47:46.6,04/10/1997,Ottobre,1997,Medium intensity
+Sellano,PERUGIA,Umbria,12.966,42.912,4.1,3.5,Md,44:01.1,04/10/1997,Ottobre,1997,Low intensity
+Sellano,PERUGIA,Umbria,12.935,42.914,5,4.1,Md,49:58.0,04/10/1997,Ottobre,1997,Medium intensity
+Sellano,PERUGIA,Umbria,12.962,42.904,5,3.9,Md,04:28.4,04/10/1997,Ottobre,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.756,42.744,4.8,3.6,ML,30:39.2,05/01/2006,Gennaio,2006,Low intensity
+Spoleto,PERUGIA,Umbria,12.753,42.738,9.8,3.5,ML,06:48.3,18/12/2005,Dicembre,2005,Low intensity
+Spoleto,PERUGIA,Umbria,12.76,42.738,18.4,3.9,Mw,28:39.6,15/12/2005,Dicembre,2005,Low intensity
+Spoleto,PERUGIA,Umbria,12.646,42.747,5,3.7,Md,27:56.7,26/07/1997,Luglio,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.589,42.805,5,3.6,Md,17:19.0,14/05/1997,Maggio,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.585,42.783,5,3.8,Md,58:30.5,14/05/1997,Maggio,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.588,42.762,5,3.6,Md,45:43.5,13/05/1997,Maggio,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.603,42.772,5,3.5,Md,32:29.9,12/05/1997,Maggio,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.597,42.805,5,4.6,Md,50:15.9,12/05/1997,Maggio,1997,Medium intensity
+Spoleto,PERUGIA,Umbria,12.586,42.773,5,3.5,Md,53:19.0,06/05/1997,Maggio,1997,Low intensity
+Spoleto,PERUGIA,Umbria,12.588,42.777,5,3.6,Md,03:14.0,05/05/1997,Maggio,1997,Low intensity
+San Severo,FOGGIA,Puglia,15.342,41.748,9.9,3.8,Md,04:43.1,02/07/2001,Luglio,2001,Low intensity
+Foligno,PERUGIA,Umbria,12.874,43.047,8.3,3.5,ML,43:40.8,07/01/2014,Gennaio,2014,Low intensity
+Foligno,PERUGIA,Umbria,12.821,42.99,5,3.9,Md,31:15.9,08/08/2000,Agosto,2000,Low intensity
+Foligno,PERUGIA,Umbria,12.831,43.013,5,3.7,Md,44:40.4,25/06/1998,Giugno,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.862,43.005,4.5,4,Md,32:51.9,25/06/1998,Giugno,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.845,43.027,6.3,3.8,Md,04:48.5,05/06/1998,Giugno,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.872,42.989,8,3.6,Md,07:44.0,21/05/1998,Maggio,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.896,42.956,5,3.6,Md,24:11.1,23/03/1998,Marzo,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.922,42.948,9.8,3.8,ML MEDNET,57:51.5,21/03/1998,Marzo,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.874,42.972,4.7,3.5,Md,32:40.8,27/02/1998,Febbraio,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.857,43.001,6.3,3.9,Md,59:44.1,07/02/1998,Febbraio,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.889,42.936,5,3.5,Md,49:16.4,13/01/1998,Gennaio,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.898,42.995,7.6,3.5,Md,09:34.5,12/01/1998,Gennaio,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.833,42.954,9,3.6,Md,31:32.2,02/01/1998,Gennaio,1998,Low intensity
+Foligno,PERUGIA,Umbria,12.911,42.949,4,3.8,Md,02:34.4,27/11/1997,Novembre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.846,43.004,7.3,3.5,Md,47:13.7,25/11/1997,Novembre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.885,43.057,10.1,3.6,Md,08:52.0,10/11/1997,Novembre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.846,42.966,9.2,3.5,Md,23:46.5,28/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.899,42.975,7.7,3.9,Md,00:16.4,19/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.931,42.926,3.1,3.8,Md,51:24.8,19/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.898,43.032,7.9,4.1,Md,00:30.5,16/10/1997,Ottobre,1997,Medium intensity
+Foligno,PERUGIA,Umbria,12.891,42.93,4.3,3.9,Md,52:54.9,16/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.928,42.953,5.2,3.7,Md,47:21.5,08/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.932,42.923,5,3.6,Md,30:02.6,05/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.89,43.004,3.1,3.5,Md,41:26.9,04/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.89,43.023,4.7,4.7,Md,55:20.6,03/10/1997,Ottobre,1997,Medium intensity
+Foligno,PERUGIA,Umbria,12.924,42.947,6,3.6,Md,36:24.8,01/10/1997,Ottobre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.879,43.056,9.1,3.7,Md,51:32.2,28/09/1997,Settembre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.878,43.055,3.7,3.6,ML MEDNET,03:20.3,27/09/1997,Settembre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.838,43.023,5,3.6,Md,54:47.5,09/09/1997,Settembre,1997,Low intensity
+Foligno,PERUGIA,Umbria,12.841,43.059,5,4.4,Md,07:30.3,03/09/1997,Settembre,1997,Medium intensity
+Foligno,PERUGIA,Umbria,12.662,42.947,5,3.7,Md,01:22.0,27/07/1997,Luglio,1997,Low intensity
+Marsciano,PERUGIA,Umbria,12.271,43.007,8.8,4.2,Mw,11:59.0,15/12/2009,Dicembre,2009,Medium intensity
+Nocera Umbra,PERUGIA,Umbria,12.812,43.087,62.7,3.6,ML,26:02.4,25/05/2013,Maggio,2013,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.763,43.151,5,4,Md,55:31.4,11/06/2000,Giugno,2000,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.815,43.171,7.8,3.7,Md,22:59.1,11/08/1998,Agosto,1998,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.805,43.175,9.2,3.7,Md,57:56.8,10/06/1998,Giugno,1998,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.818,43.179,9.4,4.1,Md,53:11.8,05/06/1998,Giugno,1998,Medium intensity
+Nocera Umbra,PERUGIA,Umbria,12.817,43.17,9.5,4.2,Md,11:22.3,02/06/1998,Giugno,1998,Medium intensity
+Nocera Umbra,PERUGIA,Umbria,12.836,43.174,5.9,3.6,Md,47:27.8,01/06/1998,Giugno,1998,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.8,43.175,5,3.7,Md,57:09.7,01/06/1998,Giugno,1998,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.791,43.177,10.7,3.5,Md,11:08.7,23/04/1998,Aprile,1998,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.86,43.175,47.8,4.7,Md,26:17.0,26/03/1998,Marzo,1998,Medium intensity
+Nocera Umbra,PERUGIA,Umbria,12.782,43.147,8.4,3.5,Md,25:50.8,11/12/1997,Dicembre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.826,43.093,7.3,3.8,Md,20:56.0,11/10/1997,Ottobre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.835,43.171,6.6,3.5,Md,34:16.9,09/10/1997,Ottobre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.828,43.103,5.4,3.5,Md,48:44.0,03/10/1997,Ottobre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.835,43.087,9.6,4,Md,59:55.4,02/10/1997,Ottobre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.77,43.137,5,3.6,Md,57:54.3,28/09/1997,Settembre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.759,43.099,5.8,3.6,Md,04:46.7,28/09/1997,Settembre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.842,43.09,7.3,4.3,ML MEDNET,08:06.9,27/09/1997,Settembre,1997,Medium intensity
+Nocera Umbra,PERUGIA,Umbria,12.849,43.069,5.1,3.9,ML MEDNET,03:02.1,27/09/1997,Settembre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.871,43.104,5,3.5,Md,17:24.5,27/09/1997,Settembre,1997,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.786,43.145,5,3.6,ML MEDNET,07:17.7,26/09/1997,Settembre,1997,Low intensity
+Castelluccio Superiore,POTENZA,Basilicata,15.972,40.021,3.2,3.5,Md,01:20.5,14/03/1999,Marzo,1999,Low intensity
+Castelluccio Superiore,POTENZA,Basilicata,16.01,40.044,5,3.5,Md,07:38.2,19/10/1998,Ottobre,1998,Low intensity
+Balvano,POTENZA,Basilicata,15.53,40.687,5,4.5,Md,04:35.5,03/04/1996,Aprile,1996,Medium intensity
+Bella,POTENZA,Basilicata,15.669,40.751,8,3.5,Md,18:45.9,03/02/2003,Febbraio,2003,Low intensity
+Fardella,POTENZA,Basilicata,16.075,40.036,3.2,3.6,Md,16:05.2,05/04/1999,Aprile,1999,Low intensity
+Castelgrande,POTENZA,Basilicata,15.423,40.801,6,3.7,Md,43:06.4,19/10/1996,Ottobre,1996,Low intensity
+Castelluccio Inferiore,POTENZA,Basilicata,16.028,40.023,3.8,3.7,Md,49:22.1,11/04/1999,Aprile,1999,Low intensity
+Castelluccio Inferiore,POTENZA,Basilicata,16.027,40.019,5,3.6,Md,18:32.8,24/09/1998,Settembre,1998,Low intensity
+Fano,PESARO E URBINO,Marche,13.147,43.886,5,3.5,Md,24:50.7,25/06/2000,Giugno,2000,Low intensity
+Viggianello,POTENZA,Basilicata,16.037,39.986,5,3.7,Md,35:44.0,26/05/1999,Maggio,1999,Low intensity
+Viggianello,POTENZA,Basilicata,16.085,39.938,7.4,3.7,Md,20:16.3,09/09/1998,Settembre,1998,Low intensity
+Aprigliano,COSENZA,Calabria,16.525,39.158,9.8,4.1,Mw,20:01.1,08/04/2008,Aprile,2008,Medium intensity
+Bisignano,COSENZA,Calabria,16.249,39.483,5,3.7,Md,47:20.7,03/08/2000,Agosto,2000,Low intensity
+Calciano,MATERA,Basilicata,16.162,40.591,27,3.8,Mw,31:43.8,07/09/2006,Settembre,2006,Low intensity
+Acri,COSENZA,Calabria,16.367,39.535,10,3.8,Mw,49:36.3,26/04/2007,Aprile,2007,Low intensity
+Bonifati,COSENZA,Calabria,15.731,39.424,249.6,4.4,Mw,16:23.6,16/10/2015,Ottobre,2015,Medium intensity
+Bonifati,COSENZA,Calabria,15.738,39.4,247.3,4,ML,58:05.7,02/08/2015,Agosto,2015,Low intensity
+Bonifati,COSENZA,Calabria,15.848,39.549,273.8,3.8,ML,59:03.9,27/08/2014,Agosto,2014,Low intensity
+Bonifati,COSENZA,Calabria,15.704,39.418,253.4,3.6,ML,00:44.5,22/11/2012,Novembre,2012,Low intensity
+Ferrandina,MATERA,Basilicata,16.408,40.455,14.1,3.7,Mw,15:34.3,12/08/2014,Agosto,2014,Low intensity
+Caloveto,COSENZA,Calabria,16.771,39.498,24.1,3.5,ML,23:57.8,08/02/2010,Febbraio,2010,Low intensity
+Campana,COSENZA,Calabria,16.835,39.444,28.7,3.5,ML,01:23.5,23/04/2005,Aprile,2005,Low intensity
+Cariati,COSENZA,Calabria,17.14,39.572,10,4.6,Mw,44:05.8,17/04/2006,Aprile,2006,Medium intensity
+Amantea,COSENZA,Calabria,15.89,39.119,103.1,3.5,ML,45:22.5,26/09/2006,Settembre,2006,Low intensity
+Savoia di Lucania,POTENZA,Basilicata,15.577,40.567,6,3.5,Md,39:49.3,21/04/2002,Aprile,2002,Low intensity
+Savoia di Lucania,POTENZA,Basilicata,15.594,40.612,4.7,4.1,ML MEDNET,56:47.9,18/04/2002,Aprile,2002,Medium intensity
+Muro Lucano,POTENZA,Basilicata,15.436,40.719,10.3,3.8,Md,21:26.5,24/02/2004,Febbraio,2004,Low intensity
+Muro Lucano,POTENZA,Basilicata,15.43,40.697,9.3,3.5,Md,48:45.2,23/02/2004,Febbraio,2004,Low intensity
+Rotonda,POTENZA,Basilicata,16.034,39.97,5,3.6,Md,44:02.5,23/09/1998,Settembre,1998,Low intensity
+Ruoti,POTENZA,Basilicata,15.684,40.701,5,4,Md,04:12.8,03/09/2004,Settembre,2004,Low intensity
+Lauria,POTENZA,Basilicata,15.934,40.048,10.4,3.6,Mw,43:19.9,09/11/2010,Novembre,2010,Low intensity
+Lauria,POTENZA,Basilicata,15.946,40.051,5,3.7,Md,33:41.6,08/11/1998,Novembre,1998,Low intensity
+Vietri di Potenza,POTENZA,Basilicata,15.549,40.605,5,3.5,Md,59:13.1,18/07/1996,Luglio,1996,Low intensity
+Lavello,POTENZA,Basilicata,15.789,41.071,5,3.9,Md,36:55.0,07/04/1998,Aprile,1998,Low intensity
+Vaglio Basilicata,POTENZA,Basilicata,15.969,40.666,5,3.7,Md,46:48.8,15/05/1997,Maggio,1997,Low intensity
+Maratea,POTENZA,Basilicata,15.597,39.84,286.4,4,ML,44:44.3,06/01/2016,Gennaio,2016,Low intensity
+Maratea,POTENZA,Basilicata,15.588,39.898,9,3.9,ML,24:28.0,29/06/2014,Giugno,2014,Low intensity
+Potenza,POTENZA,Basilicata,15.839,40.656,5,3.7,Md,38:04.7,26/04/1998,Aprile,1998,Low intensity
+Scalea,COSENZA,Calabria,15.664,39.772,279.8,3.8,ML,43:12.9,08/01/2010,Gennaio,2010,Low intensity
+Scalea,COSENZA,Calabria,15.717,39.776,314.8,3.5,ML VAX,34:04.6,12/02/2000,Febbraio,2000,Low intensity
+Badolato,CATANZARO,Calabria,16.617,38.571,26.1,3.6,Md,52:12.5,25/09/1999,Settembre,1999,Low intensity
+Serra Pedace,COSENZA,Calabria,16.358,39.289,14,4.3,Mw,43:38.1,28/12/2014,Dicembre,2014,Medium intensity
+Serra Pedace,COSENZA,Calabria,16.528,39.29,30.4,3.6,ML,56:52.0,25/03/2014,Marzo,2014,Low intensity
+Rossano,COSENZA,Calabria,16.623,39.709,10,4.5,Mw,34:58.3,22/06/2006,Giugno,2006,Medium intensity
+San Nicola Arcella,COSENZA,Calabria,15.61,39.792,285.1,3.6,ML,03:29.6,22/09/2007,Settembre,2007,Low intensity
+Cardinale,CATANZARO,Calabria,16.426,38.64,23.8,3.6,Md,46:59.2,27/09/1999,Settembre,1999,Low intensity
+San Sosti,COSENZA,Calabria,16.121,39.657,30.3,3.6,Md,17:03.3,29/11/2000,Novembre,2000,Low intensity
+Tortora,COSENZA,Calabria,15.85,39.978,280.7,4.6,Mw,14:22.4,01/12/2007,Dicembre,2007,Medium intensity
+Catanzaro,CATANZARO,Calabria,16.633,38.873,37.2,4.3,Mw,21:19.8,15/10/2010,Ottobre,2010,Medium intensity
+Trenta,COSENZA,Calabria,16.315,39.277,10,3.9,Md,02:46.4,18/10/2001,Ottobre,2001,Low intensity
+Santo Stefano di Rogliano,COSENZA,Calabria,16.409,39.215,5.7,3.6,Md,13:43.0,08/07/1997,Luglio,1997,Low intensity
+Rende,COSENZA,Calabria,16.191,39.363,10.7,3.6,ML,25:32.2,20/12/2007,Dicembre,2007,Low intensity
+Mottafollone,COSENZA,Calabria,15.999,39.638,100,3.5,ML,31:58.0,27/03/2014,Marzo,2014,Low intensity
+Diamante,COSENZA,Calabria,15.742,39.67,275.5,4.6,ML,10:57.8,16/10/2012,Ottobre,2012,Medium intensity
+Diamante,COSENZA,Calabria,15.774,39.722,286.5,3.9,ML,21:25.4,01/04/2012,Aprile,2012,Low intensity
+Diamante,COSENZA,Calabria,15.602,39.668,299.6,3.9,ML MEDNET,52:36.7,01/11/1998,Novembre,1998,Low intensity
+Longobucco,COSENZA,Calabria,16.589,39.449,5,3.8,Md,38:26.0,27/04/1996,Aprile,1996,Low intensity
+Luzzi,COSENZA,Calabria,16.293,39.414,323.4,4,Md,32:10.2,30/03/2000,Marzo,2000,Low intensity
+Fiumefreddo Bruzio,COSENZA,Calabria,16.071,39.225,57.6,3.9,ML,37:47.3,23/03/2009,Marzo,2009,Low intensity
+Mandatoriccio,COSENZA,Calabria,16.922,39.58,14.7,3.6,ML,07:45.4,27/12/2011,Dicembre,2011,Low intensity
+Mandatoriccio,COSENZA,Calabria,16.826,39.458,19.1,4.1,ML,11:41.7,23/04/2005,Aprile,2005,Medium intensity
+Parenti,COSENZA,Calabria,16.515,39.164,9.9,3.7,ML,10:01.6,13/04/2008,Aprile,2008,Low intensity
+Colosimi,COSENZA,Calabria,16.49,39.148,19.2,4,Mw,27:49.3,03/08/2015,Agosto,2015,Low intensity
+Laino Borgo,COSENZA,Calabria,15.963,39.95,5,3.5,Md,54:19.0,02/05/1999,Maggio,1999,Low intensity
+Laino Borgo,COSENZA,Calabria,16.021,39.983,7.5,3.7,Md,19:41.9,16/01/1999,Gennaio,1999,Low intensity
+Laino Borgo,COSENZA,Calabria,16.026,39.979,7.4,5,Md,28:00.2,09/09/1998,Settembre,1998,Medium intensity
+Morano Calabro,COSENZA,Calabria,16.102,39.902,7.7,3.5,Mw,29:29.0,31/07/2014,Luglio,2014,Low intensity
+Morano Calabro,COSENZA,Calabria,16.091,39.9,8.2,4,Mw,41:38.3,06/06/2014,Giugno,2014,Low intensity
+Morano Calabro,COSENZA,Calabria,16.102,39.869,8.3,4.3,Mw,06:26.8,28/05/2012,Maggio,2012,Medium intensity
+Mormanno,COSENZA,Calabria,15.99,39.859,8.4,3.7,Mw,20:41.1,04/06/2014,Giugno,2014,Low intensity
+Mormanno,COSENZA,Calabria,15.992,39.837,253.8,3.6,ML,07:11.1,14/02/2014,Febbraio,2014,Low intensity
+Mormanno,COSENZA,Calabria,16.006,39.914,8.7,3.6,Mw,28:39.6,25/11/2012,Novembre,2012,Low intensity
+Mormanno,COSENZA,Calabria,16.016,39.875,9.7,5.2,Mw,05:24.7,25/10/2012,Ottobre,2012,High intensity
+Mormanno,COSENZA,Calabria,16.026,39.888,8.7,3.5,ML,51:57.2,18/10/2012,Ottobre,2012,Low intensity
+Mormanno,COSENZA,Calabria,16.016,39.901,9.2,3.7,Mw,28:28.0,01/10/2012,Ottobre,2012,Low intensity
+Mormanno,COSENZA,Calabria,16.021,39.894,5.8,3.7,Mw,50:11.2,14/09/2012,Settembre,2012,Low intensity
+Mormanno,COSENZA,Calabria,16.008,39.878,8.4,3.7,Mw,45:08.3,19/08/2012,Agosto,2012,Low intensity
+Mormanno,COSENZA,Calabria,16.019,39.912,7.5,3.6,Mw,12:33.6,23/11/2011,Novembre,2011,Low intensity
+Mormanno,COSENZA,Calabria,16.013,39.931,5,3.6,Md,49:10.8,09/09/1998,Settembre,1998,Low intensity
+Crosia,COSENZA,Calabria,16.834,39.658,10,4.2,Mw,39:46.3,25/05/2007,Maggio,2007,Medium intensity
+Crosia,COSENZA,Calabria,16.883,39.656,5,3.5,Md,44:49.8,31/01/2005,Gennaio,2005,Low intensity
+Crosia,COSENZA,Calabria,16.844,39.7,5,4.3,Md,42:54.3,17/04/2002,Aprile,2002,Medium intensity
+Reggio di Calabria,REGGIO CALABRIA,Calabria,15.846,38.138,9.7,3.5,Md,12:36.3,08/02/1998,Febbraio,1998,Low intensity
+San Roberto,REGGIO CALABRIA,Calabria,15.728,38.205,48.9,4.5,Mw,12:15.5,28/08/2012,Agosto,2012,Medium intensity
+Sant'Omero,TERAMO,Abruzzo,13.791,42.79,5,3.9,Md,44:25.3,09/12/2004,Dicembre,2004,Low intensity
+Roccella Ionica,REGGIO CALABRIA,Calabria,16.473,38.159,70.2,3.5,ML,26:43.8,29/07/2008,Luglio,2008,Low intensity
+San Pietro a Maida,CATANZARO,Calabria,16.335,38.865,10.9,3.7,ML,30:24.9,14/10/2011,Ottobre,2011,Low intensity
+Baranello,CAMPOBASSO,Molise,14.606,41.532,10.7,3.6,Mw,09:23.6,17/01/2016,Gennaio,2016,Low intensity
+Baranello,CAMPOBASSO,Molise,14.599,41.527,10.2,4.2,Mw,55:11.9,16/01/2016,Gennaio,2016,Medium intensity
+Palizzi,REGGIO CALABRIA,Calabria,16.029,37.957,62,3.9,ML,00:32.2,24/05/2015,Maggio,2015,Low intensity
+Bonefro,CAMPOBASSO,Molise,14.956,41.707,18,4,Mw,40:10.9,24/12/2014,Dicembre,2014,Low intensity
+Bonefro,CAMPOBASSO,Molise,14.937,41.721,10,3.7,Md,10:41.1,05/11/2002,Novembre,2002,Low intensity
+Bonefro,CAMPOBASSO,Molise,14.928,41.693,10,3.7,Md,59:10.8,02/11/2002,Novembre,2002,Low intensity
+Bonefro,CAMPOBASSO,Molise,14.879,41.713,10,4.2,ML MEDNET,21:31.5,01/11/2002,Novembre,2002,Medium intensity
+Bonefro,CAMPOBASSO,Molise,14.916,41.708,10,3.5,Md,33:15.9,31/10/2002,Ottobre,2002,Low intensity
+Bonefro,CAMPOBASSO,Molise,14.938,41.708,10,3.5,Md,56:38.6,31/10/2002,Ottobre,2002,Low intensity
+Bonefro,CAMPOBASSO,Molise,14.928,41.696,10,5.4,ML MEDNET,33:00.2,31/10/2002,Ottobre,2002,High intensity
+Bonefro,CAMPOBASSO,Molise,14.933,41.704,3.5,3.5,Md,27:19.4,31/10/2002,Ottobre,2002,Low intensity
+Bova Marina,REGGIO CALABRIA,Calabria,15.941,37.946,5,3.6,Md,52:43.5,17/03/2000,Marzo,2000,Low intensity
+Condofuri,REGGIO CALABRIA,Calabria,15.882,37.937,59.9,3.5,ML,07:10.6,18/06/2014,Giugno,2014,Low intensity
+Bianco,REGGIO CALABRIA,Calabria,16.209,38.085,14.7,3.6,ML,48:46.4,29/03/2015,Marzo,2015,Low intensity
+Gioiosa Ionica,REGGIO CALABRIA,Calabria,16.311,38.32,5,3.6,Md,06:07.6,04/09/1997,Settembre,1997,Low intensity
+Gioiosa Ionica,REGGIO CALABRIA,Calabria,16.301,38.336,5,3.9,Md,15:41.4,03/09/1997,Settembre,1997,Low intensity
+Mammola,REGGIO CALABRIA,Calabria,16.216,38.365,7.5,3.5,Md,50:13.7,02/10/1997,Ottobre,1997,Low intensity
+Lamezia Terme,CATANZARO,Calabria,16.13,38.856,12.9,3.9,Mw,39:41.2,16/06/2010,Giugno,2010,Low intensity
+Lamezia Terme,CATANZARO,Calabria,16.24,38.962,8.8,3.5,ML,50:19.6,10/07/2008,Luglio,2008,Low intensity
+Taverna,CATANZARO,Calabria,16.525,39.14,9.1,3.9,Mw,01:00.0,18/01/2008,Gennaio,2008,Low intensity
+Taverna,CATANZARO,Calabria,16.562,39.077,5.9,3.5,Md,05:12.3,01/07/1998,Luglio,1998,Low intensity
+Nocera Terinese,CATANZARO,Calabria,15.914,38.966,128,3.8,Mw,22:56.1,27/04/2007,Aprile,2007,Low intensity
+Conza della Campania,AVELLINO,Campania,15.317,40.847,4.8,3.7,Md,55:59.3,19/05/2000,Maggio,2000,Low intensity
+Conza della Campania,AVELLINO,Campania,15.321,40.859,2.5,3.7,Md,45:49.9,18/05/2000,Maggio,2000,Low intensity
+Camerota,SALERNO,Campania,15.519,39.868,296.2,3.9,ML,31:32.4,02/01/2015,Gennaio,2015,Low intensity
+Camerota,SALERNO,Campania,15.48,39.816,299.2,3.9,ML,44:56.8,11/09/2011,Settembre,2011,Low intensity
+Caposele,AVELLINO,Campania,15.187,40.821,15.9,3.6,Mw,04:25.9,03/03/2012,Marzo,2012,Low intensity
+Caggiano,SALERNO,Campania,15.487,40.579,9.1,3.5,ML,36:18.8,13/07/2010,Luglio,2010,Low intensity
+Casacalenda,CAMPOBASSO,Molise,14.808,41.756,10,3.5,Md,49:27.1,04/11/2002,Novembre,2002,Low intensity
+Casacalenda,CAMPOBASSO,Molise,14.854,41.709,10,3.8,Md,37:01.5,02/11/2002,Novembre,2002,Low intensity
+Casacalenda,CAMPOBASSO,Molise,14.808,41.754,10,3.7,Md,44:00.0,01/11/2002,Novembre,2002,Low intensity
+Casacalenda,CAMPOBASSO,Molise,14.848,41.742,10,4.1,ML MEDNET,19:53.2,01/11/2002,Novembre,2002,Medium intensity
+Castellino del Biferno,CAMPOBASSO,Molise,14.754,41.656,5,3.6,Md,52:31.6,19/02/2003,Febbraio,2003,Low intensity
+Carlantino,FOGGIA,Puglia,14.963,41.61,10,3.5,Md,47:32.6,29/04/2003,Aprile,2003,Low intensity
+Campotosto,L'AQUILA,Abruzzo,13.32,42.542,9.9,3.8,Mw,56:21.2,14/04/2009,Aprile,2009,Low intensity
+Cansano,L'AQUILA,Abruzzo,14.002,41.985,8.1,3.7,Mw,43:07.9,29/03/2009,Marzo,2009,Low intensity
+Cansano,L'AQUILA,Abruzzo,14.017,41.986,6.7,3.6,Mw,12:50.5,17/03/2009,Marzo,2009,Low intensity
+Capitignano,L'AQUILA,Abruzzo,13.291,42.535,11.5,3.7,Mw,49:30.2,16/04/2009,Aprile,2009,Low intensity
+Capitignano,L'AQUILA,Abruzzo,13.33,42.515,9.8,3.8,Mw,53:07.6,15/04/2009,Aprile,2009,Low intensity
+Capitignano,L'AQUILA,Abruzzo,13.298,42.526,10.3,3.7,Mw,17:27.2,14/04/2009,Aprile,2009,Low intensity
+Capitignano,L'AQUILA,Abruzzo,13.313,42.528,7.8,3.6,Mw,27:30.6,14/04/2009,Aprile,2009,Low intensity
+Capitignano,L'AQUILA,Abruzzo,13.281,42.517,10.1,3.5,Md,48:15.5,13/03/2005,Marzo,2005,Low intensity
+Fossa,L'AQUILA,Abruzzo,13.486,42.303,17.1,5.4,Mw,47:37.3,07/04/2009,Aprile,2009,High intensity
+Ricigliano,SALERNO,Campania,15.478,40.667,6.6,3.5,Md,05:07.1,17/07/1996,Luglio,1996,Low intensity
+Cagnano Varano,FOGGIA,Puglia,15.658,41.859,5,3.5,Md,58:01.3,24/07/2003,Luglio,2003,Low intensity
+Martinsicuro,TERAMO,Abruzzo,14.052,42.882,5,3.7,Md,23:07.2,09/07/1996,Luglio,1996,Low intensity
+Ispani,SALERNO,Campania,15.558,39.985,302.5,4.4,Mw,03:04.3,22/02/2007,Febbraio,2007,Medium intensity
+Valle Castellana,TERAMO,Abruzzo,13.409,42.687,5,3.6,Md,28:53.4,05/11/1996,Novembre,1996,Low intensity
+Laviano,SALERNO,Campania,15.325,40.774,7.1,3.8,Md,51:57.5,05/04/1999,Aprile,1999,Low intensity
+Centola,SALERNO,Campania,15.197,39.826,5,4.2,Md,13:25.9,03/03/2004,Marzo,2004,Medium intensity
+Roccadaspide,SALERNO,Campania,15.141,40.456,329.1,4,ML,33:27.7,14/12/2014,Dicembre,2014,Low intensity
+Roccadaspide,SALERNO,Campania,15.152,40.441,8,3.7,Mw,44:10.9,22/01/2014,Gennaio,2014,Low intensity
+Roccadaspide,SALERNO,Campania,15.135,40.441,6.1,3.6,Mw,35:01.8,22/01/2014,Gennaio,2014,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.479,42.461,16.2,3.7,Mw,35:33.4,08/12/2013,Dicembre,2013,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.483,42.465,15.7,3.6,Mw,00:06.9,17/02/2013,Febbraio,2013,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.245,42.391,10.1,3.5,Mw,07:30.5,20/10/2009,Ottobre,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.392,42.338,11.1,3.6,Mw,14:24.8,12/07/2009,Luglio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.379,42.328,10.1,4.2,Mw,38:51.4,12/07/2009,Luglio,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.382,42.391,9.6,3.7,Mw,03:07.6,03/07/2009,Luglio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.366,42.319,11.1,3.6,ML,14:07.3,03/07/2009,Luglio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.369,42.444,14.9,3.7,Mw,41:56.2,23/06/2009,Giugno,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.339,42.35,11,3.6,Mw,55:10.1,30/05/2009,Maggio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.329,42.372,9.8,3.5,ML,30:55.0,14/05/2009,Maggio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.405,42.488,9.1,3.5,ML,32:33.8,14/05/2009,Maggio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.377,42.489,9.7,3.5,ML,59:04.1,11/05/2009,Maggio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.358,42.346,10.4,3.5,ML,09:40.0,09/05/2009,Maggio,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.358,42.358,10.5,3.5,Mw,01:01.9,30/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.371,42.324,10,3.5,Mw,44:36.3,21/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.359,42.436,14.5,3.8,Mw,05:56.3,18/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.377,42.498,9,4.8,Mw,14:24.5,13/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.346,42.351,9.6,3.7,Mw,09:49.5,13/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.455,42.445,9.1,3.6,Mw,36:05.1,13/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.42,42.463,9.6,3.7,Mw,22:22.2,10/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.35,42.504,9.3,5,Mw,38:17.0,09/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.373,42.502,9.6,3.7,Mw,43:09.6,09/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.434,42.445,9.8,4.1,Mw,32:45.0,09/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.444,42.335,17.1,4.2,Mw,14:52.3,09/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.351,42.489,11,5.2,Mw,52:59.7,09/04/2009,Aprile,2009,High intensity
+L'Aquila,L'AQUILA,Abruzzo,13.367,42.497,10.8,3.8,Mw,56:50.2,08/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.36,42.356,9.9,3.6,Mw,39:06.8,07/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.365,42.364,9.6,4.3,Mw,34:29.8,07/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.371,42.332,9.8,3.8,ML,30:56.6,07/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.387,42.336,9.6,4.9,Mw,26:28.6,07/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.391,42.343,9.5,3.7,ML,24:56.7,07/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.303,42.326,10.2,3.6,Mw,47:14.3,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.342,42.384,10,3.7,Mw,56:53.9,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.339,42.363,10,4.2,Mw,38:09.7,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.402,42.338,9.9,3.5,ML,36:18.1,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.384,42.317,9.7,3.6,Mw,12:35.8,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.383,42.356,9,4.1,Mw,17:10.1,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.356,42.356,9.1,3.8,Mw,47:53.6,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.386,42.335,9.3,4.3,Mw,56:45.7,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.325,42.37,8.8,3.5,ML,17:29.9,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.328,42.36,8.7,4.8,Mw,37:04.3,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.319,42.366,8.3,3.9,ML,27:46.3,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.429,42.3,10.5,4.2,ML,42:50.0,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.456,42.364,8.7,4.3,ML,41:37.8,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.319,42.377,8.5,4,ML,41:32.7,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.402,42.417,11,4.1,ML,40:50.7,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.327,42.365,8.9,3.6,ML,38:47.5,06/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.346,42.352,9.7,4.7,ML,36:29.2,06/04/2009,Aprile,2009,Medium intensity
+L'Aquila,L'AQUILA,Abruzzo,13.38,42.342,8.3,6.1,Mw,32:40.4,06/04/2009,Aprile,2009,High intensity
+L'Aquila,L'AQUILA,Abruzzo,13.385,42.329,10,3.5,Mw,39:41.9,05/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.382,42.325,9.5,3.9,Mw,48:54.5,05/04/2009,Aprile,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.378,42.315,9.7,3.5,Mw,43:27.0,30/03/2009,Marzo,2009,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.376,42.321,9.8,4,Mw,38:39.0,30/03/2009,Marzo,2009,Low intensity
+Ocre,L'AQUILA,Abruzzo,13.462,42.287,9.6,3.6,Mw,12:51.6,01/05/2009,Maggio,2009,Low intensity
+Ocre,L'AQUILA,Abruzzo,13.462,42.29,9,3.8,Mw,27:41.2,08/04/2009,Aprile,2009,Low intensity
+Ocre,L'AQUILA,Abruzzo,13.462,42.293,9.3,3.6,Mw,00:34.6,08/04/2009,Aprile,2009,Low intensity
+Eboli,SALERNO,Campania,15.059,40.573,330,3.9,ML,22:49.8,30/05/2008,Maggio,2008,Low intensity
+Lecce nei Marsi,L'AQUILA,Abruzzo,13.671,41.905,15.7,4,ML,26:03.6,22/07/2007,Luglio,2007,Low intensity
+Lecce nei Marsi,L'AQUILA,Abruzzo,13.711,41.894,19,3.5,ML,21:21.9,05/05/2005,Maggio,2005,Low intensity
+Lucoli,L'AQUILA,Abruzzo,13.331,42.279,9.7,3.6,ML,40:32.7,30/10/2011,Ottobre,2011,Low intensity
+Lucoli,L'AQUILA,Abruzzo,13.369,42.3,8.5,3.7,ML,44:35.3,06/04/2009,Aprile,2009,Low intensity
+Magliano de' Marsi,L'AQUILA,Abruzzo,13.334,42.109,7.9,3.5,ML,55:17.7,13/01/2011,Gennaio,2011,Low intensity
+Magliano de' Marsi,L'AQUILA,Abruzzo,13.34,42.11,8.4,3.8,ML,58:20.4,09/01/2011,Gennaio,2011,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.226,42.516,10.4,3.5,Mw,12:52.4,31/08/2010,Agosto,2010,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.188,42.565,8.5,3.5,ML,38:10.5,30/06/2009,Giugno,2009,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.191,42.563,9.8,3.5,ML,14:30.2,26/06/2009,Giugno,2009,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.199,42.564,10.5,3.5,Mw,00:08.3,25/06/2009,Giugno,2009,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.215,42.48,7,3.5,Md,57:08.2,25/10/1997,Ottobre,1997,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.207,42.484,2.8,3.5,Md,48:54.0,25/10/1997,Ottobre,1997,Low intensity
+Panni,FOGGIA,Puglia,15.297,41.224,8.9,3.5,Md,20:39.0,07/11/1996,Novembre,1996,Low intensity
+Roccamandolfi,ISERNIA,Molise,14.33,41.5,5,3.6,Md,39:17.7,15/08/1998,Agosto,1998,Low intensity
+Monte Sant'Angelo,FOGGIA,Puglia,16.007,41.587,7,3.6,Mw,32:55.8,12/04/2011,Aprile,2011,Low intensity
+Monte Sant'Angelo,FOGGIA,Puglia,15.917,41.677,10,3.7,Md,11:20.0,18/01/1999,Gennaio,1999,Low intensity
+Monte Sant'Angelo,FOGGIA,Puglia,15.837,41.741,13.6,3.9,Md,23:38.7,22/09/1998,Settembre,1998,Low intensity
+Monte Sant'Angelo,FOGGIA,Puglia,15.888,41.769,22.6,3.5,Md,27:21.8,19/12/1996,Dicembre,1996,Low intensity
+Cerignola,FOGGIA,Puglia,15.849,41.42,1.8,3.6,ML,58:27.8,10/07/2007,Luglio,2007,Low intensity
+Lesina,FOGGIA,Puglia,15.359,41.877,27,3.6,ML,02:18.2,26/03/2012,Marzo,2012,Low intensity
+Lesina,FOGGIA,Puglia,15.49,41.957,6.4,3.8,ML,33:31.2,06/08/2006,Agosto,2006,Low intensity
+Lesina,FOGGIA,Puglia,15.3,41.867,5,3.6,Md,08:54.1,23/04/2000,Aprile,2000,Low intensity
+San Giovanni Rotondo,FOGGIA,Puglia,15.771,41.711,16,3.6,Md,27:47.5,23/09/1998,Settembre,1998,Low intensity
+Foggia,FOGGIA,Puglia,15.623,41.472,6,4.2,Mw,20:17.8,17/09/2010,Settembre,2010,Medium intensity
+Ischitella,FOGGIA,Puglia,15.858,41.898,31.6,3.9,Mw,38:57.7,19/03/2008,Marzo,2008,Low intensity
+Ischitella,FOGGIA,Puglia,15.885,41.879,22.8,3.6,Md,33:12.9,15/08/2001,Agosto,2001,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.521,42.091,21.7,3.6,Mw,53:19.3,08/07/2015,Luglio,2015,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.746,42.074,36.8,4.1,Mw,34:20.5,04/10/2006,Ottobre,2006,Medium intensity
+Isole Tremiti,FOGGIA,Puglia,15.931,42.144,5,3.5,ML,13:12.4,25/09/2006,Settembre,2006,Low intensity
+Carpino,FOGGIA,Puglia,15.903,41.801,31.2,4.5,Mw,20:06.3,29/05/2006,Maggio,2006,Medium intensity
+Dasa' (VV),VIBO VALENTIA,Calabria,16.184,38.567,5,3.9,Md,10:56.0,09/06/1997,Giugno,1997,Low intensity
+Rocca di Neto (KR),CROTONE,Calabria,17.061,39.197,9.9,3.6,ML,33:01.8,03/12/2005,Dicembre,2005,Low intensity
+Umbriatico (KR),CROTONE,Calabria,16.943,39.369,5,3.6,Md,19:11.8,30/03/1999,Marzo,1999,Low intensity
+Joppolo (VV),VIBO VALENTIA,Calabria,15.843,38.565,111.7,3.7,Md,42:56.6,13/06/2000,Giugno,2000,Low intensity
+Novafeltria (RN),RIMINI,Emilia-Romagna,12.317,43.928,5,4.2,Md,34:30.9,01/08/2000,Agosto,2000,Medium intensity
+Cotronei (KR),CROTONE,Calabria,16.804,39.145,9.9,3.8,Md,54:15.0,05/04/2002,Aprile,2002,Low intensity
+Crotone (KR),CROTONE,Calabria,17.158,39.007,25.4,3.6,ML,44:25.2,19/09/2011,Settembre,2011,Low intensity
+Crotone (KR),CROTONE,Calabria,17.373,39.169,26.9,4,ML,09:20.6,20/11/2008,Novembre,2008,Low intensity
+Crotone (KR),CROTONE,Calabria,17.214,39.179,10,3.6,ML,28:27.2,27/09/2008,Settembre,2008,Low intensity
+Crotone (KR),CROTONE,Calabria,17.176,39.003,10,4.2,Mw,07:54.9,01/08/2007,Agosto,2007,Medium intensity
+Crotone (KR),CROTONE,Calabria,17.215,39.126,18.9,3.5,ML,35:22.6,18/11/2005,Novembre,2005,Low intensity
+Roccabernarda (KR),CROTONE,Calabria,16.858,39.117,4.1,3.5,Md,38:19.3,06/04/2002,Aprile,2002,Low intensity
+Cantagallo (PO),PRATO,Toscana,11.083,44.081,5,3.5,Md,44:52.1,06/12/2001,Dicembre,2001,Low intensity
+Cutro (KR),CROTONE,Calabria,16.946,38.865,2.2,3.5,ML,18:11.9,25/03/2011,Marzo,2011,Low intensity
+Montescudo (RN),RIMINI,Emilia-Romagna,12.534,43.911,43.4,3.5,ML,13:37.6,11/11/2015,Novembre,2015,Low intensity
+Isola di Capo Rizzuto (KR),CROTONE,Calabria,17.252,38.766,75.2,4.7,Mw,24:44.4,05/04/2014,Aprile,2014,Medium intensity
+Isola di Capo Rizzuto (KR),CROTONE,Calabria,16.973,38.869,1,3.8,ML,31:31.5,25/03/2011,Marzo,2011,Low intensity
+Isola di Capo Rizzuto (KR),CROTONE,Calabria,17.126,38.724,10,3.8,Md,14:14.6,17/04/2004,Aprile,2004,Low intensity
+Casabona (KR),CROTONE,Calabria,16.964,39.28,22.9,3.8,Mw,55:26.4,26/03/2007,Marzo,2007,Low intensity
+Casteldelci (RN),RIMINI,Emilia-Romagna,12.152,43.762,4.5,3.7,ML,01:51.4,30/08/2006,Agosto,2006,Low intensity
+Nicotera (VV),VIBO VALENTIA,Calabria,15.926,38.528,23.8,3.6,ML,09:46.8,30/10/2005,Ottobre,2005,Low intensity
+Ricadi (VV),VIBO VALENTIA,Calabria,15.73,38.691,175.6,4.3,ML,54:00.8,04/08/2014,Agosto,2014,Medium intensity
+Ricadi (VV),VIBO VALENTIA,Calabria,15.735,38.851,258,5.1,ML MEDNET,43:54.9,17/05/2001,Maggio,2001,High intensity
+Ricadi (VV),VIBO VALENTIA,Calabria,15.832,38.744,211.6,3.8,Md,20:00.1,25/02/1996,Febbraio,1996,Low intensity
+Cossogno (VB),VERBANIA,Piemonte,8.428,46.045,9.1,3.5,Md,14:09.7,29/04/2002,Aprile,2002,Low intensity
+Monterosso Calabro (VV),VIBO VALENTIA,Calabria,16.317,38.713,23.7,3.7,ML,40:33.4,07/09/2005,Settembre,2005,Low intensity
+Sant'Eufemia d'Aspromonte,REGGIO CALABRIA,Calabria,15.854,38.234,78.4,4.4,ML,06:33.3,13/11/2012,Novembre,2012,Medium intensity
+Tramonti di Sopra,PORDENONE,Friuli-Venezia Giulia,12.708,46.277,6,3.6,Md,51:26.7,25/04/1999,Aprile,1999,Low intensity
+Tramonti di Sopra,PORDENONE,Friuli-Venezia Giulia,12.649,46.301,5,3.6,Md,06:52.3,16/04/1996,Aprile,1996,Low intensity
+Tramonti di Sopra,PORDENONE,Friuli-Venezia Giulia,12.641,46.323,5,3.5,Md,43:48.9,27/02/1996,Febbraio,1996,Low intensity
+Tramonti di Sopra,PORDENONE,Friuli-Venezia Giulia,12.665,46.304,5,4.1,Md,13:46.1,27/02/1996,Febbraio,1996,Medium intensity
+Tramonti di Sopra,PORDENONE,Friuli-Venezia Giulia,12.642,46.315,5,3.7,Md,26:01.3,27/01/1996,Gennaio,1996,Low intensity
+Tramonti di Sotto,PORDENONE,Friuli-Venezia Giulia,12.847,46.336,5,3.7,Md,10:51.5,30/08/2003,Agosto,2003,Low intensity
+Belmonte Piceno (FM),FERMO,Marche,13.535,43.092,5,3.7,Md,37:46.0,22/01/1996,Gennaio,1996,Low intensity
+PRATOVECCHIO STIA,AREZZO,Toscana,11.728,43.785,71.7,3.7,ML,48:09.3,11/06/2012,Giugno,2012,Low intensity
+Falerone (FM),FERMO,Marche,13.451,43.119,17.1,4.1,Mw,25:11.3,12/01/2010,Gennaio,2010,Medium intensity
+Falerone (FM),FERMO,Marche,13.445,43.119,16.9,4,ML,33:35.6,10/01/2010,Gennaio,2010,Low intensity
+Falerone (FM),FERMO,Marche,13.466,43.083,5,3.5,Md,36:23.9,15/03/1996,Marzo,1996,Low intensity
+Bisceglie (BT),BARLETTA ANDRIA TRANI,Puglia,16.63,41.434,10,3.6,Md,02:50.1,09/04/2002,Aprile,2002,Low intensity
+Montegiorgio (FM),FERMO,Marche,13.497,43.133,5,3.7,Md,28:53.7,22/05/1996,Maggio,1996,Low intensity
+TREMEZZINA,COMO,Lombardia,9.176,45.984,6.6,3.5,Md,22:52.4,06/04/2001,Aprile,2001,Low intensity
+Macchiagodena,ISERNIA,Molise,14.439,41.567,335.3,3.6,ML,48:01.8,01/01/2015,Gennaio,2015,Low intensity
+Monte Vidon Corrado (FM),FERMO,Marche,13.484,43.121,6.4,3.7,Md,21:42.5,01/01/1996,Gennaio,1996,Low intensity
+Canicattini Bagni,SIRACUSA,Sicilia,15.053,37.038,23.9,3.8,Mw,42:38.2,23/04/2006,Aprile,2006,Low intensity
+Sant'Alfio,CATANIA,Sicilia,15.018,37.759,4,3.5,ML,28:06.5,13/05/2008,Maggio,2008,Low intensity
+Sant'Alfio,CATANIA,Sicilia,15.098,37.77,5,3.7,Md,29:30.3,27/10/2002,Ottobre,2002,Low intensity
+Santa Venerina,CATANIA,Sicilia,15.143,37.667,5,4.1,Md,14:51.9,29/10/2002,Ottobre,2002,Medium intensity
+Zafferana Etnea,CATANIA,Sicilia,15.046,37.687,5,3.6,Md,45:31.3,15/07/2001,Luglio,2001,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.095,37.673,5,4,Md,13:34.3,13/07/2001,Luglio,2001,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.02,37.702,5,3.5,Md,56:34.9,22/04/2001,Aprile,2001,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.028,37.697,5,3.5,Md,36:52.4,09/01/1998,Gennaio,1998,Low intensity
+Trecastagni,CATANIA,Sicilia,15.072,37.639,13.6,3.5,ML,02:41.0,31/10/2005,Ottobre,2005,Low intensity
+Trecastagni,CATANIA,Sicilia,15.07,37.677,5,4.1,Md,40:07.7,24/12/1997,Dicembre,1997,Medium intensity
+Ragalna,CATANIA,Sicilia,14.965,37.66,4.8,3.6,ML,30:14.1,16/12/2008,Dicembre,2008,Low intensity
+Ragalna,CATANIA,Sicilia,14.963,37.662,17.7,3.7,Mw,05:56.2,20/05/2006,Maggio,2006,Low intensity
+Ragusa,RAGUSA,Sicilia,14.68,36.877,15.1,3.5,Md,04:50.3,30/12/2004,Dicembre,2004,Low intensity
+Vittoria,RAGUSA,Sicilia,14.305,36.792,20.5,3.6,ML,41:43.9,01/10/2005,Ottobre,2005,Low intensity
+Vittoria,RAGUSA,Sicilia,14.299,36.792,21.3,3.6,ML,35:21.4,01/10/2005,Ottobre,2005,Low intensity
+Noto,SIRACUSA,Sicilia,15.058,36.996,5,3.7,Mw,14:20.2,27/06/2012,Giugno,2012,Low intensity
+Pachino,SIRACUSA,Sicilia,15.034,36.672,10.5,3.9,Mw,57:34.0,15/12/2013,Dicembre,2013,Low intensity
+Pachino,SIRACUSA,Sicilia,15.077,36.714,8.7,4,ML,18:18.8,24/08/2013,Agosto,2013,Low intensity
+Portopalo di Capo Passero,SIRACUSA,Sicilia,15.296,36.517,10,3.6,ML,23:29.4,08/05/2010,Maggio,2010,Low intensity
+Barcellona Pozzo di Gotto,MESSINA,Sicilia,15.169,38.165,6.6,3.6,Mw,55:55.2,27/10/2008,Ottobre,2008,Low intensity
+Barcellona Pozzo di Gotto,MESSINA,Sicilia,15.2,38.155,9.2,4.1,ML,34:01.8,27/02/2006,Febbraio,2006,Medium intensity
+Lipari,MESSINA,Sicilia,14.27,38.551,19.5,4.1,ML,46:24.4,08/08/2015,Agosto,2015,Medium intensity
+Lipari,MESSINA,Sicilia,15.364,38.605,214.7,4.5,ML,22:41.7,09/05/2015,Maggio,2015,Medium intensity
+Lipari,MESSINA,Sicilia,15.156,38.696,255.8,4.7,Mw,52:27.3,06/02/2015,Febbraio,2015,Medium intensity
+Lipari,MESSINA,Sicilia,15.296,38.883,276.5,3.6,ML,41:51.0,23/07/2014,Luglio,2014,Low intensity
+Lipari,MESSINA,Sicilia,15.321,38.718,235,3.5,ML,22:38.2,26/06/2014,Giugno,2014,Low intensity
+Lipari,MESSINA,Sicilia,15.312,38.911,271.7,3.6,ML,04:23.4,30/05/2014,Maggio,2014,Low intensity
+Lipari,MESSINA,Sicilia,14.907,38.367,11.1,3.8,Mw,35:00.5,14/01/2014,Gennaio,2014,Low intensity
+Lipari,MESSINA,Sicilia,14.904,38.392,17.3,3.9,Mw,43:41.8,14/01/2014,Gennaio,2014,Low intensity
+Lipari,MESSINA,Sicilia,14.256,38.663,24.2,3.8,ML,04:00.8,10/08/2013,Agosto,2013,Low intensity
+Lipari,MESSINA,Sicilia,14.866,38.309,23.6,3.5,ML,09:57.4,30/08/2012,Agosto,2012,Low intensity
+Lipari,MESSINA,Sicilia,15.16,38.415,175,4.1,ML,27:13.7,04/07/2012,Luglio,2012,Medium intensity
+Lipari,MESSINA,Sicilia,14.993,38.587,242.7,3.6,ML,17:04.2,28/03/2012,Marzo,2012,Low intensity
+Lipari,MESSINA,Sicilia,14.58,38.427,20.7,3.5,ML,37:10.3,03/11/2011,Novembre,2011,Low intensity
+Lipari,MESSINA,Sicilia,14.568,38.424,22.4,3.7,ML,32:22.3,03/11/2011,Novembre,2011,Low intensity
+Lipari,MESSINA,Sicilia,14.919,38.41,16.9,4.6,Mw,54:47.1,16/08/2010,Agosto,2010,Medium intensity
+Lipari,MESSINA,Sicilia,15.056,38.798,274.6,3.5,ML,18:30.3,21/05/2010,Maggio,2010,Low intensity
+Lipari,MESSINA,Sicilia,14.179,38.516,22.2,3.6,ML,25:44.8,29/10/2009,Ottobre,2009,Low intensity
+Lipari,MESSINA,Sicilia,14.231,38.724,25.5,3.5,ML,58:56.1,14/12/2008,Dicembre,2008,Low intensity
+Lipari,MESSINA,Sicilia,14.944,38.704,289.3,3.6,ML,43:18.7,05/11/2008,Novembre,2008,Low intensity
+Lipari,MESSINA,Sicilia,15.435,38.895,243.7,4.1,ML,49:29.0,30/10/2008,Ottobre,2008,Medium intensity
+Lipari,MESSINA,Sicilia,14.839,38.42,203,3.8,ML,36:52.8,17/08/2008,Agosto,2008,Low intensity
+Lipari,MESSINA,Sicilia,15.265,38.831,279.3,5.2,Mw,55:32.6,04/07/2007,Luglio,2007,High intensity
+Lipari,MESSINA,Sicilia,14.687,38.571,18.9,3.6,ML,48:13.1,17/05/2007,Maggio,2007,Low intensity
+Lipari,MESSINA,Sicilia,14.228,38.52,25.6,3.5,ML,45:22.7,20/12/2006,Dicembre,2006,Low intensity
+Lipari,MESSINA,Sicilia,15.273,38.947,282.9,3.6,ML,34:21.3,13/06/2006,Giugno,2006,Low intensity
+Lipari,MESSINA,Sicilia,14.616,38.613,19.9,3.5,Mw,31:09.5,09/05/2006,Maggio,2006,Low intensity
+Lipari,MESSINA,Sicilia,14.992,38.84,279.8,3.5,ML,14:45.2,25/05/2005,Maggio,2005,Low intensity
+Lipari,MESSINA,Sicilia,14.634,38.537,9.9,3.5,Md,36:00.6,29/05/2004,Maggio,2004,Low intensity
+Lipari,MESSINA,Sicilia,14.901,38.52,255.3,5.3,ML MEDNET,39:41.8,05/05/2004,Maggio,2004,High intensity
+Lipari,MESSINA,Sicilia,14.172,38.655,15.2,3.5,Md,05:56.9,24/09/2003,Settembre,2003,Low intensity
+Lipari,MESSINA,Sicilia,15.096,38.352,5,3.9,Md,52:21.8,05/04/2002,Aprile,2002,Low intensity
+Lipari,MESSINA,Sicilia,15.101,38.512,238.9,4.1,ML MEDNET,08:30.9,18/10/2001,Ottobre,2001,Medium intensity
+Lipari,MESSINA,Sicilia,15.166,38.498,6.8,3.5,Md,47:20.5,31/07/2001,Luglio,2001,Low intensity
+Lipari,MESSINA,Sicilia,14.428,38.586,7.1,3.5,Md,27:40.3,19/07/2001,Luglio,2001,Low intensity
+Lipari,MESSINA,Sicilia,14.47,38.556,14.8,3.5,Md,26:05.3,19/07/2001,Luglio,2001,Low intensity
+Lipari,MESSINA,Sicilia,14.622,38.536,8.7,3.5,Md,16:41.5,08/04/2000,Aprile,2000,Low intensity
+Lipari,MESSINA,Sicilia,14.173,38.55,17.4,3.5,Md,37:52.9,07/06/1999,Giugno,1999,Low intensity
+Longi,MESSINA,Sicilia,14.741,37.911,33.1,3.5,ML,07:27.3,18/11/2008,Novembre,2008,Low intensity
+Capo d'Orlando,MESSINA,Sicilia,14.671,38.274,8.4,4.1,Mw,59:00.4,15/11/2011,Novembre,2011,Medium intensity
+Capo d'Orlando,MESSINA,Sicilia,14.741,38.323,237,4.1,ML MEDNET,15:09.2,17/08/2001,Agosto,2001,Medium intensity
+Furnari,MESSINA,Sicilia,15.104,38.088,9.5,3.6,Mw,00:48.6,07/06/2014,Giugno,2014,Low intensity
+Gioiosa Marea,MESSINA,Sicilia,14.914,38.163,24.8,4.2,ML,06:51.2,15/08/2013,Agosto,2013,Medium intensity
+Gioiosa Marea,MESSINA,Sicilia,14.914,38.163,25.6,4.4,Mw,04:58.5,15/08/2013,Agosto,2013,Medium intensity
+Leni,MESSINA,Sicilia,14.736,38.532,20.7,3.8,ML,58:26.0,09/10/2014,Ottobre,2014,Low intensity
+Leni,MESSINA,Sicilia,14.727,38.472,24.9,4.3,ML,58:00.0,09/10/2014,Ottobre,2014,Medium intensity
+Milazzo,MESSINA,Sicilia,15.263,38.401,143.6,3.9,ML,30:44.8,13/02/2014,Febbraio,2014,Low intensity
+Milazzo,MESSINA,Sicilia,15.173,38.275,10.9,4,Mw,04:08.0,18/08/2007,Agosto,2007,Low intensity
+Cesaro',MESSINA,Sicilia,14.72,37.879,15.1,4.2,Mw,50:06.1,04/01/2013,Gennaio,2013,Medium intensity
+Cesaro',MESSINA,Sicilia,14.557,37.847,7.6,4.4,Mw,51:16.4,08/11/2009,Novembre,2009,Medium intensity
+Caronia,MESSINA,Sicilia,14.521,37.975,6.9,3.6,Mw,36:59.0,07/03/2013,Marzo,2013,Low intensity
+Malfa,MESSINA,Sicilia,14.792,38.591,9.8,3.6,Mw,12:46.2,23/09/2007,Settembre,2007,Low intensity
+Malfa,MESSINA,Sicilia,14.842,38.719,296.5,3.7,ML MEDNET,18:02.0,01/12/2002,Dicembre,2002,Low intensity
+Malfa,MESSINA,Sicilia,14.886,38.76,311.7,3.6,Md,20:57.1,04/01/2001,Gennaio,2001,Low intensity
+Malfa,MESSINA,Sicilia,14.804,38.697,357.5,3.8,Md,05:53.9,23/10/1999,Ottobre,1999,Low intensity
+Messina,MESSINA,Sicilia,15.569,38.215,10.3,4,ML,20:38.5,23/12/2013,Dicembre,2013,Low intensity
+Gangi,PALERMO,Sicilia,14.189,37.691,33.9,3.6,ML,14:24.8,20/02/2008,Febbraio,2008,Low intensity
+San Vito Lo Capo,TRAPANI,Sicilia,12.818,38.368,10,4.3,Md,25:49.1,20/06/1998,Giugno,1998,Medium intensity
+San Vito Lo Capo,TRAPANI,Sicilia,12.829,38.378,7.1,3.9,Md,55:57.3,20/05/1998,Maggio,1998,Low intensity
+San Vito Lo Capo,TRAPANI,Sicilia,12.868,38.33,10,4.1,Md,32:49.4,17/01/1998,Gennaio,1998,Medium intensity
+Caltavuturo,PALERMO,Sicilia,13.948,37.787,5.1,3.5,Md,43:28.2,28/11/2001,Novembre,2001,Low intensity
+Caltavuturo,PALERMO,Sicilia,13.9,37.811,5,3.7,Md,18:43.2,14/12/1996,Dicembre,1996,Low intensity
+Favignana,TRAPANI,Sicilia,12.048,38.06,5,3.5,Md,03:54.2,05/06/1996,Giugno,1996,Low intensity
+Centuripe,ENNA,Sicilia,14.751,37.604,26.4,3.5,ML,10:42.5,23/07/2009,Luglio,2009,Low intensity
+Acireale,CATANIA,Sicilia,15.15,37.657,5,3.6,Md,59:59.4,24/11/2002,Novembre,2002,Low intensity
+Acireale,CATANIA,Sicilia,15.213,37.607,5,4,Md,39:47.5,29/10/2002,Ottobre,2002,Low intensity
+Acireale,CATANIA,Sicilia,15.167,37.593,5,3.7,Md,03:59.7,28/10/2001,Ottobre,2001,Low intensity
+Aci Sant'Antonio,CATANIA,Sicilia,15.119,37.625,5,4.3,Md,02:22.1,29/10/2002,Ottobre,2002,Medium intensity
+San Marco d'Alunzio,MESSINA,Sicilia,14.735,38.037,8.3,3.5,ML,13:45.2,27/06/2011,Giugno,2011,Low intensity
+Belpasso,CATANIA,Sicilia,14.982,37.675,14.9,3.7,ML,09:24.2,08/01/2006,Gennaio,2006,Low intensity
+Belpasso,CATANIA,Sicilia,14.987,37.709,5,3.6,Md,57:37.7,05/08/1999,Agosto,1999,Low intensity
+Biancavilla,CATANIA,Sicilia,14.983,37.731,5,4,Md,58:12.6,27/10/2002,Ottobre,2002,Low intensity
+Resuttano,CALTANISSETTA,Sicilia,14.035,37.69,36.1,3.7,ML,50:02.4,13/03/2012,Marzo,2012,Low intensity
+Bronte,CATANIA,Sicilia,14.963,37.801,27.3,3.9,Mw,25:51.7,22/11/2012,Novembre,2012,Low intensity
+Bronte,CATANIA,Sicilia,14.96,37.801,24.4,3.9,Mw,10:41.5,22/11/2012,Novembre,2012,Low intensity
+Bronte,CATANIA,Sicilia,14.962,37.791,26.7,3.5,ML,45:35.7,11/05/2011,Maggio,2011,Low intensity
+Bronte,CATANIA,Sicilia,14.963,37.793,25.7,3.5,ML,28:49.8,06/05/2011,Maggio,2011,Low intensity
+Bronte,CATANIA,Sicilia,14.963,37.79,28.1,4.1,Mw,12:35.0,06/05/2011,Maggio,2011,Medium intensity
+Bronte,CATANIA,Sicilia,14.974,37.782,26.9,4.4,ML,01:16.5,19/12/2009,Dicembre,2009,Medium intensity
+Bronte,CATANIA,Sicilia,14.942,37.769,22.9,3.7,ML,24:57.9,19/12/2009,Dicembre,2009,Low intensity
+Bronte,CATANIA,Sicilia,14.934,37.772,28.5,3.5,ML,01:11.5,19/12/2009,Dicembre,2009,Low intensity
+Bronte,CATANIA,Sicilia,14.944,37.764,24.4,3.5,ML,42:26.9,19/12/2009,Dicembre,2009,Low intensity
+Bronte,CATANIA,Sicilia,14.913,37.778,23.8,3.9,Mw,58:06.5,19/12/2006,Dicembre,2006,Low intensity
+Bronte,CATANIA,Sicilia,14.947,37.764,8.6,3.6,Md,50:14.7,15/08/1996,Agosto,1996,Low intensity
+Siculiana,AGRIGENTO,Sicilia,13.279,37.263,29.4,3.5,ML,34:42.8,16/07/2005,Luglio,2005,Low intensity
+Santa Caterina Villarmosa,CALTANISSETTA,Sicilia,14.105,37.597,63.2,4.7,ML,57:40.2,21/11/2005,Novembre,2005,Medium intensity
+Troina,ENNA,Sicilia,14.566,37.834,5.3,3.5,ML,47:56.0,05/01/2010,Gennaio,2010,Low intensity
+Villalba,CALTANISSETTA,Sicilia,13.851,37.634,34,4.1,ML,10:05.6,07/11/2009,Novembre,2009,Medium intensity
+Castiglione di Sicilia,CATANIA,Sicilia,15.127,37.86,5,3.8,Md,49:52.9,29/10/2002,Ottobre,2002,Low intensity
+Castiglione di Sicilia,CATANIA,Sicilia,15.164,37.868,5,3.6,Md,56:11.8,29/10/2002,Ottobre,2002,Low intensity
+Mistretta,MESSINA,Sicilia,14.326,37.935,26.7,3.7,Mw,19:45.3,26/08/2014,Agosto,2014,Low intensity
+Taormina,MESSINA,Sicilia,15.41,37.815,10.7,3.8,ML,23:51.1,09/03/2011,Marzo,2011,Low intensity
+Palermo,PALERMO,Sicilia,13.304,38.345,9.2,4.3,Mw,21:32.6,13/04/2012,Aprile,2012,Medium intensity
+San Salvatore di Fitalia,MESSINA,Sicilia,14.782,38.051,7.6,3.9,ML,08:38.7,06/07/2011,Luglio,2011,Low intensity
+San Salvatore di Fitalia,MESSINA,Sicilia,14.784,38.064,7.3,4.5,Mw,02:46.7,23/06/2011,Giugno,2011,Medium intensity
+Tripi,MESSINA,Sicilia,15.061,38.03,6.6,3.5,ML,16:45.1,02/09/2008,Settembre,2008,Low intensity
+Terme Vigliatore,MESSINA,Sicilia,15.109,38.243,25.1,3.7,Mw,49:53.2,06/06/2010,Giugno,2010,Low intensity
+Terme Vigliatore,MESSINA,Sicilia,15.169,38.143,7.3,3.5,ML,11:59.1,27/02/2006,Febbraio,2006,Low intensity
+Lampedusa e Linosa,AGRIGENTO,Sicilia,12.938,36.014,10,3.7,ML,52:29.1,08/05/2008,Maggio,2008,Low intensity
+Lampedusa e Linosa,AGRIGENTO,Sicilia,12.687,35.943,32.5,3.6,ML,55:43.5,23/11/2006,Novembre,2006,Low intensity
+Lampedusa e Linosa,AGRIGENTO,Sicilia,12.679,35.883,28.1,4.6,Mw,31:53.9,23/11/2006,Novembre,2006,Medium intensity
+Patti,MESSINA,Sicilia,15.019,38.183,12,4.3,Md,45:53.4,14/02/1999,Febbraio,1999,Medium intensity
+Polizzi Generosa,PALERMO,Sicilia,13.97,37.726,5,4,Md,34:18.7,25/11/2001,Novembre,2001,Low intensity
+Pollina,PALERMO,Sicilia,14.158,37.992,5,3.5,Md,22:14.0,30/09/1996,Settembre,1996,Low intensity
+Sclafani Bagni,PALERMO,Sicilia,13.86,37.723,6.7,3.5,ML,02:35.3,07/02/2009,Febbraio,2009,Low intensity
+Sclafani Bagni,PALERMO,Sicilia,13.84,37.696,5,3.9,Mw,19:59.7,29/03/2006,Marzo,2006,Low intensity
+Sclafani Bagni,PALERMO,Sicilia,13.857,37.809,5,3.5,Md,32:22.9,14/12/1996,Dicembre,1996,Low intensity
+Santa Lucia del Mela,MESSINA,Sicilia,15.304,38.081,10.4,3.5,Md,10:13.9,22/10/2004,Ottobre,2004,Low intensity
+Santa Marina Salina,MESSINA,Sicilia,14.824,38.492,250.1,4.2,ML,39:43.4,29/09/2012,Settembre,2012,Medium intensity
+Santa Marina Salina,MESSINA,Sicilia,14.885,38.561,265.4,3.9,ML,16:09.7,15/09/2009,Settembre,2009,Low intensity
+Cammarata,AGRIGENTO,Sicilia,13.823,37.617,35.3,4.2,ML,39:22.2,28/11/2008,Novembre,2008,Medium intensity
+Ustica,PALERMO,Sicilia,13.296,38.705,11,3.5,ML,00:03.7,11/08/2010,Agosto,2010,Low intensity
+Ustica,PALERMO,Sicilia,13.12,38.653,20,3.5,ML,20:48.8,20/09/2006,Settembre,2006,Low intensity
+Ustica,PALERMO,Sicilia,13.33,38.608,16.8,3.8,ML,20:24.7,25/02/2006,Febbraio,2006,Low intensity
+Fiumefreddo di Sicilia,CATANIA,Sicilia,15.231,37.787,5,3.7,Md,42:13.4,27/10/2002,Ottobre,2002,Low intensity
+Giarre,CATANIA,Sicilia,15.164,37.719,5,4,Md,06:56.5,27/10/2002,Ottobre,2002,Low intensity
+Randazzo,CATANIA,Sicilia,14.862,37.922,36.7,3.8,Mw,52:50.8,08/03/2014,Marzo,2014,Low intensity
+Randazzo,CATANIA,Sicilia,14.989,37.837,28.8,3.6,ML,38:50.9,10/07/2005,Luglio,2005,Low intensity
+Randazzo,CATANIA,Sicilia,15.002,37.806,5,4,ML MEDNET,13:35.2,27/10/2002,Ottobre,2002,Low intensity
+Randazzo,CATANIA,Sicilia,14.945,37.853,18.3,3.5,Md,57:57.5,21/06/1997,Giugno,1997,Low intensity
+Licodia Eubea,CATANIA,Sicilia,14.633,37.129,14.8,3.5,Md,04:03.7,16/09/1997,Settembre,1997,Low intensity
+Linguaglossa,CATANIA,Sicilia,15.039,37.787,1,3.7,ML,13:42.9,13/05/2008,Maggio,2008,Low intensity
+Linguaglossa,CATANIA,Sicilia,15.11,37.792,5,4,Md,32:07.6,27/10/2002,Ottobre,2002,Low intensity
+Maletto,CATANIA,Sicilia,14.949,37.79,24.5,3.7,ML,28:55.6,22/11/2012,Novembre,2012,Low intensity
+Maletto,CATANIA,Sicilia,14.873,37.813,28,3.9,ML,23:45.5,09/09/2011,Settembre,2011,Low intensity
+Maletto,CATANIA,Sicilia,14.946,37.792,25.1,3.6,ML,24:42.5,23/12/2009,Dicembre,2009,Low intensity
+Maletto,CATANIA,Sicilia,14.962,37.787,24.3,3.6,ML,43:11.4,19/12/2009,Dicembre,2009,Low intensity
+Maletto,CATANIA,Sicilia,14.954,37.771,24.7,4.3,ML,36:28.8,19/12/2009,Dicembre,2009,Medium intensity
+Maletto,CATANIA,Sicilia,14.891,37.829,26.4,3.6,ML,55:34.7,19/06/2006,Giugno,2006,Low intensity
+Maletto,CATANIA,Sicilia,14.961,37.769,6.5,3.6,Md,17:04.6,14/08/1996,Agosto,1996,Low intensity
+Maletto,CATANIA,Sicilia,14.928,37.78,9.2,3.6,Md,32:43.5,14/07/1996,Luglio,1996,Low intensity
+Mascali,CATANIA,Sicilia,15.15,37.789,10,3.9,ML MEDNET,33:04.4,13/02/2003,Febbraio,2003,Low intensity
+Mascali,CATANIA,Sicilia,15.169,37.786,5,4,Md,02:37.0,29/10/2002,Ottobre,2002,Low intensity
+Mascali,CATANIA,Sicilia,15.128,37.755,5,3.5,Md,47:52.1,27/10/2002,Ottobre,2002,Low intensity
+Mascali,CATANIA,Sicilia,15.113,37.769,5,3.6,Md,49:34.3,27/10/2002,Ottobre,2002,Low intensity
+Mascali,CATANIA,Sicilia,15.114,37.765,5,3.9,Md,31:12.4,27/10/2002,Ottobre,2002,Low intensity
+Mascali,CATANIA,Sicilia,15.116,37.76,5,4.3,Md,50:26.3,27/10/2002,Ottobre,2002,Medium intensity
+Mascali,CATANIA,Sicilia,15.114,37.764,5,3.5,Md,39:11.5,27/10/2002,Ottobre,2002,Low intensity
+Mascali,CATANIA,Sicilia,15.177,37.754,5,3.5,Md,42:23.8,27/10/2002,Ottobre,2002,Low intensity
+Mascali,CATANIA,Sicilia,15.199,37.76,5,3.7,Md,01:52.0,22/09/2002,Settembre,2002,Low intensity
+Militello in Val di Catania,CATANIA,Sicilia,14.797,37.262,19.5,3.7,Md,06:38.0,30/07/1997,Luglio,1997,Low intensity
+Milo,CATANIA,Sicilia,15.068,37.751,1,3.6,ML,07:48.4,13/05/2008,Maggio,2008,Low intensity
+Milo,CATANIA,Sicilia,15.096,37.736,5,3.7,Md,46:47.2,27/10/2002,Ottobre,2002,Low intensity
+Nicolosi,CATANIA,Sicilia,15.031,37.648,5,3.5,Md,14:18.6,15/07/2001,Luglio,2001,Low intensity
+Nicolosi,CATANIA,Sicilia,15.015,37.671,5,3.9,Md,15:32.8,13/07/2001,Luglio,2001,Low intensity
+Nicolosi,CATANIA,Sicilia,15.011,37.65,5,3.6,Md,40:43.0,05/11/2000,Novembre,2000,Low intensity
+Nicolosi,CATANIA,Sicilia,15.013,37.65,5,4,Md,26:27.7,05/11/2000,Novembre,2000,Low intensity
+Nicolosi,CATANIA,Sicilia,15.012,37.698,5,3.9,Md,45:19.0,10/01/1998,Gennaio,1998,Low intensity
+Pedara,CATANIA,Sicilia,15.061,37.623,8,3.6,ML,06:49.8,30/10/2005,Ottobre,2005,Low intensity
+Pedara,CATANIA,Sicilia,15.044,37.672,5,3.5,Md,33:01.9,17/07/2001,Luglio,2001,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.153,37.806,3.1,3.6,ML,07:43.2,20/04/2015,Aprile,2015,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.151,37.797,3.4,4,ML,04:45.1,02/04/2010,Aprile,2010,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.142,37.799,5,3.7,Md,12:59.2,24/12/2002,Dicembre,2002,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.178,37.8,5,3.6,Md,01:41.9,28/10/2002,Ottobre,2002,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.175,37.802,5,3.6,Md,51:10.0,27/10/2002,Ottobre,2002,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.175,37.799,5,4.1,ML MEDNET,28:19.8,27/10/2002,Ottobre,2002,Medium intensity
+Pula,CAGLIARI,Sardegna,9,38.898,8.6,4.1,ML,43:47.7,24/03/2006,Marzo,2006,Medium intensity
+Caselle Torinese,TORINO,Piemonte,7.652,45.164,14.9,3.5,Md,00:36.3,13/09/1992,Settembre,1992,Low intensity
+Cuorgne',TORINO,Piemonte,7.585,45.394,5,3.5,Md,46:56.1,03/07/1987,Luglio,1987,Low intensity
+Inverso Pinasca,TORINO,Piemonte,7.226,44.923,10,3.7,Md,12:40.5,29/08/1985,Agosto,1985,Low intensity
+None,TORINO,Piemonte,7.55,44.973,8.6,4.1,Md,00:36.9,11/02/1990,Febbraio,1990,Medium intensity
+Rivoli,TORINO,Piemonte,7.513,45.062,5,3.6,Md,04:33.8,21/11/1995,Novembre,1995,Low intensity
+Sant'Ambrogio di Torino,TORINO,Piemonte,7.356,45.109,5,3.5,Md,52:11.7,05/02/1994,Febbraio,1994,Low intensity
+Dronero,CUNEO,Piemonte,7.307,44.453,5,3.6,Md,31:14.0,16/08/1992,Agosto,1992,Low intensity
+Paesana,CUNEO,Piemonte,7.261,44.649,10.1,3.7,Md,56:29.0,28/05/1989,Maggio,1989,Low intensity
+Acceglio,CUNEO,Piemonte,6.905,44.444,5,3.5,Md,07:42.8,13/10/1995,Ottobre,1995,Low intensity
+Fortezza,BOLZANO,Trentino-Alto Adige,11.595,46.783,5,3.6,Md,37:44.2,08/06/1985,Giugno,1985,Low intensity
+Bordighera,IMPERIA,Liguria,7.752,43.593,7.7,3.8,Md,50:35.8,15/04/1990,Aprile,1990,Low intensity
+Bormida,SAVONA,Liguria,8.219,44.248,10,3.5,M,08:37.5,17/07/1993,Luglio,1993,Low intensity
+Giustenice,SAVONA,Liguria,8.22,44.2,5,3.7,Md,40:12.7,14/07/1993,Luglio,1993,Low intensity
+Loano,SAVONA,Liguria,8.223,44.163,7.2,3.5,Md,55:50.1,17/07/1993,Luglio,1993,Low intensity
+Calizzano,SAVONA,Liguria,8.112,44.215,6.8,3.5,Md,56:50.5,17/07/1993,Luglio,1993,Low intensity
+Pietra Ligure,SAVONA,Liguria,8.29,44.147,6.6,4.2,Md,35:00.1,17/07/1993,Luglio,1993,Medium intensity
+Rialto,SAVONA,Liguria,8.236,44.237,10,3.5,Md,54:44.9,17/07/1993,Luglio,1993,Low intensity
+Ventimiglia,IMPERIA,Liguria,7.55,43.762,5,3.9,Md,02:56.1,21/04/1995,Aprile,1995,Low intensity
+Tovo San Giacomo,SAVONA,Liguria,8.256,44.184,5,3.7,Md,08:22.6,17/07/1993,Luglio,1993,Low intensity
+Tovo San Giacomo,SAVONA,Liguria,8.27,44.175,5,3.8,Md,46:04.5,17/07/1993,Luglio,1993,Low intensity
+Alfedena,L'AQUILA,Abruzzo,13.937,41.699,10,3.6,Md,07:39.6,07/08/1986,Agosto,1986,Low intensity
+Sanza,SALERNO,Campania,15.467,40.267,10,3.6,Md,01:01.2,12/01/1988,Gennaio,1988,Low intensity
+Casola in Lunigiana,MASSA-CARRARA,Toscana,10.216,44.237,10,3.9,Md,20:15.6,10/02/1987,Febbraio,1987,Low intensity
+Comano,MASSA-CARRARA,Toscana,10.137,44.297,3.6,4.1,Md,53:40.0,01/10/1986,Ottobre,1986,Medium intensity
+Fosdinovo,MASSA-CARRARA,Toscana,10.01,44.126,5,4.6,Md,54:22.9,10/10/1995,Ottobre,1995,Medium intensity
+Offida,ASCOLI PICENO,Marche,13.679,42.951,7.6,3.8,Md,57:36.4,01/05/1985,Maggio,1985,Low intensity
+Pontremoli,MASSA-CARRARA,Toscana,9.874,44.441,5,3.7,Md,35:02.8,16/08/1988,Agosto,1988,Low intensity
+Scanno,L'AQUILA,Abruzzo,13.861,41.904,10.4,3.5,Md,10:04.7,20/09/1994,Settembre,1994,Low intensity
+Frinco,ASTI,Piemonte,8.189,44.979,9.5,3.7,Md,24:41.2,29/05/1991,Maggio,1991,Low intensity
+Valgrana,CUNEO,Piemonte,7.373,44.389,6.5,3.7,Md,43:29.3,15/03/1993,Marzo,1993,Low intensity
+Rocca Pia,L'AQUILA,Abruzzo,13.99,41.878,5,3.5,Md,04:53.1,21/10/1989,Ottobre,1989,Low intensity
+Sampeyre,CUNEO,Piemonte,7.243,44.55,5,3.7,Md,59:14.2,20/01/1994,Gennaio,1994,Low intensity
+Sanfront,CUNEO,Piemonte,7.289,44.621,10,3.5,Md,27:38.6,12/05/1989,Maggio,1989,Low intensity
+Aviano,PORDENONE,Friuli-Venezia Giulia,12.612,46.131,5,3.6,Md,52:37.8,12/07/1990,Luglio,1990,Low intensity
+Stroppo,CUNEO,Piemonte,7.145,44.516,10,3.6,Md,05:43.1,20/01/1994,Gennaio,1994,Low intensity
+Tione degli Abruzzi,L'AQUILA,Abruzzo,13.632,42.203,5,3.5,Md,33:36.8,05/05/1991,Maggio,1991,Low intensity
+Gardone Val Trompia,BRESCIA,Lombardia,10.181,45.709,5,3.6,Md,16:52.2,09/12/1993,Dicembre,1993,Low intensity
+Baiso,REGGIO EMILIA,Emilia-Romagna,10.623,44.527,5,3.6,Md,25:15.5,08/12/1991,Dicembre,1991,Low intensity
+Novellara,REGGIO EMILIA,Emilia-Romagna,10.703,44.834,5,4,Md,03:17.3,15/03/1988,Marzo,1988,Low intensity
+Novellara,REGGIO EMILIA,Emilia-Romagna,10.723,44.811,3.1,4.5,Md,43:54.1,02/05/1987,Maggio,1987,Medium intensity
+Novellara,REGGIO EMILIA,Emilia-Romagna,10.699,44.815,5,4.3,Md,30:28.2,24/04/1987,Aprile,1987,Medium intensity
+Sansepolcro,AREZZO,Toscana,12.11,43.601,5,3.7,Md,33:17.4,08/05/1990,Maggio,1990,Low intensity
+Sestino,AREZZO,Toscana,12.216,43.737,5,3.8,Md,12:37.1,05/07/1987,Luglio,1987,Low intensity
+Castelnovo Ne' Monti,REGGIO EMILIA,Emilia-Romagna,10.369,44.422,9.7,3.6,Md,38:09.6,14/06/1992,Giugno,1992,Low intensity
+Salsomaggiore Terme,PARMA,Emilia-Romagna,9.985,44.752,5,3.7,Md,38:33.7,11/04/1990,Aprile,1990,Low intensity
+Palazzolo sull'Oglio,BRESCIA,Lombardia,9.925,45.606,4.8,3.9,Md,00:25.3,29/10/1995,Ottobre,1995,Low intensity
+Varano de' Melegari,PARMA,Emilia-Romagna,9.988,44.694,10.6,3.5,Md,56:25.9,29/07/1985,Luglio,1985,Low intensity
+Arezzo,AREZZO,Toscana,11.863,43.374,5,3.5,Md,13:18.1,16/01/1987,Gennaio,1987,Low intensity
+Badia Tedalda,AREZZO,Toscana,12.2,43.682,5,3.9,Md,54:38.1,09/07/1989,Luglio,1989,Low intensity
+Rivanazzano,PAVIA,Lombardia,8.994,44.951,8.3,3.5,Md,27:35.3,25/12/1988,Dicembre,1988,Low intensity
+Forni di Sopra,UDINE,Friuli-Venezia Giulia,12.558,46.373,5,3.5,Md,59:56.4,26/06/1986,Giugno,1986,Low intensity
+Gemona del Friuli,UDINE,Friuli-Venezia Giulia,13.194,46.312,5,3.7,Md,37:37.1,04/02/1988,Febbraio,1988,Low intensity
+Gemona del Friuli,UDINE,Friuli-Venezia Giulia,13.153,46.314,10,3.9,Md,21:40.1,01/02/1988,Febbraio,1988,Low intensity
+Ampezzo,UDINE,Friuli-Venezia Giulia,12.71,46.355,5,3.6,Md,10:00.6,12/06/1988,Giugno,1988,Low intensity
+Ampezzo,UDINE,Friuli-Venezia Giulia,12.705,46.35,5,3.9,Md,00:49.7,29/08/1986,Agosto,1986,Low intensity
+Remanzacco,UDINE,Friuli-Venezia Giulia,13.304,46.06,5,3.7,Md,34:09.2,23/07/1993,Luglio,1993,Low intensity
+Venzone,UDINE,Friuli-Venezia Giulia,13.216,46.327,5,3.5,Md,31:16.7,21/02/1994,Febbraio,1994,Low intensity
+Resiutta,UDINE,Friuli-Venezia Giulia,13.227,46.354,5,3.5,Md,42:40.8,06/10/1986,Ottobre,1986,Low intensity
+Forgaria del Friuli,UDINE,Friuli-Venezia Giulia,12.982,46.23,5,3.5,Md,15:01.8,22/02/1994,Febbraio,1994,Low intensity
+San Leonardo,UDINE,Friuli-Venezia Giulia,13.527,46.128,10,3.8,Md,04:25.2,12/01/1986,Gennaio,1986,Low intensity
+Faedis,UDINE,Friuli-Venezia Giulia,13.387,46.209,10,4.2,Md,14:59.9,05/10/1991,Ottobre,1991,Medium intensity
+Pievepelago,MODENA,Emilia-Romagna,10.568,44.146,12.5,3.5,Md,36:45.0,08/02/1988,Febbraio,1988,Low intensity
+Pievepelago,MODENA,Emilia-Romagna,10.54,44.169,8.7,3.6,Md,24:46.7,08/02/1988,Febbraio,1988,Low intensity
+Pievepelago,MODENA,Emilia-Romagna,10.574,44.14,9.4,4.1,Md,10:18.1,23/01/1985,Gennaio,1985,Medium intensity
+Prignano sulla Secchia,MODENA,Emilia-Romagna,10.767,44.464,6.4,3.6,Md,39:08.5,02/06/1986,Giugno,1986,Low intensity
+Prignano sulla Secchia,MODENA,Emilia-Romagna,10.759,44.47,15,3.7,Md,08:35.0,31/05/1986,Maggio,1986,Low intensity
+Finale Emilia,MODENA,Emilia-Romagna,11.292,44.867,5,3.6,Md,47:03.0,29/12/1991,Dicembre,1991,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.183,44.866,0.4,3.5,Md,47:19.4,14/05/1987,Maggio,1987,Low intensity
+San Felice sul Panaro,MODENA,Emilia-Romagna,11.173,44.861,5,4,Md,10:26.2,08/05/1987,Maggio,1987,Low intensity
+Castel di Casio,BOLOGNA,Emilia-Romagna,11.028,44.202,24.1,3.6,Md,30:17.0,12/05/1986,Maggio,1986,Low intensity
+Coli,PIACENZA,Emilia-Romagna,9.468,44.723,10,3.6,Md,28:06.0,12/08/1985,Agosto,1985,Low intensity
+Farini,PIACENZA,Emilia-Romagna,9.593,44.66,9.8,4.1,Md,58:05.1,15/08/1985,Agosto,1985,Medium intensity
+Langhirano,PARMA,Emilia-Romagna,10.213,44.587,5,3.7,Md,13:51.4,28/12/1986,Dicembre,1986,Low intensity
+Ferriere,PIACENZA,Emilia-Romagna,9.503,44.624,5.8,3.5,Md,05:18.6,08/08/1985,Agosto,1985,Low intensity
+Bardi,PARMA,Emilia-Romagna,9.601,44.619,9.3,3.9,Md,39:36.4,16/08/1985,Agosto,1985,Low intensity
+Compiano,PARMA,Emilia-Romagna,9.687,44.529,8.7,3.7,Md,10:16.3,18/08/1985,Agosto,1985,Low intensity
+Besenzone,PIACENZA,Emilia-Romagna,9.967,44.978,6.5,3.5,Md,40:01.4,22/11/1991,Novembre,1991,Low intensity
+Besenzone,PIACENZA,Emilia-Romagna,10.01,44.976,5,4,Md,31:18.4,31/10/1991,Ottobre,1991,Low intensity
+Corniglio,PARMA,Emilia-Romagna,10.048,44.395,5,3.7,Md,16:39.7,03/03/1995,Marzo,1995,Low intensity
+Corniglio,PARMA,Emilia-Romagna,10.112,44.497,5,3.8,Md,41:32.0,03/10/1989,Ottobre,1989,Low intensity
+Bedonia,PARMA,Emilia-Romagna,9.643,44.565,5,3.6,Md,03:49.4,12/05/1986,Maggio,1986,Low intensity
+Casola Valsenio,RAVENNA,Emilia-Romagna,11.539,44.154,5,3.5,Md,13:57.7,27/05/1992,Maggio,1992,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,11.919,43.819,5,3.7,Md,38:37.1,14/01/1991,Gennaio,1991,Low intensity
+Bagno di Romagna,FORLI',Emilia-Romagna,12.034,43.855,5,3.9,Md,54:03.6,24/11/1985,Novembre,1985,Low intensity
+Bertinoro,FORLI',Emilia-Romagna,12.107,44.135,5,3.5,Md,54:27.3,28/12/1995,Dicembre,1995,Low intensity
+Bertinoro,FORLI',Emilia-Romagna,12.164,44.177,4.5,3.6,Md,49:14.1,01/04/1987,Aprile,1987,Low intensity
+Premilcuore,FORLI',Emilia-Romagna,11.863,43.996,21.1,3.6,Md,06:05.9,16/07/1987,Luglio,1987,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.238,44.163,7.8,3.6,Md,12:13.4,02/02/1994,Febbraio,1994,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.21,44.177,3.8,3.6,Md,19:51.0,12/11/1993,Novembre,1993,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.219,44.179,1.6,3.6,Md,46:24.6,09/11/1993,Novembre,1993,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.211,44.176,5,3.7,Md,21:11.9,07/11/1993,Novembre,1993,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.209,44.164,7.2,3.7,Md,00:52.0,14/10/1987,Ottobre,1987,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.218,44.189,5,3.5,Md,46:59.3,09/05/1987,Maggio,1987,Low intensity
+Cesena,FORLI',Emilia-Romagna,12.203,44.185,5,3.7,Md,37:19.3,29/03/1987,Marzo,1987,Low intensity
+Ravenna,RAVENNA,Emilia-Romagna,12.106,44.292,24.4,3.6,Md,57:30.8,21/06/1986,Giugno,1986,Low intensity
+Civitella di Romagna,FORLI',Emilia-Romagna,12.074,44.048,15.6,3.5,Md,23:19.1,19/08/1987,Agosto,1987,Low intensity
+Forli',FORLI',Emilia-Romagna,12.071,44.167,10,3.5,Md,44:28.1,27/12/1995,Dicembre,1995,Low intensity
+Forli',FORLI',Emilia-Romagna,12.038,44.253,10,3.8,M,21:14.4,06/11/1993,Novembre,1993,Low intensity
+Galeata,FORLI',Emilia-Romagna,11.891,44.054,21.8,3.5,Md,19:16.2,31/12/1992,Dicembre,1992,Low intensity
+Bagnacavallo,RAVENNA,Emilia-Romagna,11.957,44.425,9.8,3.5,Md,23:54.6,03/04/1992,Aprile,1992,Low intensity
+Brisighella,RAVENNA,Emilia-Romagna,11.631,44.122,5,3.5,Md,16:50.5,30/07/1994,Luglio,1994,Low intensity
+Crevalcore,BOLOGNA,Emilia-Romagna,11.25,44.782,10.1,3.7,M,47:03.7,28/12/1991,Dicembre,1991,Low intensity
+Bondeno,FERRARA,Emilia-Romagna,11.435,44.927,5,4.1,Md,07:18.8,06/12/1986,Dicembre,1986,Medium intensity
+Cento,FERRARA,Emilia-Romagna,11.286,44.755,20.1,3.6,Md,46:52.3,11/07/1987,Luglio,1987,Low intensity
+Dro,TRENTO,Trentino-Alto Adige,10.925,46.002,3.5,3.5,Md,09:27.6,10/07/1987,Luglio,1987,Low intensity
+Folgaria,TRENTO,Trentino-Alto Adige,11.228,45.879,5,3.7,Md,22:47.9,24/10/1994,Ottobre,1994,Low intensity
+Frontone,PESARO E URBINO,Marche,12.713,43.482,5,3.8,Md,36:08.3,30/05/1995,Maggio,1995,Low intensity
+Borgo Pace,PESARO E URBINO,Marche,12.225,43.62,5,4,Md,51:24.2,17/01/1993,Gennaio,1993,Low intensity
+Brenzone,VERONA,Veneto,10.721,45.675,5,4.2,Md,23:25.9,24/05/1987,Maggio,1987,Medium intensity
+Trambileno,TRENTO,Trentino-Alto Adige,11.17,45.821,9.6,4.7,Md,54:01.5,13/09/1989,Settembre,1989,Medium intensity
+Vigo di Cadore,BELLUNO,Veneto,12.552,46.472,5,3.9,Md,57:03.0,29/08/1986,Agosto,1986,Low intensity
+Codogne',TREVISO,Veneto,12.427,45.887,5,3.5,Md,30:10.6,28/06/1990,Giugno,1990,Low intensity
+Lorenzago di Cadore,BELLUNO,Veneto,12.479,46.445,4.5,3.8,Md,04:21.9,07/04/1987,Aprile,1987,Low intensity
+Farra d'Alpago,BELLUNO,Veneto,12.408,46.108,5,3.9,Md,53:59.0,16/08/1990,Agosto,1990,Low intensity
+Velletri,ROMA,Lazio,12.737,41.717,7.6,3.9,Md,26:24.7,11/04/1987,Aprile,1987,Low intensity
+Roma,ROMA,Lazio,12.506,41.783,4.9,3.8,Md,13:35.3,12/06/1995,Giugno,1995,Low intensity
+Roma,ROMA,Lazio,12.454,41.805,12.4,3.5,Md,10:02.5,10/03/1995,Marzo,1995,Low intensity
+Ponza,LATINA,Lazio,12.932,40.659,5,4,Md,54:07.1,03/07/1989,Luglio,1989,Low intensity
+Aprilia,LATINA,Lazio,12.644,41.621,5,3.8,Md,36:58.0,11/04/1987,Aprile,1987,Low intensity
+Accumoli,RIETI,Lazio,13.333,42.706,5,3.5,Md,07:56.8,19/03/1994,Marzo,1994,Low intensity
+Accumoli,RIETI,Lazio,13.233,42.704,10,3.6,Md,33:40.7,07/07/1985,Luglio,1985,Low intensity
+Amatrice,RIETI,Lazio,13.246,42.579,5,3.8,Md,44:50.8,24/10/1992,Ottobre,1992,Low intensity
+Borgorose,RIETI,Lazio,13.323,42.228,10,4,Md,00:30.6,20/05/1985,Maggio,1985,Low intensity
+Posta,RIETI,Lazio,13.08,42.518,4.3,3.7,Md,40:46.7,23/07/1991,Luglio,1991,Low intensity
+Rocca di Papa,ROMA,Lazio,12.694,41.755,7,3.9,Md,19:19.1,23/10/1989,Ottobre,1989,Low intensity
+Rocca Priora,ROMA,Lazio,12.76,41.775,4.8,3.9,Md,33:26.7,19/10/1989,Ottobre,1989,Low intensity
+Dugenta,BENEVENTO,Campania,14.465,41.131,5,3.5,Md,20:31.1,01/03/1987,Marzo,1987,Low intensity
+Cassino,FROSINONE,Lazio,13.833,41.5,5,3.6,Md,58:59.8,27/03/1986,Marzo,1986,Low intensity
+Pesco Sannita,BENEVENTO,Campania,14.805,41.225,5,3.6,Md,29:55.0,18/03/1992,Marzo,1992,Low intensity
+Morcone,BENEVENTO,Campania,14.667,41.34,5,3.5,Md,36:32.6,16/05/1991,Maggio,1991,Low intensity
+Trevi nel Lazio,FROSINONE,Lazio,13.268,41.873,5,3.8,Md,01:25.9,05/08/1994,Agosto,1994,Low intensity
+Numana,ANCONA,Marche,13.719,43.524,10,3.8,Md,07:53.2,22/06/1986,Giugno,1986,Low intensity
+Senigallia,ANCONA,Marche,13.232,43.7,5,3.5,Md,32:40.6,15/12/1991,Dicembre,1991,Low intensity
+Fiuminata,MACERATA,Marche,12.876,43.129,5,3.5,Md,38:57.2,23/01/1986,Gennaio,1986,Low intensity
+Mosciano Sant'Angelo,TERAMO,Abruzzo,13.889,42.763,0.6,3.5,Md,51:14.8,21/09/1985,Settembre,1985,Low intensity
+Livorno,LIVORNO,Toscana,10.169,43.518,5,3.7,Md,33:32.6,11/08/1988,Agosto,1988,Low intensity
+Livorno,LIVORNO,Toscana,10.224,43.441,5,3.5,Md,00:20.5,22/01/1987,Gennaio,1987,Low intensity
+Livorno,LIVORNO,Toscana,10.21,43.481,11.3,3.8,Md,10:51.6,22/01/1987,Gennaio,1987,Low intensity
+Firenzuola,FIRENZE,Toscana,11.466,44.138,5,3.8,Md,26:07.3,28/05/1992,Maggio,1992,Low intensity
+Penna San Giovanni,MACERATA,Marche,13.43,43.078,5,3.5,Md,03:02.6,26/12/1995,Dicembre,1995,Low intensity
+Pieve Torina,MACERATA,Marche,12.984,43.047,5,3.8,Md,15:03.6,05/06/1992,Giugno,1992,Low intensity
+San Ginesio,MACERATA,Marche,13.331,43.139,5,3.8,Md,46:23.0,11/09/1989,Settembre,1989,Low intensity
+San Ginesio,MACERATA,Marche,13.295,43.12,10,3.8,Md,00:48.3,22/06/1986,Giugno,1986,Low intensity
+Giuncugnano,LUCCA,Toscana,10.252,44.221,5,3.8,Md,16:18.2,30/08/1988,Agosto,1988,Low intensity
+Agliana,PISTOIA,Toscana,11.005,43.902,6.7,3.8,Md,31:33.5,23/08/1995,Agosto,1995,Low intensity
+Cutigliano,PISTOIA,Toscana,10.726,44.108,5,4.2,Md,27:33.5,24/08/1995,Agosto,1995,Medium intensity
+Grosseto,GROSSETO,Toscana,10.803,42.63,10,3.7,Md,29:05.9,17/11/1993,Novembre,1993,Low intensity
+Cinigiano,GROSSETO,Toscana,11.417,42.936,5,3.7,Md,28:34.8,12/06/1992,Giugno,1992,Low intensity
+Assisi,PERUGIA,Umbria,12.666,43.152,5,4.4,Md,16:18.4,05/06/1993,Giugno,1993,Medium intensity
+Assisi,PERUGIA,Umbria,12.671,43.138,5,4.1,Md,36:52.6,04/06/1993,Giugno,1993,Medium intensity
+Assisi,PERUGIA,Umbria,12.618,43.117,10,3.5,Md,28:57.2,25/11/1985,Novembre,1985,Low intensity
+Bevagna,PERUGIA,Umbria,12.575,42.958,5,3.7,Md,28:26.2,26/04/1994,Aprile,1994,Low intensity
+Campello sul Clitunno,PERUGIA,Umbria,12.845,42.83,5,3.7,Md,40:24.7,19/11/1989,Novembre,1989,Low intensity
+Pisa,PISA,Toscana,10.408,43.738,7.4,3.6,Md,09:26.5,25/08/1995,Agosto,1995,Low intensity
+Pomarance,PISA,Toscana,10.84,43.222,5.8,3.5,Md,38:12.3,06/08/1995,Agosto,1995,Low intensity
+Pomarance,PISA,Toscana,10.944,43.302,5,3.5,Md,48:27.8,20/03/1993,Marzo,1993,Low intensity
+Pomarance,PISA,Toscana,10.792,43.182,5,3.5,Md,52:32.0,24/06/1990,Giugno,1990,Low intensity
+Casole d'Elsa,SIENA,Toscana,10.981,43.311,9.8,3.8,Md,51:49.7,06/08/1993,Agosto,1993,Low intensity
+Radicondoli,SIENA,Toscana,11.041,43.192,5,3.5,Md,03:18.1,09/08/1995,Agosto,1995,Low intensity
+Altamura,BARI,Puglia,16.613,40.797,15.8,3.6,Md,52:33.4,22/06/1988,Giugno,1988,Low intensity
+Serracapriola,FOGGIA,Puglia,15.303,41.917,13.5,3.5,Md,53:59.4,26/03/1986,Marzo,1986,Low intensity
+Leporano,TARANTO,Puglia,17.285,40.176,5,3.5,Md,30:11.3,07/01/1994,Gennaio,1994,Low intensity
+Vallo di Nera,PERUGIA,Umbria,12.86,42.82,5,3.6,Md,48:57.4,12/07/1991,Luglio,1991,Low intensity
+San Venanzo,TERNI,Umbria,12.235,42.836,10,3.6,Md,45:26.8,09/09/1985,Settembre,1985,Low intensity
+San Venanzo,TERNI,Umbria,12.304,42.806,10,3.5,Md,26:29.6,08/09/1985,Settembre,1985,Low intensity
+Terni,TERNI,Umbria,12.708,42.521,5,3.5,Md,32:27.7,11/03/1994,Marzo,1994,Low intensity
+Terni,TERNI,Umbria,12.689,42.598,5,3.5,Md,46:35.6,06/03/1992,Marzo,1992,Low intensity
+Terni,TERNI,Umbria,12.595,42.534,5,3.6,Md,45:49.0,24/09/1989,Settembre,1989,Low intensity
+Castel Giorgio,TERNI,Umbria,12.01,42.675,5,3.5,Md,20:57.8,09/02/1994,Febbraio,1994,Low intensity
+Castel Giorgio,TERNI,Umbria,11.991,42.69,5,3.6,Md,17:52.8,07/02/1992,Febbraio,1992,Low intensity
+Gubbio,PERUGIA,Umbria,12.475,43.421,5,3.7,Md,44:43.2,02/08/1986,Agosto,1986,Low intensity
+Gubbio,PERUGIA,Umbria,12.55,43.303,10,3.6,Md,33:34.1,08/01/1985,Gennaio,1985,Low intensity
+Preci,PERUGIA,Umbria,12.994,42.881,5,3.6,Md,43:15.4,19/11/1989,Novembre,1989,Low intensity
+Massa Martana,PERUGIA,Umbria,12.566,42.801,10,3.5,Md,16:09.3,19/07/1985,Luglio,1985,Low intensity
+Scheggia e Pascelupo,PERUGIA,Umbria,12.721,43.434,5,3.8,Md,39:27.5,30/05/1995,Maggio,1995,Low intensity
+Sellano,PERUGIA,Umbria,12.949,42.875,5,3.6,Md,46:21.4,19/11/1989,Novembre,1989,Low intensity
+Narni,TERNI,Umbria,12.539,42.541,5,3.5,Md,15:58.5,24/09/1989,Settembre,1989,Low intensity
+Spoleto,PERUGIA,Umbria,12.642,42.733,5,3.6,Md,59:44.9,12/09/1990,Settembre,1990,Low intensity
+San Severo,FOGGIA,Puglia,15.333,41.761,5,4,Md,06:00.5,11/03/1989,Marzo,1989,Low intensity
+Foligno,PERUGIA,Umbria,12.886,43.018,5,3.5,Md,17:19.7,25/04/1991,Aprile,1991,Low intensity
+Foligno,PERUGIA,Umbria,12.769,43.022,23.3,4,Md,48:14.9,22/12/1989,Dicembre,1989,Low intensity
+Nocera Umbra,PERUGIA,Umbria,12.842,43.151,5,3.5,Md,51:38.8,08/04/1987,Aprile,1987,Low intensity
+Castelsaraceno,POTENZA,Basilicata,15.956,40.188,6.3,3.5,Md,16:55.9,05/05/1991,Maggio,1991,Low intensity
+Baragiano,POTENZA,Basilicata,15.576,40.7,5,3.8,Md,04:41.2,01/09/1987,Settembre,1987,Low intensity
+Abriola,POTENZA,Basilicata,15.76,40.553,5,3.9,Md,19:11.2,29/05/1989,Maggio,1989,Low intensity
+Castelluccio Inferiore,POTENZA,Basilicata,15.987,40.01,5,3.7,Md,05:47.5,08/01/1988,Gennaio,1988,Low intensity
+Aprigliano,COSENZA,Calabria,16.533,39.177,3.3,3.5,Md,22:16.4,23/02/1995,Febbraio,1995,Low intensity
+Acri,COSENZA,Calabria,16.428,39.532,5,3.7,Md,57:13.4,28/12/1995,Dicembre,1995,Low intensity
+Bonifati,COSENZA,Calabria,15.763,39.417,270.6,4.1,mb,21:11.5,08/09/1986,Settembre,1986,Medium intensity
+Cariati,COSENZA,Calabria,17.124,39.564,5,3.5,Md,26:19.0,17/04/1995,Aprile,1995,Low intensity
+Cariati,COSENZA,Calabria,17.095,39.529,5,3.9,Md,14:13.3,10/08/1993,Agosto,1993,Low intensity
+Amantea,COSENZA,Calabria,15.916,39.013,111.7,3.7,Md,28:08.2,09/05/1993,Maggio,1993,Low intensity
+Muro Lucano,POTENZA,Basilicata,15.509,40.789,5,3.8,Md,33:22.3,28/01/1987,Gennaio,1987,Low intensity
+Muro Lucano,POTENZA,Basilicata,15.433,40.736,5,3.6,Md,39:32.9,09/01/1986,Gennaio,1986,Low intensity
+Vaglio Basilicata,POTENZA,Basilicata,15.876,40.701,10,4.1,Md,02:53.7,28/08/1990,Agosto,1990,Medium intensity
+Vaglio Basilicata,POTENZA,Basilicata,15.892,40.654,5,3.6,Md,00:32.8,06/05/1990,Maggio,1990,Low intensity
+San Martino d'Agri,POTENZA,Basilicata,16.1,40.238,5,4,Md,44:24.3,29/05/1995,Maggio,1995,Low intensity
+Marsico Nuovo,POTENZA,Basilicata,15.769,40.419,5,3.5,Md,35:32.0,12/11/1994,Novembre,1994,Low intensity
+Marsico Nuovo,POTENZA,Basilicata,15.691,40.455,5,3.7,Md,41:26.1,26/08/1990,Agosto,1990,Low intensity
+Potenza,POTENZA,Basilicata,15.757,40.667,5,3.5,Md,55:32.9,05/04/1993,Aprile,1993,Low intensity
+Potenza,POTENZA,Basilicata,15.783,40.669,5,3.6,Md,11:32.7,08/05/1992,Maggio,1992,Low intensity
+Potenza,POTENZA,Basilicata,15.805,40.675,5,4.5,Md,26:01.6,26/05/1991,Maggio,1991,Medium intensity
+Potenza,POTENZA,Basilicata,15.788,40.619,3.2,3.8,Md,59:58.8,05/05/1990,Maggio,1990,Low intensity
+Potenza,POTENZA,Basilicata,15.782,40.685,5,3.6,Md,58:46.0,05/05/1990,Maggio,1990,Low intensity
+Potenza,POTENZA,Basilicata,15.873,40.689,5,3.8,Md,03:49.2,05/05/1990,Maggio,1990,Low intensity
+Potenza,POTENZA,Basilicata,15.817,40.657,5,3.8,Md,59:33.9,05/05/1990,Maggio,1990,Low intensity
+Potenza,POTENZA,Basilicata,15.798,40.679,5,4.4,Md,38:13.0,05/05/1990,Maggio,1990,Medium intensity
+Potenza,POTENZA,Basilicata,15.825,40.64,5,3.5,Md,33:57.3,05/05/1990,Maggio,1990,Low intensity
+Potenza,POTENZA,Basilicata,15.848,40.682,10,5,Md,21:19.5,05/05/1990,Maggio,1990,Medium intensity
+Potenza,POTENZA,Basilicata,15.77,40.641,4.9,4.2,Md,19:50.4,23/07/1986,Luglio,1986,Medium intensity
+Scala Coeli,COSENZA,Calabria,16.876,39.469,5,3.8,Md,28:24.5,25/11/1985,Novembre,1985,Low intensity
+Rossano,COSENZA,Calabria,16.661,39.674,10,3.6,Md,48:19.5,17/01/1992,Gennaio,1992,Low intensity
+San Pietro in Guarano,COSENZA,Calabria,16.389,39.374,5,3.6,Md,04:58.9,30/03/1991,Marzo,1991,Low intensity
+San Donato di Ninea,COSENZA,Calabria,16.004,39.737,282.2,3.5,Md,45:22.4,29/12/1993,Dicembre,1993,Low intensity
+San Demetrio Corone,COSENZA,Calabria,16.371,39.609,10,3.5,Md,29:44.7,10/01/1985,Gennaio,1985,Low intensity
+San Giovanni in Fiore,COSENZA,Calabria,16.687,39.267,5,3.6,Md,22:17.2,24/04/1991,Aprile,1991,Low intensity
+Diamante,COSENZA,Calabria,15.726,39.674,289.8,4.1,Md,40:59.6,21/03/1994,Marzo,1994,Medium intensity
+Diamante,COSENZA,Calabria,15.625,39.639,254.5,4,ML VAX,15:35.0,15/08/1986,Agosto,1986,Low intensity
+Falconara Albanese,COSENZA,Calabria,16.014,39.258,5,3.5,ML MEDNET,44:08.4,08/06/1985,Giugno,1985,Low intensity
+Fuscaldo,COSENZA,Calabria,15.904,39.377,105.4,3.8,ML VAX,36:48.9,19/09/1986,Settembre,1986,Low intensity
+Pietrapaola,COSENZA,Calabria,16.862,39.568,10,3.5,Md,47:30.9,23/12/1985,Dicembre,1985,Low intensity
+Pietrapaola,COSENZA,Calabria,16.776,39.473,5,3.5,Md,49:15.1,23/11/1985,Novembre,1985,Low intensity
+Lago,COSENZA,Calabria,16.174,39.146,7.7,3.9,Md,52:21.5,15/12/1991,Dicembre,1991,Low intensity
+Corigliano Calabro,COSENZA,Calabria,16.492,39.687,5.4,4,Md,53:44.3,08/08/1995,Agosto,1995,Low intensity
+Crosia,COSENZA,Calabria,16.879,39.706,5,3.9,Md,28:28.8,13/04/1988,Aprile,1988,Low intensity
+Reggio di Calabria,REGGIO CALABRIA,Calabria,15.665,38.178,12.4,3.7,Md,44:36.8,14/05/1985,Maggio,1985,Low intensity
+Roccaforte del Greco,REGGIO CALABRIA,Calabria,15.885,38.034,63.2,3.5,Md,24:30.0,07/12/1986,Dicembre,1986,Low intensity
+Motta San Giovanni,REGGIO CALABRIA,Calabria,15.557,37.817,9.8,3.7,Md,55:08.9,08/03/1995,Marzo,1995,Low intensity
+Palizzi,REGGIO CALABRIA,Calabria,16.008,37.941,7.7,3.5,Md,53:44.6,25/09/1991,Settembre,1991,Low intensity
+Polistena,REGGIO CALABRIA,Calabria,16.048,38.419,50.9,3.5,Md,04:20.2,20/05/1995,Maggio,1995,Low intensity
+Sellia Marina,CATANZARO,Calabria,16.739,38.883,23.9,4.2,Md,41:19.3,26/03/1994,Marzo,1994,Medium intensity
+Torrevecchia Teatina,CHIETI,Abruzzo,14.236,42.403,5,3.8,Md,30:10.8,18/02/1992,Febbraio,1992,Low intensity
+Cardeto,REGGIO CALABRIA,Calabria,15.859,38.122,10.2,3.8,Md,36:06.8,21/11/1989,Novembre,1989,Low intensity
+Nocera Terinese,CATANZARO,Calabria,16.068,39.04,56.9,3.5,Md,42:00.3,21/08/1991,Agosto,1991,Low intensity
+Calabritto,AVELLINO,Campania,15.221,40.786,4.4,3.5,Md,21:12.8,20/12/1985,Dicembre,1985,Low intensity
+Lioni,AVELLINO,Campania,15.156,40.819,5,3.6,Md,52:38.1,19/03/1995,Marzo,1995,Low intensity
+Cagnano Amiterno,L'AQUILA,Abruzzo,13.211,42.439,5,4,Md,38:15.2,02/06/1994,Giugno,1994,Low intensity
+Cagnano Amiterno,L'AQUILA,Abruzzo,13.184,42.439,5,3.9,Md,41:24.6,02/06/1994,Giugno,1994,Low intensity
+Campotosto,L'AQUILA,Abruzzo,13.368,42.527,5,3.5,Md,14:17.7,13/03/1994,Marzo,1994,Low intensity
+Capistrello,L'AQUILA,Abruzzo,13.371,41.949,5,4,Md,31:12.5,07/08/1994,Agosto,1994,Low intensity
+Vinchiaturo,CAMPOBASSO,Molise,14.599,41.494,5,3.5,Md,34:13.1,19/03/1992,Marzo,1992,Low intensity
+Apricena,FOGGIA,Puglia,15.487,41.767,10.2,3.9,ML MEDNET,05:44.6,11/03/1989,Marzo,1989,Low intensity
+Ripa Teatina,CHIETI,Abruzzo,14.223,42.344,5,4,Md,38:55.2,16/07/1992,Luglio,1992,Low intensity
+Cagnano Varano,FOGGIA,Puglia,15.729,42.057,10,3.9,M,13:20.1,22/07/1986,Luglio,1986,Low intensity
+Cagnano Varano,FOGGIA,Puglia,15.674,41.928,12,3.5,Md,10:25.0,19/08/1985,Agosto,1985,Low intensity
+Valle Castellana,TERAMO,Abruzzo,13.504,42.722,5,3.5,Md,15:50.4,16/07/1993,Luglio,1993,Low intensity
+Caramanico Terme,PESCARA,Abruzzo,14.017,42.16,9.9,3.5,Md,31:17.2,05/10/1992,Ottobre,1992,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.302,42.38,8.3,3.9,Md,25:49.6,25/08/1992,Agosto,1992,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.345,42.332,5,3.5,Md,49:34.0,26/09/1986,Settembre,1986,Low intensity
+L'Aquila,L'AQUILA,Abruzzo,13.379,42.301,5.4,3.5,Md,04:17.1,23/05/1985,Maggio,1985,Low intensity
+Lucoli,L'AQUILA,Abruzzo,13.327,42.257,6.9,3.8,Md,40:28.4,19/05/1985,Maggio,1985,Low intensity
+Lucoli,L'AQUILA,Abruzzo,13.343,42.273,10,3.7,Md,37:22.0,19/05/1985,Maggio,1985,Low intensity
+Magliano de' Marsi,L'AQUILA,Abruzzo,13.254,42.128,5,3.6,Md,26:32.0,26/01/1991,Gennaio,1991,Low intensity
+Montereale,L'AQUILA,Abruzzo,13.168,42.522,5,3.5,Md,47:22.8,24/10/1992,Ottobre,1992,Low intensity
+Pettoranello del Molise,ISERNIA,Molise,14.282,41.584,4.9,3.5,Md,43:33.4,17/01/1986,Gennaio,1986,Low intensity
+Sant'Agapito,ISERNIA,Molise,14.22,41.56,4.1,3.5,Md,22:49.7,18/01/1986,Gennaio,1986,Low intensity
+Chieuti,FOGGIA,Puglia,15.177,41.839,5.2,3.5,Md,09:21.6,22/07/1993,Luglio,1993,Low intensity
+Lesina,FOGGIA,Puglia,15.358,41.978,7.3,3.5,Md,51:42.0,20/06/1990,Giugno,1990,Low intensity
+San Giovanni Rotondo,FOGGIA,Puglia,15.784,41.662,25,3.6,Md,26:24.9,01/12/1995,Dicembre,1995,Low intensity
+San Giovanni Rotondo,FOGGIA,Puglia,15.798,41.659,10,3.7,Md,34:29.3,05/11/1992,Novembre,1992,Low intensity
+San Giovanni Rotondo,FOGGIA,Puglia,15.842,41.691,11.7,3.8,Md,45:27.8,27/10/1985,Ottobre,1985,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.529,42.116,5,3.7,Md,15:29.3,13/02/1990,Febbraio,1990,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.499,42.133,5,3.5,Md,04:54.7,05/02/1990,Febbraio,1990,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.584,42.131,5,4.1,Md,24:15.8,01/02/1990,Febbraio,1990,Medium intensity
+Isole Tremiti,FOGGIA,Puglia,15.573,42.086,5,3.5,Md,58:17.9,31/01/1990,Gennaio,1990,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.692,42.119,5,3.6,Md,22:11.8,31/01/1990,Gennaio,1990,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.593,42.166,5,4.1,Md,38:27.2,06/10/1989,Ottobre,1989,Medium intensity
+Isole Tremiti,FOGGIA,Puglia,15.627,42.099,5,3.6,Md,34:50.4,05/10/1989,Ottobre,1989,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.543,42.119,5,3.5,Md,31:39.4,05/10/1989,Ottobre,1989,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.544,42.13,5,3.8,Md,09:17.5,05/10/1989,Ottobre,1989,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.5,42.124,10,3.7,Md,28:56.7,22/08/1989,Agosto,1989,Low intensity
+Isole Tremiti,FOGGIA,Puglia,15.427,42.019,5,4,Md,05:58.4,24/08/1988,Agosto,1988,Low intensity
+Lucera,FOGGIA,Puglia,15.425,41.531,5,3.5,Md,28:33.9,27/08/1995,Agosto,1995,Low intensity
+Carpino,FOGGIA,Puglia,15.934,41.806,22.6,3.6,Md,51:50.0,05/10/1995,Ottobre,1995,Low intensity
+Carpino,FOGGIA,Puglia,15.903,41.803,22.1,4.4,Md,14:34.3,30/09/1995,Settembre,1995,Medium intensity
+Manfredonia,FOGGIA,Puglia,15.855,41.669,15.1,3.5,Md,21:53.5,25/11/1989,Novembre,1989,Low intensity
+Scandale (KR),CROTONE,Calabria,16.943,39.124,5,3.7,Md,18:57.3,24/01/1990,Gennaio,1990,Low intensity
+Scandale (KR),CROTONE,Calabria,17.025,39.104,9.6,4,ML VAX,45:03.4,24/01/1990,Gennaio,1990,Low intensity
+Isola di Capo Rizzuto (KR),CROTONE,Calabria,17.089,38.773,5,4,Md,58:31.9,15/06/1991,Giugno,1991,Low intensity
+Pieve Vergonte (VB),VERBANIA,Piemonte,8.247,45.979,5,3.7,Md,28:37.1,14/06/1993,Giugno,1993,Low intensity
+Tropea (VV),VIBO VALENTIA,Calabria,15.836,38.755,187.9,3.8,mb,41:07.1,09/11/1986,Novembre,1986,Low intensity
+Stilo,REGGIO CALABRIA,Calabria,16.364,38.521,15.7,3.5,Md,34:24.9,10/06/1986,Giugno,1986,Low intensity
+Carovilli,ISERNIA,Molise,14.337,41.707,10,4,M,04:07.2,12/01/1986,Gennaio,1986,Low intensity
+Tramonti di Sopra,PORDENONE,Friuli-Venezia Giulia,12.645,46.305,5,3.9,Md,25:26.4,20/04/1994,Aprile,1994,Low intensity
+Vito d'Asio,PORDENONE,Friuli-Venezia Giulia,12.954,46.236,5,4.1,Md,05:54.5,11/06/1991,Giugno,1991,Medium intensity
+Altidona (FM),FERMO,Marche,13.877,43.153,5,3.6,Md,36:47.5,30/05/1988,Maggio,1988,Low intensity
+Altidona (FM),FERMO,Marche,13.982,43.196,8.4,3.9,Md,15:34.3,20/10/1986,Ottobre,1986,Low intensity
+Montappone (FM),FERMO,Marche,13.469,43.13,5,3.5,Md,09:22.8,04/03/1993,Marzo,1993,Low intensity
+VALSAMOGGIA,BOLOGNA,Emilia-Romagna,11.034,44.432,5,3.8,Md,59:08.2,17/04/1992,Aprile,1992,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.844,43.212,5,4,Md,24:55.4,22/09/1987,Settembre,1987,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.891,43.218,5,3.8,Md,24:23.9,10/09/1987,Settembre,1987,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.846,43.209,10,4,Md,42:50.7,04/09/1987,Settembre,1987,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.848,43.205,5,3.7,Md,54:18.3,05/07/1987,Luglio,1987,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.869,43.2,5,3.7,Md,38:04.2,03/07/1987,Luglio,1987,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.85,43.201,5,3.6,Md,55:24.7,03/07/1987,Luglio,1987,Low intensity
+Porto San Giorgio (FM),FERMO,Marche,13.849,43.197,5,4.9,Md,21:58.7,03/07/1987,Luglio,1987,Medium intensity
+Porto San Giorgio (FM),FERMO,Marche,13.934,43.198,5,3.8,Md,29:27.2,17/10/1986,Ottobre,1986,Low intensity
+Porto Sant'Elpidio (FM),FERMO,Marche,13.721,43.254,10,3.5,Md,11:15.8,19/07/1985,Luglio,1985,Low intensity
+Falerone (FM),FERMO,Marche,13.476,43.111,5,3.7,Md,22:10.2,30/12/1995,Dicembre,1995,Low intensity
+Montefortino (FM),FERMO,Marche,13.242,42.945,5,3.5,Md,12:02.5,06/08/1993,Agosto,1993,Low intensity
+Montefortino (FM),FERMO,Marche,13.237,42.938,3.9,4,Md,10:00.5,13/10/1986,Ottobre,1986,Low intensity
+Montefortino (FM),FERMO,Marche,13.258,42.924,5,3.9,Md,07:55.5,13/10/1986,Ottobre,1986,Low intensity
+Isernia,ISERNIA,Molise,14.244,41.596,5,3.5,Md,09:57.7,17/01/1986,Gennaio,1986,Low intensity
+Isernia,ISERNIA,Molise,14.257,41.564,5,3.9,Md,03:52.2,14/03/1985,Marzo,1985,Low intensity
+Longano,ISERNIA,Molise,14.264,41.516,10,3.6,Md,32:47.3,18/01/1986,Gennaio,1986,Low intensity
+Sant'Alfio,CATANIA,Sicilia,15.127,37.753,4.5,3.7,Md,08:51.4,27/07/1989,Luglio,1989,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.1,37.677,5,3.6,Md,31:34.8,03/08/1993,Agosto,1993,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.04,37.752,13.4,3.5,Md,36:01.2,23/10/1991,Ottobre,1991,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.051,37.719,5,3.7,Md,57:49.9,21/08/1989,Agosto,1989,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.116,37.698,5,3.5,Md,32:54.7,03/11/1986,Novembre,1986,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.027,37.7,5,3.5,Md,39:50.9,07/10/1986,Ottobre,1986,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.06,37.691,5,3.7,Md,28:42.7,05/10/1986,Ottobre,1986,Low intensity
+Zafferana Etnea,CATANIA,Sicilia,15.031,37.684,10,3.5,Md,14:00.1,01/03/1985,Marzo,1985,Low intensity
+Ragusa,RAGUSA,Sicilia,14.537,36.647,5,3.5,Md,21:09.0,29/10/1990,Ottobre,1990,Low intensity
+Augusta,SIRACUSA,Sicilia,15.367,37.251,6.4,3.8,Md,50:28.1,16/12/1990,Dicembre,1990,Low intensity
+Augusta,SIRACUSA,Sicilia,15.266,37.403,10,3.5,Md,10:04.8,02/02/1986,Febbraio,1986,Low intensity
+Augusta,SIRACUSA,Sicilia,15.33,37.41,10.4,3.6,Md,18:22.2,13/06/1985,Giugno,1985,Low intensity
+Siracusa,SIRACUSA,Sicilia,15.468,37.195,5,4.7,Md,24:26.1,13/12/1990,Dicembre,1990,Medium intensity
+Ali' Terme,MESSINA,Sicilia,15.508,37.966,8.3,3.5,Md,39:19.0,07/09/1991,Settembre,1991,Low intensity
+Lipari,MESSINA,Sicilia,14.638,38.502,5,4.4,Md,44:23.2,23/07/1995,Luglio,1995,Medium intensity
+Lipari,MESSINA,Sicilia,14.929,38.357,2.8,3.7,Md,26:26.8,27/11/1994,Novembre,1994,Low intensity
+Lipari,MESSINA,Sicilia,15.229,38.813,6,3.7,Md,26:03.4,07/11/1994,Novembre,1994,Low intensity
+Lipari,MESSINA,Sicilia,14.97,38.336,5.1,3.6,Md,03:58.2,07/07/1994,Luglio,1994,Low intensity
+Lipari,MESSINA,Sicilia,14.982,38.803,304.1,3.5,Md,26:42.4,27/11/1993,Novembre,1993,Low intensity
+Lipari,MESSINA,Sicilia,14.575,38.508,10.1,3.5,Md,43:12.7,01/03/1993,Marzo,1993,Low intensity
+Lipari,MESSINA,Sicilia,15.014,38.564,244.1,4.3,Md,46:15.7,25/04/1992,Aprile,1992,Medium intensity
+Lipari,MESSINA,Sicilia,15.227,38.802,10.4,3.7,Md,40:27.8,03/10/1991,Ottobre,1991,Low intensity
+Lipari,MESSINA,Sicilia,15.004,38.508,262.9,4.7,mb,19:08.2,30/11/1986,Novembre,1986,Medium intensity
+Lipari,MESSINA,Sicilia,14.931,38.319,7.2,3.6,Md,16:17.4,12/10/1986,Ottobre,1986,Low intensity
+Lipari,MESSINA,Sicilia,14.933,38.319,10,3.6,Md,32:40.5,12/10/1986,Ottobre,1986,Low intensity
+Lipari,MESSINA,Sicilia,15.303,38.728,146.1,3.5,ML VAX,08:11.4,27/09/1986,Settembre,1986,Low intensity
+Giardini-Naxos,MESSINA,Sicilia,15.367,37.71,5,3.7,Md,52:57.1,31/10/1989,Ottobre,1989,Low intensity
+Gioiosa Marea,MESSINA,Sicilia,14.906,38.169,11.4,3.5,Md,31:54.1,05/04/1985,Aprile,1985,Low intensity
+Leni,MESSINA,Sicilia,14.722,38.396,12.4,3.6,Md,43:07.5,05/06/1988,Giugno,1988,Low intensity
+Leni,MESSINA,Sicilia,14.742,38.387,5,3.7,Md,19:26.3,30/03/1988,Marzo,1988,Low intensity
+Leni,MESSINA,Sicilia,14.744,38.483,5,3.5,Md,18:12.6,03/05/1986,Maggio,1986,Low intensity
+Milazzo,MESSINA,Sicilia,15.194,38.256,10.3,4,Md,42:14.5,27/08/1995,Agosto,1995,Low intensity
+Milazzo,MESSINA,Sicilia,15.269,38.391,152.1,3.6,ML MEDNET,33:20.0,30/08/1986,Agosto,1986,Low intensity
+Alcara Li Fusi,MESSINA,Sicilia,14.701,37.98,8.7,3.5,Md,55:36.3,22/12/1991,Dicembre,1991,Low intensity
+Cesaro',MESSINA,Sicilia,14.566,37.853,8.5,3.5,Md,09:36.7,06/04/1992,Aprile,1992,Low intensity
+Cesaro',MESSINA,Sicilia,14.734,37.829,5.4,3.6,Md,18:17.1,02/09/1989,Settembre,1989,Low intensity
+Malfa,MESSINA,Sicilia,14.704,38.721,230.4,4.2,mb,11:43.6,20/05/1985,Maggio,1985,Medium intensity
+Pantelleria,TRAPANI,Sicilia,11.746,36.704,10,3.7,Md,12:21.7,21/12/1992,Dicembre,1992,Low intensity
+Pantelleria,TRAPANI,Sicilia,11.961,36.564,5,3.6,Md,56:48.6,27/06/1985,Giugno,1985,Low intensity
+Partanna,TRAPANI,Sicilia,12.87,37.735,8.2,3.8,Md,39:17.0,25/08/1985,Agosto,1985,Low intensity
+Gangi,PALERMO,Sicilia,14.21,37.7,10,3.8,Md,54:52.6,06/06/1987,Giugno,1987,Low intensity
+Cefalu',PALERMO,Sicilia,14.031,38.044,5,3.5,Md,50:28.6,11/09/1992,Settembre,1992,Low intensity
+Cinisi,PALERMO,Sicilia,13.039,38.322,9.5,4,Md,49:50.4,09/08/1985,Agosto,1985,Low intensity
+Favignana,TRAPANI,Sicilia,12.145,37.974,5,3.5,Md,21:27.6,31/05/1995,Maggio,1995,Low intensity
+Favignana,TRAPANI,Sicilia,12.16,37.871,5,4.3,Md,52:28.6,29/05/1995,Maggio,1995,Medium intensity
+San Mauro Castelverde,PALERMO,Sicilia,14.212,37.919,5,4.4,Md,47:54.0,26/06/1993,Giugno,1993,Medium intensity
+Cerami,ENNA,Sicilia,14.529,37.846,5,3.7,Md,08:32.5,07/04/1991,Aprile,1991,Low intensity
+Caltanissetta,CALTANISSETTA,Sicilia,13.964,37.576,5,3.8,Md,06:50.6,11/04/1995,Aprile,1995,Low intensity
+Caltanissetta,CALTANISSETTA,Sicilia,14.005,37.517,8.1,3.5,Md,12:05.9,28/06/1988,Giugno,1988,Low intensity
+Calascibetta,ENNA,Sicilia,14.207,37.648,5,3.8,Md,09:50.0,06/05/1994,Maggio,1994,Low intensity
+Acireale,CATANIA,Sicilia,15.264,37.557,10,4.3,Md,00:53.0,15/12/1991,Dicembre,1991,Medium intensity
+Acireale,CATANIA,Sicilia,15.118,37.65,5,3.5,Md,55:50.0,01/10/1989,Ottobre,1989,Low intensity
+Acireale,CATANIA,Sicilia,15.202,37.643,9.1,4,Md,34:03.2,26/12/1985,Dicembre,1985,Low intensity
+Aci Sant'Antonio,CATANIA,Sicilia,15.116,37.613,5,3.5,Md,15:42.2,02/10/1989,Ottobre,1989,Low intensity
+Torregrotta,MESSINA,Sicilia,15.332,38.291,180,4.2,mb,02:59.3,01/09/1986,Settembre,1986,Medium intensity
+Bronte,CATANIA,Sicilia,14.922,37.754,10.6,3.5,Md,03:15.7,24/09/1989,Settembre,1989,Low intensity
+Bronte,CATANIA,Sicilia,14.79,37.726,5.9,3.6,Md,19:22.2,02/02/1987,Febbraio,1987,Low intensity
+Troina,ENNA,Sicilia,14.663,37.746,5,3.5,Md,26:50.5,05/06/1995,Giugno,1995,Low intensity
+Troina,ENNA,Sicilia,14.704,37.794,17.5,3.7,Md,55:16.1,27/09/1992,Settembre,1992,Low intensity
+Troina,ENNA,Sicilia,14.642,37.797,6.7,3.8,Md,08:33.9,06/04/1992,Aprile,1992,Low intensity
+Castiglione di Sicilia,CATANIA,Sicilia,15.038,37.847,14.6,3.6,Md,22:09.2,13/08/1987,Agosto,1987,Low intensity
+Cattolica Eraclea,AGRIGENTO,Sicilia,13.157,37.251,5.4,3.6,Md,23:13.8,06/08/1992,Agosto,1992,Low intensity
+Tusa,MESSINA,Sicilia,14.191,38.008,5.1,3.5,Md,35:52.9,26/06/1993,Giugno,1993,Low intensity
+Tusa,MESSINA,Sicilia,14.186,38.018,5.8,3.5,Md,30:17.1,10/05/1993,Maggio,1993,Low intensity
+Lampedusa e Linosa,AGRIGENTO,Sicilia,12.922,35.794,10,3.8,Md,42:40.4,12/06/1988,Giugno,1988,Low intensity
+Lampedusa e Linosa,AGRIGENTO,Sicilia,12.721,35.991,30.3,3.8,Md,35:18.8,29/01/1987,Gennaio,1987,Low intensity
+Patti,MESSINA,Sicilia,15.002,38.105,21,3.9,Md,47:31.8,28/03/1990,Marzo,1990,Low intensity
+Pollina,PALERMO,Sicilia,14.086,37.998,5,3.5,Md,42:55.9,07/01/1991,Gennaio,1991,Low intensity
+Sant'Alessio Siculo,MESSINA,Sicilia,15.373,37.873,3.3,3.7,Md,58:55.4,24/07/1995,Luglio,1995,Low intensity
+Randazzo,CATANIA,Sicilia,15.01,37.884,15.4,3.6,ML VAX,54:02.2,20/08/1991,Agosto,1991,Low intensity
+Randazzo,CATANIA,Sicilia,14.741,37.698,8.5,4.1,Md,08:43.8,02/02/1987,Febbraio,1987,Medium intensity
+Riposto,CATANIA,Sicilia,15.249,37.722,5,3.8,Md,18:05.0,29/10/1986,Ottobre,1986,Low intensity
+Maletto,CATANIA,Sicilia,14.887,37.794,9.9,3.8,Md,21:21.0,12/10/1993,Ottobre,1993,Low intensity
+Mascali,CATANIA,Sicilia,15.171,37.765,5,4.1,Md,48:46.6,28/10/1988,Ottobre,1988,Medium intensity
+Nicolosi,CATANIA,Sicilia,15.024,37.674,9.6,3.7,Md,15:48.1,10/02/1995,Febbraio,1995,Low intensity
+Nicolosi,CATANIA,Sicilia,15.006,37.668,5,3.5,Md,59:53.6,22/03/1990,Marzo,1990,Low intensity
+Nicolosi,CATANIA,Sicilia,15.021,37.661,5,3.6,Md,39:12.4,16/03/1990,Marzo,1990,Low intensity
+Pedara,CATANIA,Sicilia,15.049,37.628,5,3.5,Md,52:06.6,16/03/1990,Marzo,1990,Low intensity
+Paterno',CATANIA,Sicilia,14.859,37.586,8.8,3.5,Md,54:35.0,20/09/1991,Settembre,1991,Low intensity
+Paterno',CATANIA,Sicilia,14.885,37.582,5,3.5,Md,00:29.6,11/01/1986,Gennaio,1986,Low intensity
+Paterno',CATANIA,Sicilia,14.916,37.565,10,3.6,Md,53:09.3,11/09/1985,Settembre,1985,Low intensity
+Piedimonte Etneo,CATANIA,Sicilia,15.037,37.767,10,3.7,Md,44:23.7,19/06/1988,Giugno,1988,Low intensity
